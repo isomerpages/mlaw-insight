@@ -40,7 +40,7 @@ info-sections:
     section-description: description
     section-more-button: Follow us!
     section-more-button-url: /about-us/
-    section-image-path: /images/image-file.jpg
+    section-image-path: /images/test-image.png
     
   - section-title: Test title
     section-subtitle: Test subtitle
