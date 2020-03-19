@@ -22,11 +22,15 @@ button:
     
 key-highlights:
   - title: Our People
+    description: 
     url: /our-people/
   - title: Going Global
+    description: 
     url: /going-global/   
   - title: Legal Developments
+    description: 
     url: /legal-developments/
   - title: Future of Law
+    description: 
     url: /future-of-law/
   
