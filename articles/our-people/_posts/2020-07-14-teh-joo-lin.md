@@ -97,6 +97,7 @@ He says: “Some people ask me if promoting commercial mediation is meaningful a
   <img src="/images/TJLpic7.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin7">
 </div><sup>Joo Lin (bottom row, second from left)</sup>
 
+
 <div class="image">
   <img src="/images/TJLpic8.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin8">
 </div>
