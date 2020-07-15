@@ -96,12 +96,12 @@ He says: “Some people ask me if promoting commercial mediation is meaningful a
 <div class="image">
   <img src="/images/TJLpic7.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin7">
 </div><sup>Joo Lin (bottom row, second from left)</sup>
-                                                        
+
+The current role also enables him to draw on his knowledge and experience in law and communications, giving him a head start of sorts. 
+
 <div class="image">
   <img src="/images/TJLpic8.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin8">
-</div>
-
-Milestone celebration for Singapore International Mediation Centre (SIMC) crossing its 100th case. Photo taken on 3 Mar 2020.
+</div><sup>Milestone celebration for Singapore International Mediation Centre (SIMC) crossing its 100th case. Photo taken on 3 Mar 2020.</sup>
 
 The current role also enables him to draw on his knowledge and experience in law and communications, giving him a head start of sorts. 
  
