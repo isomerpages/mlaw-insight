@@ -37,8 +37,9 @@ The Ministry of Law also comprises these Statutory Boards and Agency:
 
 You can find us at:
 
-Facebook – facebook.com/minlawsg
-Instagram – instagram.com/minlawsg
-Twitter – twitter.com/minlawsg
+[LinkedIn](https://www.linkedin.com/company/minlawsg)
+[Facebook](https://www.facebook.com/minlawsg)
+[Instagram](https://www.instagram.com/minlawsg)
+[Twitter](https://www.twitter.com/minlawsg)
 
-<p class="right-side-updated">Last updated on 16 March 2020</p>
+<p class="right-side-updated">Last updated on 15 July 2020</p>

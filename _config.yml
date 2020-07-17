@@ -23,9 +23,14 @@ breadcrumbs:
 # Resource Room and Pagination
 paginate: 12
 
+collections:
+  articles:
+    output: true
+
 # Homepage sections
 homepage_hero_i_want_to: false
 homepage_resources: true
+resources_name: articles
 
 # Feedback Form URL
 feedback_form_url: ""

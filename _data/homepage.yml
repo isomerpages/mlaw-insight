@@ -13,7 +13,7 @@ agency-logo: /images/isomer-logo.svg
 # Hero Banner
 hero-title: Insight MinLaw
 hero-subtitle: Uncover the stories inside MinLaw
-hero-banner: /images/bannerinsightminlaw.jpg
+hero-banner: /images/insightmlaw_banner1.jpeg
 
 #Call to Action Button
 button:
@@ -35,30 +35,12 @@ key-highlights:
     url: /future-of-law/
 
 info-sections:
-  - section-title: Test title
-    section-subtitle: Test subtitle
-    section-description: description
-    section-more-button: Follow us!
-    section-more-button-url: /about-us/
-    section-image-path: /images/test-image.png
+  - section-description: Keep abreast with the latest legal trends & developments 
+    section-subtitle: Follow Us!
+    section-more-button: LinkedIn
+    section-more-button-url: http://linkedin.com/company/minlawsg
+    section-image-path: /images/LID1.jpeg
     
-  - section-title: Test title
-    section-subtitle: Test subtitle
-    section-description: description
-    section-more-button: Follow us!
-    section-more-button-url: /about-us/
-    section-image-path: /images/image-file.jpg
-    
-  - section-title: Test title
-    section-subtitle: Test subtitle
-    section-description: description
-    section-more-button: Follow us!
-    section-more-button-url: /about-us/
-    section-image-path: /images/image-file.jpg
 
-# Resources Section
-resources-title:  Articles
-resources-subtitle: Substitle
-resources-more-button: Read More
-resources-more-button-url: /articles/
+
 
