@@ -8,6 +8,9 @@ breadcrumb: Our People
 
 ### **Shifting Gears: From Media to Mediation**
 
+<i>Insight MinLaw goes behind the scenes to uncover stories about how the work we do impacts you.</i>
+<br>
+
 Career shifts sometimes call for leaps into the unknown.
  
 This has not stopped Mr Teh Joo Lin from exploring new paths in his work life, including a mid-career switch that has seen him move from the media to the mediation scene.
