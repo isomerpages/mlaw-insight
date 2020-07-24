@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Shifting Gears: From Media to Mediation"
-date:   2020-07-14
-permalink: /articles/our-people/2020-07-14-teh-joo-lin-shifting-gears-from-media-to-mediation
+date:   2020-07-23
+permalink: /articles/our-people/2020-07-23-teh-joo-lin-shifting-gears-from-media-to-mediation
 breadcrumb: Our People
 ---
 
@@ -122,4 +122,4 @@ Asked if his mid-career switch had impeded his professional development, Mr Teh 
 “On both counts, I believe the answer is ‘yes’.”
 
 
-<p class="right-side-updated">Last updated on 14 July 2020</p>
+<p class="right-side-updated">Last updated on 23 July 2020</p>
