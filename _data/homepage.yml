@@ -5,10 +5,10 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-minlaw.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/mlaw-logo.png
 
 # Hero Banner
 hero-title: Insight MinLaw
@@ -36,7 +36,7 @@ key-highlights:
 
 info-sections:
   - section-description: Keep abreast with the latest legal trends & developments 
-    section-subtitle: Follow Us!
+    section-subtitle: Follow Us
     section-more-button: LinkedIn
     section-more-button-url: http://linkedin.com/company/minlawsg
     section-image-path: /images/LID1.jpeg
