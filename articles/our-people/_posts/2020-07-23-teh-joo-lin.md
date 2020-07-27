@@ -71,7 +71,7 @@ He says: “In some cases, parties are fighting at every step of the way just to
  
 He found the answer when he joined the Ministry of Law in January 2016.
  
-As a lawyer in the Policy Advisory Division, he was part of a team that worked on Singapore’s mediation legal frameworks. The projects included the Singapore Convention on Mediation, a ground-breaking treaty that allows businesses to enforce cross-border settlement agreements efficiently. The UN treaty, which has 52 signatories, opened for signature last August and will come into force this September. 
+As a lawyer in the Policy Advisory Division, he was part of a team that worked on Singapore’s mediation legal frameworks. The projects included the Singapore Convention on Mediation, a ground-breaking treaty that allows businesses to enforce cross-border settlement agreements efficiently. The UN treaty, which has 53 signatories, opened for signature last August and will come into force this September. 
  
 He says: “To me, the magic of mediation is how it can be used to resolve conflicts quickly and inexpensively, and still preserve the relationship.  This is so whether one is talking about neighbourhood and family disputes, or commercial and international disputes. The result is to build and not destroy value.
  
