@@ -79,7 +79,7 @@ He says: “To me, the magic of mediation is how it can be used to resolve confl
 
 <div class="image">
   <img src="/images/TJLpic5.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin5">
-</div>
+</div><sup>Mr Teh with colleagues from the Ministry of Law.</sup>
 
 His three-year stint at the Ministry of Law has given him a deeper perspective of the public service’s role.
  
@@ -99,7 +99,7 @@ He says: “Some people ask me if promoting commercial mediation is meaningful a
 
 <div class="image">
   <img src="/images/TJLpic7.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin7">
-</div><sup>Joo Lin (bottom row, second from left)</sup>
+</div><sup>Mr Teh (bottom row, second from left)</sup>
 
 <div class="image">
   <img src="/images/TJLpic8.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin8">
