@@ -10,6 +10,9 @@ favicon: /images/favicon-minlaw.ico
 # Agency logo
 agency-logo: /images/mlaw-logo.png
 
+# Google Analytics
+google-analytics: UA-10405444-22
+
 # Hero Banner
 hero-title: Insight MinLaw
 hero-subtitle: Uncover the stories inside MinLaw
