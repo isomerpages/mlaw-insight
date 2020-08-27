@@ -84,6 +84,7 @@ In addition, as part of his broader work, Mr Foo has also been involved in vario
 </div>
 
 Today, while Mr Foo no longer prepares arguments for the courtroom, he nevertheless analyses and argues points of law in the classroom with future legal eagles. As a facilitator for the preparatory course for the Singapore Bar Examinations, he helps aspiring lawyers as they seek to embark on their careers in the legal profession.
+
 He says: “I view it as a privilege to be able to use my experience and expertise to help younger lawyers in their journey, just as I have benefitted and continue to receive guidance and wisdom from others.”
 
 
