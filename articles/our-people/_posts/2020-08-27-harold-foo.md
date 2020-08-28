@@ -90,5 +90,5 @@ He says: “I view it as a privilege to be able to use my experience and experti
 
 <p class="right-side-updated">Last updated on 27 Aug 2020</p>
 
-<u>Related Links</u>: <br>
+<i>Related Links</i>: <br>
 [Teh Joo Lin - Shifting Gears: From Media to Mediation](/articles/our-people/2020-07-23-teh-joo-lin-shifting-gears-from-media-to-mediation)
