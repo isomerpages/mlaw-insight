@@ -2,7 +2,6 @@
 layout: homepage
 title: 'Insight MinLaw'
 permalink: /
-notification: 'This website is in beta - your valuable <a href="https://www.google.com">feedback</a> will help us in improving it.'
 sections:
     -
         hero:
@@ -30,21 +29,13 @@ sections:
                     url: /future-of-law/
     -
         infopic:
-            title: null
-            subtitle: 'Follow Us'
+            title: 'Follow Us'
+            subtitle: null
             description: 'Keep abreast with the latest legal trends & developments'
             url: 'http://linkedin.com/company/minlawsg'
             image: /images/LID1.jpeg
-            alt: null
+            alt: 'Follow Us'
             button: LinkedIn
-    -
-        carousel: []
-    -
-        resources:
-            title: null
-            subtitle: null
-            button: null
-            url: null
 
 ---
 
