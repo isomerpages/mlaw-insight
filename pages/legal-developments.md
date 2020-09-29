@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Legal Developments
+title: 'Legal Developments'
 permalink: /legal-developments/
-breadcrumb: Legal Developments
+breadcrumb: 'Legal Developments'
+
 ---
+
 <div class="image">
   <img src="/images/LegalDevelopments1.jpg/" title="Legal Developments" alt="Legal Developments">
 </div>
