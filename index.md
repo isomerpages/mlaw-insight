@@ -36,6 +36,15 @@ sections:
             image: /images/LID1.jpeg
             alt: 'Follow Us'
             button: LinkedIn
+            
+    -
+        resources:
+            title: null
+            subtitle: null
+            button: null
+            url: null
+            button: null
+            url: null
 
 ---
 
