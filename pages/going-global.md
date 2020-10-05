@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Going Global
+title: 'Going Global'
 permalink: /going-global/
-breadcrumb: Going Global
+breadcrumb: 'Going Global'
+
 ---
+
 <div class="image">
   <img src="/images/GoingGlobal2.jpg/" title="Going Global" alt="Going Global">
 </div>

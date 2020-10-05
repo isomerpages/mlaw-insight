@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Future of Law
+title: 'Future of Law'
 permalink: /future-of-law/
-breadcrumb: Future of Law
+breadcrumb: 'Future of Law'
+
 ---
+
 <div class="image">
   <img src="/images/FutureofLaw1.jpeg/" title="Future of Law" alt="Future of Law">
 </div>

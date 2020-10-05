@@ -1,19 +1,16 @@
 ---
-layout: simple-page
-title: About Us
+title: 'About Us'
 permalink: /about-us/
-breadcrumb: About Us
+breadcrumb: 'About Us'
 ---
 
-Uncover the Stories Inside MinLaw
----
+## Uncover the Stories Inside MinLaw
 
 We aim to demystify legal speak to ensure that Singapore’s legal framework is clear and transparent to all.
 
 In line with our vision, “A trusted legal system, a trusted Singapore”, MinLaw believes that keeping the legal industry and community abreast with latest trends and developments, as well as staying relevant, upholds a strong foundation for an evolving Singapore.
 
-What We Do:
----
+## What We Do:
 
 The Ministry of Law plays the following key roles:
 

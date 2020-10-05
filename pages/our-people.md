@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Our People
+title: 'Our People'
 permalink: /our-people/
-breadcrumb: Our People
+breadcrumb: 'Our People'
+
 ---
+
 <div class="image">
   <img src="/images/OurPeople1.jpeg/" title="Our People" alt="Our People">
 </div>
