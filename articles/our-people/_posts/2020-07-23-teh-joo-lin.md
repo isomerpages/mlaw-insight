@@ -126,4 +126,5 @@ Asked if his mid-career switch had impeded his professional development, Mr Teh 
 <p class="right-side-updated">Last updated on 23 July 2020</p>
 
 <i>Related Links</i>: <br>
-[Harold Foo - From Arguing to Shaping Our Laws](/articles/our-people/2020-08-27-harold-foo-from-arguing-to-shaping-laws)
+[Harold Foo - From Arguing to Shaping Our Laws](/articles/our-people/2020-08-27-harold-foo-from-arguing-to-shaping-laws)<br>
+[Maryam Hasanah Rozlan & Ng Xinyuan - Advancing Mediation: From Practice to Policy](/articles/our-people/2020-10-05-maryam-xinyuan-advancing-mediation)
