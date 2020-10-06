@@ -111,5 +111,5 @@ Ms Maryam shares: “Having a meaningful career is important to me. I found my w
 <p class="right-side-updated">Last updated on 6 Oct 2020</p>
 
 <i>Related Links</i>: <br>
-[Teh Joo Lin - Shifting Gears: From Media to Mediation](/articles/our-people/2020-07-23-teh-joo-lin-shifting-gears-from-media-to-mediation)
+[Teh Joo Lin - Shifting Gears: From Media to Mediation](/articles/our-people/2020-07-23-teh-joo-lin-shifting-gears-from-media-to-mediation) <br>
 [Harold Foo - From Arguing to Shaping Our Laws](/articles/our-people/2020-08-27-harold-foo-from-arguing-to-shaping-laws)
