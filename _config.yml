@@ -30,7 +30,7 @@ exclude:
     - Gemfile.lock
 facebook-pixel: 255277428824423
 favicon: /images/favicon-minlaw.ico
-google-analytics: UA-10405444-22
+google_analytics: UA-10405444-22
 permalink: none
 baseurl: ""
 defaults:
