@@ -14,9 +14,9 @@ breadcrumb: 'Legal Developments'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2IdL1OY1loE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<b><i>“These ground-up initiatives by the students are a timely and valuable service to the community. They complement our existing communications and outreach plans on the COVID-19 (Temporary Measures) Act,” said Mr Colin Chow, Director (Civil & Legislative Policy) at MinLaw.
+<b><i>“These ground-up initiatives by the students are a timely and valuable service to the community. They complement our existing communications and outreach plans on the COVID-19 (Temporary Measures) Act,” said Mr Colin Chow, Director (Civil & Legislative Policy) at MinLaw.</i></b>
 
-The Act offers temporary legal reliefs to businesses and individuals who have been affected by the COVID-19 pandemic.</i></b>
+<b><i>The Act offers temporary legal reliefs to businesses and individuals who have been affected by the COVID-19 pandemic.</i></b>
 
 <b><i>Portal for the Community</i></b>
 
@@ -28,8 +28,7 @@ For the students, this was an opportunity to put their legal education into prac
 
 <div class="image">
   <img src="/images/Students2.jpg/" title="Justin and Jeanette" alt="Justin and Jeanette">
-</div>
-<br>From left: Justin and Jeanette
+</div> From left: Justin and Jeanette
 
 Together with Jeanette Tang, his sister and fellow second-year law undergraduate at SMU, the group looked at various sources of information, such as ministerial and parliamentary speeches, news articles, and newsletters from law firms. They then distilled the information into digestible pieces of content aimed at addressing legal issues, such as the inability to perform contracts and remission of property tax.
 
@@ -41,8 +40,7 @@ Over at NUS Law, third-year students Anders Seah and Mark Tang co-founded <a hre
 
 <div class="image">
   <img src="/images/Students3.jpg/" title="Mark and Anders" alt="Mark and Anders">
-</div>
-<br>From left: Mark and Anders
+</div> From left: Mark and Anders
 
 Anders came up with the idea while he was interning at a law firm. He remembers answering numerous client queries relating to the new COVID-19 legislation. “At that time, many law firms were providing COVID-19 updates for their clients, and I thought, why not do the same for the man on the street?” he said.
 
