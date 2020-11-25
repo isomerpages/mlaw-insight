@@ -24,8 +24,9 @@ For the students, this was an opportunity to put their legal education into prac
 
 “We wanted to do something meaningful during this difficult time. It was also a great way for us to use our legal skills to help the community,” said Justin. “We did all our discussions online and it was challenging at times, but our goal was to consolidate and simplify the relevant content as soon as possible because we felt a sense of urgency to ease the impact of the pandemic on individuals such as business owners and tenants.”
 
-<img src="/images/Students2.jpg/" title="Justin and Jeanette" alt="Justin and Jeanette">
-From left: Justin and Jeanette
+<div class="image">
+  <img src="/images/Students2.jpg/" title="Justin and Jeanette" alt="Justin and Jeanette">From left: Justin and Jeanette
+</div>
 
 Together with Jeanette Tang, his sister and fellow second-year law undergraduate at SMU, the group looked at various sources of information, such as ministerial and parliamentary speeches, news articles, and newsletters from law firms. They then distilled the information into digestible pieces of content aimed at addressing legal issues, such as the inability to perform contracts and remission of property tax.
 
@@ -35,8 +36,9 @@ The work on the portal continues with SMU Law alumnus, Reuben Teng, who was hire
 
 Over at NUS Law, third-year students Anders Seah and Mark Tang co-founded <a href="https://nus-covaid.com/">COV-AID</a>, a one-stop online portal that helps individuals and businesses navigate the COVID-19 legislation. 
 
-<img src="/images/Students3.jpg/" title="Mark and Anders" alt="Mark and Anders">
-From left: Mark and Anders
+<div class="image">
+  <img src="/images/Students3.jpg/" title="Mark and Anders" alt="Mark and Anders">From left: Mark and Anders
+</div>
 
 Anders came up with the idea while he was interning at a law firm. He remembers answering numerous client queries relating to the new COVID-19 legislation. “At that time, many law firms were providing COVID-19 updates for their clients, and I thought, why not do the same for the man on the street?” he said.
 
