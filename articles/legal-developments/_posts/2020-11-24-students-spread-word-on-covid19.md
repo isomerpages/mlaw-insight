@@ -12,9 +12,7 @@ breadcrumb: 'Legal Developments'
 <i>From a domestic helpers’ guide to online law portals, students from the NUS Faculty of Law and SMU School of Law support COVID-19 laws outreach.</i>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2IdL1OY1loE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**<i>“These ground-up initiatives by the students are a timely and valuable service to the community. They complement our existing communications and outreach plans on the COVID-19 (Temporary Measures) Act,” said Mr Colin Chow, Director (Civil & Legislative Policy) at MinLaw.</i>**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2IdL1OY1loE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>**<i>“These ground-up initiatives by the students are a timely and valuable service to the community. They complement our existing communications and outreach plans on the COVID-19 (Temporary Measures) Act,” said Mr Colin Chow, Director (Civil & Legislative Policy) at MinLaw.</i>**
 
 **<i>The Act offers temporary legal reliefs to businesses and individuals who have been affected by the COVID-19 pandemic.</i>** 
 
