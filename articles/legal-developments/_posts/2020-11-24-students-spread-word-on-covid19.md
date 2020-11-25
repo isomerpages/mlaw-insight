@@ -35,9 +35,8 @@ The work on the portal continues with SMU Law alumnus, Reuben Teng, who was hire
 
 Over at NUS Law, third-year students Anders Seah and Mark Tang co-founded <a href="https://nus-covaid.com/">COV-AID</a>, a one-stop online portal that helps individuals and businesses navigate the COVID-19 legislation. 
 
-<div class="image">
-  <img src="/images/Students3.jpg/" title="Mark and Anders" alt="Mark and Anders">
-</div>From left: Mark and Anders
+<img src="/images/Students3.jpg/" title="Mark and Anders" alt="Mark and Anders">
+From left: Mark and Anders
 
 Anders came up with the idea while he was interning at a law firm. He remembers answering numerous client queries relating to the new COVID-19 legislation. “At that time, many law firms were providing COVID-19 updates for their clients, and I thought, why not do the same for the man on the street?” he said.
 
