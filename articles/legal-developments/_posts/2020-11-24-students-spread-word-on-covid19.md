@@ -25,7 +25,7 @@ For the students, this was an opportunity to put their legal education into prac
 “We wanted to do something meaningful during this difficult time. It was also a great way for us to use our legal skills to help the community,” said Justin. “We did all our discussions online and it was challenging at times, but our goal was to consolidate and simplify the relevant content as soon as possible because we felt a sense of urgency to ease the impact of the pandemic on individuals such as business owners and tenants.”
 
 <div class="image">
-  <img src="/images/Students2.jpg/" title="Justin and Jeanette" alt="Justin and Jeanette">
+  <img src="/images/Students2.jpg/" title="Justin and Jeanette" alt="Justin and Jeanette">From left: Justin
 </div>From left: Justin and Jeanette
 
 Together with Jeanette Tang, his sister and fellow second-year law undergraduate at SMU, the group looked at various sources of information, such as ministerial and parliamentary speeches, news articles, and newsletters from law firms. They then distilled the information into digestible pieces of content aimed at addressing legal issues, such as the inability to perform contracts and remission of property tax.
