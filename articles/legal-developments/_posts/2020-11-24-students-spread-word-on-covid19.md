@@ -14,7 +14,7 @@ breadcrumb: 'Legal Developments'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2IdL1OY1loE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<b><i>“These ground-up initiatives by the students are a timely and valuable service to the community. They complement our existing communications and outreach plans on the COVID-19 (Temporary Measures) Act,” said Mr Colin Chow, Director (Civil & Legislative Policy) at MinLaw.
+***“These ground-up initiatives by the students are a timely and valuable service to the community. They complement our existing communications and outreach plans on the COVID-19 (Temporary Measures) Act,” said Mr Colin Chow, Director (Civil & Legislative Policy) at MinLaw.**
 
 **The Act offers temporary legal reliefs to businesses and individuals who have been affected by the COVID-19 pandemic.** 
 
