@@ -19,8 +19,8 @@ The gradual assimilation of data analytics with the legal industry is perhaps th
 The Singapore Management University (SMU) School of Law is one of the key stakeholders that MinLaw works with, to better prepare our law students with industry-relevant capabilities. Insight MinLaw speaks with Professor Goh Yihan, who shares his thoughts on how technology will shape the future of legal practice and legal services, and what this means for legal education.
 
 <div class="image">
-  <img src="/images/GYH1.jpg" title="Goh Yihan" alt="Goh Yihan"> 
-</div><sup>Assistant Professor, Lim How Khang, explains digital signatures.</sup>
+  <img src="/images/GYH1.jpg" title="Goh Yihan" alt="Goh Yihan">Assistant Professor, Lim How Khang, explains digital signatures.
+</div>
 
 The SMU School of Law embraces that fundamentally, through aggregation of information, technology will help legal professionals have a better understanding of policy and law.
 
@@ -33,8 +33,7 @@ Yihan explains that the proliferation of technology in the legal sector is not a
 He shares that AI machines work the same way as their human counterparts by trawling through data, consolidating the information and presenting the best solutions based on the information. What is notable is that what humans could take hours and even days to do, AI machines have shown the potential to do the same in a matter of seconds.
  
  <div class="image">
-  <img src="/images/GYH3.jpg" title="Goh Yihan" alt="Goh Yihan"> 
-</div><sup>Students from Singapore Management University (SMU) attending a seminar on Digital Innovation for Access to Justice.</sup>
+  <img src="/images/GYH3.jpg" title="Goh Yihan" alt="Goh Yihan">Students from Singapore Management University (SMU) attending a seminar on Digital Innovation for Access to Justice.</div>
  
 Yihan underscores three areas in the field of law that will change as a result of technology – substance of the law, practice of law and access to law.
 
@@ -45,8 +44,8 @@ The way that lawyers practise law will also be different. It is a possibility th
 On access to law, Yihan draws on the fact that chatbots have changed how people access legal information. They are now able to do so quickly and easily but being exposed to a sea of information also means that users which can be corporate businesses, the man in the street or even lawyers themselves must be more discerning to distinguish facts from falsehoods. 
 
 <div class="image">
-  <img src="/images/GYH4.jpg/" title="Goh Yihan" alt="Goh Yihan">
-</div><sup>Goh Yihan, Dean of School of Law, Singapore Management University (SMU)</sup>
+  <img src="/images/GYH4.jpg/" title="Goh Yihan" alt="Goh Yihan">Goh Yihan, Dean of School of Law, Singapore Management University (SMU)
+</div>
 
 In the face of a changing legal landscape, SMU has rolled out several programmes and initiatives to prepare its students to become lawyers of the future. Yihan expounds on the importance of legal professionals having the right mindset, which he reiterates to be as important as being equipped with advanced legal knowledge and capabilities. Lawyers should look to be less risk averse and critical but instead, embrace technology with a dose of realism – having the right people use the right technology tools at the right time. 
 
@@ -69,8 +68,8 @@ Technology plays a critical role in efforts to grow the legal industry in Singap
 In October 2020, MinLaw launched the Legal Industry Technology and Innovation Roadmap (TIR), which aims to promote innovation, technology adoption and development in Singapore’s legal industry in the next decade. The TIR builds on existing initiatives that support industry players in their technology adoption and development efforts.
 
 <div class="image">
-  <img src="/images/GYH6.jpg/" title="Goh Yihan" alt="Goh Yihan">
-</div><sup>TIR report published by MinLaw.</sup>
+  <img src="/images/GYH6.jpg/" title="Goh Yihan" alt="Goh Yihan">TIR report published by MinLaw.
+</div>
 
 For one, a Legal Industry Digital Plan is being developed to provide law firms with practical assistance to assess their digital readiness and identify digital solutions to adopt at each stage of their digital maturity. Another key initiative under the TIR is a cloud-based platform that MinLaw is working on, that will aggregate the functionalities of various front-end and back-end legal technology solutions for law firms and legal departments.
 
