@@ -83,7 +83,7 @@ Wrapping up the interview, the team expressed their gratitude to all the people 
 
 At the end of the day, the team hoped that the measures had helped Singaporeans cope with the current circumstances. “Knowing that people have benefitted in one way or another drives us to continue working hard,” Shu Chin said.
 
-![image](https://github.com/isomerpages/mlaw-insight/blob/staging/images/clpdcovid1/picture5jpg?raw=true)
+![image](https://github.com/isomerpages/mlaw-insight/blob/staging/images/clpdcovid1/picture5.jpg?raw=true)
 
 
 <p class="right-side-updated">Last updated on 29 Jan 2021</p>
