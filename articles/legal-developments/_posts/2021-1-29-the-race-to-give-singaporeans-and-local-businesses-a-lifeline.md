@@ -16,8 +16,9 @@ breadcrumb: 'Legal Developments'
 
 We spoke to some of the officers from the Civil and Legislative Policy Division (CLPD) at MinLaw who were involving in the Act about the challenges the team faced in developing and passing the Act within an unprecedented nine days.
 
-![image](https://github.com/isomerpages/mlaw-insight/blob/staging/images/clpdcovid1/picture1.jpg?raw=true)
-From left: Sanjna, Joanne, Shu Chin, Joy, Shurou
+<div class="image">
+  <img src="/images/clpdcovid1/picture1.jpg/" title="Sanjna Joanne Shu Chin Joy Shurou" alt="Sanjna Joanne Shu Chin Joy Shurou">From left: Sanjna, Joanne, Shu Chin, Joy, Shurou
+</div>
 
 On 23 January 2020, Singapore saw its first recorded case of COVID-19. As clusters began to form, measures were introduced to curb the spread of the coronavirus and sustain the economy. 
 
