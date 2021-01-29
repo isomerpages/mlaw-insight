@@ -14,7 +14,7 @@ breadcrumb: 'Legal Developments'
 
 2020 will be remembered for how the COVID-19 virus changed the way we live and work. Many businesses and individuals were severely hit by the pandemic. The COVID-19 (Temporary Measures) Act was passed on 7 April 2020 to offer relief to those affected.
 
-We spoke to some of the officers from the Civil and Legislative Policy Division (CLPD) at MinLaw who were involving in the Act about the challenges the team faced in developing and passing the Act within an unprecedented nine days.
+We spoke to some of the officers from the Civil and Legislative Policy Division (CLPD) at MinLaw who were involved in the Act about the challenges the team faced in developing and passing the Act within an unprecedented nine days.
 
 <div class="image">
   <img src="/images/clpdcovid1/picture1.jpg/" title="Sanjna Joanne Shu Chin Joy Shurou" alt="Sanjna Joanne Shu Chin Joy Shurou">From left: Sanjna, Joanne, Shu Chin, Joy, Shurou
