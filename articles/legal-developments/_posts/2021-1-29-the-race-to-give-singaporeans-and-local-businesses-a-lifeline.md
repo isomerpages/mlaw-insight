@@ -19,7 +19,7 @@ We spoke to some of the officers from the Civil and Legislative Policy Division 
 <div class="image">
   <img src="/images/clpdcovid1/picture1.jpg/" title="Sanjna Joanne Shu Chin Joy Shurou" alt="Sanjna Joanne Shu Chin Joy Shurou">From left: Sanjna, Joanne, Shu Chin, Joy, Shurou
 </div>
-
+<br>
 On 23 January 2020, Singapore saw its first recorded case of COVID-19. As clusters began to form, measures were introduced to curb the spread of the coronavirus and sustain the economy. 
 
 Singapore then went into circuit breaker mode on 7 April 2020. About two weeks before it began, MinLaw officers started working round the clock to bring the Act to life, offering much-needed relief to Singaporeans and local businesses affected by the pandemic. 
