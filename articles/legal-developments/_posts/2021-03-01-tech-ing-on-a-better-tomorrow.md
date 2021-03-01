@@ -91,4 +91,5 @@ Social workers whom the team had reached out to seek feedback on the prototype a
 
 “We hope all this encourages family violence victims who might otherwise suffer in silence to seek help and also take action to help themselves.”
 
-<br><p class="right-side-updated">Last updated on 1 Mar 2021</p>
+
+<p class="right-side-updated">Last updated on 1 Mar 2021</p>
