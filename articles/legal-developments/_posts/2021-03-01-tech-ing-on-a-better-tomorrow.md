@@ -25,8 +25,7 @@ The result was a webapp called ‘Newsfeed’ that provides timely and relevant 
 <b><i>Hacking for the Future</i></b>
 
 A total of 37 teams took part in the hackathon, consisting of participants from diverse fields such as practising lawyers, legal technologists, law students, and staff from DBS and the Singapore Judiciary. Participants were challenged to tackle these problem statements:
-
-<br>●	What role can the legal profession play to help everyone in society have better access to justice?
+<br><br>●	What role can the legal profession play to help everyone in society have better access to justice?
 <br>●	How can businesses and the legal system collaborate to provide easier access to justice and improve customer experiences?
 <br>●	How can the justice system become more agile, responsive and flexible to meet the needs of a rapidly evolving society?
 
