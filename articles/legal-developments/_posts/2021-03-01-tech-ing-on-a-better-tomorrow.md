@@ -18,7 +18,7 @@ With the coronavirus upending our daily lives and forever changing consumption h
   <img src="/images/LAB Photo 1.jpg/" title="Geraldine, Valerie, Darren and Istyana" alt="Geraldine, Valerie, Darren and Istyana">From left: Geraldine, Valerie, Darren and Istyana
 </div>
 <br>
-Made up of four officers from the Legal Aid Bureau (LAB) at MinLaw, the team came up with a one-stop platform equipped with self-help tools for victims of family violence as part of the ‘Hackathon for a Better World’, jointly organised by DBS Bank and the Singapore Judiciary. 
+<br>Made up of four officers from the Legal Aid Bureau (LAB) at MinLaw, the team came up with a one-stop platform equipped with self-help tools for victims of family violence as part of the ‘Hackathon for a Better World’, jointly organised by DBS Bank and the Singapore Judiciary. 
 
 <br>The result was a webapp called ‘Newsfeed’ that provides timely and relevant legal information, social support and access to legal services to persons facing domestic violence. After a gruelling three-month challenge, the team emerged as the winner for the ‘Most Feasible Solution’ Award for their idea. 
 
@@ -35,7 +35,7 @@ Over the course of three months, the ‘slow-burn’ hackathon gave participants
   <img src="/images/LAB Photo 2.jpg/" title="The Awards and Prize Presentation Day was held virtually, with Justice Aedit Abdullah as the Guest-of-Honour." alt="The Awards and Prize Presentation Day was held virtually, with Justice Aedit Abdullah as the Guest-of-Honour.">The Awards and Prize Presentation Day was held virtually, with Justice Aedit Abdullah as the Guest-of-Honour.
 </div>
 <br>
-"This hackathon was intense but extremely meaningful for us. We worked closely with victims of family violence to co-create a safe way of empowering them with information and social support. Our webapp reflects what the LAB stands for – helping the vulnerable and less privileged get access to justice," says Istyana.
+<br>"This hackathon was intense but extremely meaningful for us. We worked closely with victims of family violence to co-create a safe way of empowering them with information and social support. Our webapp reflects what the LAB stands for – helping the vulnerable and less privileged get access to justice," says Istyana.
 
 <br><b><i>Rising Domestic Violence</i></b>
 
@@ -47,7 +47,7 @@ SPF had received 5,135 reports for family violence offences in 2020 – 1,115 of
   <img src="/images/LAB Photo 3.jpg/" title="Istyana, Darren, Valerie and Geraldine having a discussion." alt="Istyana, Darren, Valerie and Geraldine having a discussion.">From left: Istyana, Darren, Valerie and Geraldine having a discussion.
 </div>
 <br>
-The LAB team were tracking social developments during the Circuit Breaker, and had already developed several LAB-specific responses for their chatbot to cater to the reported rise in family violence. Nonetheless, the team felt that more could be done to help this vulnerable group of people.
+<br>The LAB team were tracking social developments during the Circuit Breaker, and had already developed several LAB-specific responses for their chatbot to cater to the reported rise in family violence. Nonetheless, the team felt that more could be done to help this vulnerable group of people.
 
 <br>Amongst the concerns that family violence victims face, the team found out that many of them were not aware of what they could do, who to reach out to, or where to find a capable or affordable lawyer to assist them in legal matters. As a result, they used the hackathon as an opportunity to put their ideas into action and create a realistic solution. The webapp was born.
 
@@ -61,7 +61,7 @@ To aid the development of this webapp, the team interviewed victims of family vi
   <img src="/images/LAB Photo 4.png/" title="The interface for ‘Newsfeed’." alt="The interface for ‘Newsfeed’.">The interface for ‘Newsfeed’.
 </div>
 <br>
-Technology can aid access to justice. With more people staying home during the ongoing pandemic, there is a greater reliance on virtual services.
+<br>Technology can aid access to justice. With more people staying home during the ongoing pandemic, there is a greater reliance on virtual services.
 
 <br>“Once our webapp is fully built and launched, victims of domestic violence can use it to discreetly find a good and affordable lawyer, get links to social services, and guidance on how to handle legal proceedings on their own. They can even use the webapp to record their story and generate a report based on it, so that they can send it to whoever they need to, and save themselves the pain of repeating the story to multiple parties,” shares Valerie.
 
@@ -77,7 +77,7 @@ Together with their teammates Rachel Gan and Siow Ying Tze, the six of them form
   <img src="/images/LAB Photo 5.jpg/" title="Geraldine, Ying Tze, Rachel, Darren, Istyana, Valerie" alt="Geraldine, Ying Tze, Rachel, Darren, Istyana, Valerie">From clockwise: Geraldine, Ying Tze, Rachel, Darren, Istyana, Valerie
 </div>
 <br>
-“Our team launched the Intelligent Legal Assistance Bot (iLAB) in February last year. The chatbot is able to identify your legal issues and provides you with customised legal information to help you address them. It can also generate simple legal documents, tell you where you can get legal advice from a lawyer, and check on your eligibility for legal aid,” shares Rachel, who leads the team.
+<br>“Our team launched the Intelligent Legal Assistance Bot (iLAB) in February last year. The chatbot is able to identify your legal issues and provides you with customised legal information to help you address them. It can also generate simple legal documents, tell you where you can get legal advice from a lawyer, and check on your eligibility for legal aid,” shares Rachel, who leads the team.
 
 <br>LegalTech will continue to be a powerful driver to close informational gaps and improve access to justice. As Ying Tze pointed out, one lawyer can only help so many people at any one time, but a tech product can help thousands at the same time.
 
