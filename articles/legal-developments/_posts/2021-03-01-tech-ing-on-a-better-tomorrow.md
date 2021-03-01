@@ -61,7 +61,7 @@ To aid the development of this webapp, the team interviewed victims of family vi
   <img src="/images/LAB Photo 4.png/" title="The interface for ‘Newsfeed’." alt="The interface for ‘Newsfeed’.">The interface for ‘Newsfeed’.
 </div>
 <br>
-<br><br>Technology can aid access to justice. With more people staying home during the ongoing pandemic, there is a greater reliance on virtual services.
+<br>Technology can aid access to justice. With more people staying home during the ongoing pandemic, there is a greater reliance on virtual services.
 
 <br>“Once our webapp is fully built and launched, victims of domestic violence can use it to discreetly find a good and affordable lawyer, get links to social services, and guidance on how to handle legal proceedings on their own. They can even use the webapp to record their story and generate a report based on it, so that they can send it to whoever they need to, and save themselves the pain of repeating the story to multiple parties,” shares Valerie.
 
