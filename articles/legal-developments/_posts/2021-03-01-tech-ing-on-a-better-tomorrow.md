@@ -49,9 +49,9 @@ SPF had received 5,135 reports for family violence offences in 2020 – 1,115 of
 
 The LAB team were tracking social developments during the Circuit Breaker, and had already developed several LAB-specific responses for their chatbot to cater to the reported rise in family violence. Nonetheless, the team felt that more could be done to help this vulnerable group of people.
 
-<br>Amongst the concerns that family violence victims face, the team found out that many of them were not aware of what they could do, who to reach out to, or where to find a capable or affordable lawyer to assist them in legal matters. As a result, they used the hackathon as an opportunity to put their ideas into action and create a realistic solution. The webapp was born.
+Amongst the concerns that family violence victims face, the team found out that many of them were not aware of what they could do, who to reach out to, or where to find a capable or affordable lawyer to assist them in legal matters. As a result, they used the hackathon as an opportunity to put their ideas into action and create a realistic solution. The webapp was born.
 
-<br><b><i>Making the ‘Newsfeed’</i></b>
+<b><i>Making the ‘Newsfeed’</i></b>
 
 To aid the development of this webapp, the team interviewed victims of family violence, who offered a glimpse into the dilemmas they were in and the traumas they had experienced. 
 
@@ -79,7 +79,7 @@ Together with their teammates Rachel Gan and Siow Ying Tze, the six of them form
 
 “Our team launched the Intelligent Legal Assistance Bot (iLAB) in February last year. The chatbot is able to identify your legal issues and provides you with customised legal information to help you address them. It can also generate simple legal documents, tell you where you can get legal advice from a lawyer, and check on your eligibility for legal aid,” shares Rachel, who leads the team.
 
-<br>LegalTech will continue to be a powerful driver to close informational gaps and improve access to justice. As Ying Tze pointed out, one lawyer can only help so many people at any one time, but a tech product can help thousands at the same time.
+LegalTech will continue to be a powerful driver to close informational gaps and improve access to justice. As Ying Tze pointed out, one lawyer can only help so many people at any one time, but a tech product can help thousands at the same time.
 
 <b><i>What’s Next?</i></b>
 
