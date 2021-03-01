@@ -79,7 +79,7 @@ Together with their teammates Rachel Gan and Siow Ying Tze, the six of them form
 <br>
 “Our team launched the Intelligent Legal Assistance Bot (iLAB) in February last year. The chatbot is able to identify your legal issues and provides you with customised legal information to help you address them. It can also generate simple legal documents, tell you where you can get legal advice from a lawyer, and check on your eligibility for legal aid,” shares Rachel, who leads the team.
 
-LegalTech will continue to be a powerful driver to close informational gaps and improve access to justice. As Ying Tze pointed out, one lawyer can only help so many people at any one time, but a tech product can help thousands at the same time.
+<br>LegalTech will continue to be a powerful driver to close informational gaps and improve access to justice. As Ying Tze pointed out, one lawyer can only help so many people at any one time, but a tech product can help thousands at the same time.
 
 <b><i>What’s Next?</i></b>
 
