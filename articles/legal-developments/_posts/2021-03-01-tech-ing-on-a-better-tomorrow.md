@@ -58,7 +58,7 @@ To aid the development of this webapp, the team interviewed victims of family vi
 “Our key discovery was that they wanted to address their basic needs such as safety, housing and social support before considering legal proceedings for their issues. In fact, many of them were worried that if they took action, their safety would be at stake if the perpetrator found out. Foreign wives with children were also haunted by the fear that they would be sent back to their home country without their children,” says Darren.
 
 <div class="image">
-  <img src="/images/LAB Photo 4.jpg/" title="The interface for ‘Newsfeed’." alt="The interface for ‘Newsfeed’.">The interface for ‘Newsfeed’.
+  <img src="/images/LAB Photo 4.png/" title="The interface for ‘Newsfeed’." alt="The interface for ‘Newsfeed’.">The interface for ‘Newsfeed’.
 </div>
 <br>
 Technology can aid access to justice. With more people staying home during the ongoing pandemic, there is a greater reliance on virtual services.
