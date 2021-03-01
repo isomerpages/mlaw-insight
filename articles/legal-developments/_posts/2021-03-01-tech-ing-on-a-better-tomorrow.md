@@ -22,7 +22,7 @@ With the coronavirus upending our daily lives and forever changing consumption h
 
 <br>The result was a webapp called ‘Newsfeed’ that provides timely and relevant legal information, social support and access to legal services to persons facing domestic violence. After a gruelling three-month challenge, the team emerged as the winner for the ‘Most Feasible Solution’ Award for their idea. 
 
-<b><i>Hacking for the Future</i></b>
+<br><b><i>Hacking for the Future</i></b>
 
 A total of 37 teams took part in the hackathon, consisting of participants from diverse fields such as practising lawyers, legal technologists, law students, and staff from DBS and the Singapore Judiciary. Participants were challenged to tackle these problem statements:
 <br>●	What role can the legal profession play to help everyone in society have better access to justice?
@@ -37,7 +37,7 @@ Over the course of three months, the ‘slow-burn’ hackathon gave participants
 <br>
 <br>"This hackathon was intense but extremely meaningful for us. We worked closely with victims of family violence to co-create a safe way of empowering them with information and social support. Our webapp reflects what the LAB stands for – helping the vulnerable and less privileged get access to justice," says Istyana.
 
-<br><b><i>Rising Domestic Violence</i></b>
+<br><br><b><i>Rising Domestic Violence</i></b>
 
 According to the Singapore Police Force (SPF), 476 reports were filed from April 7 to May 6 last year for offences related to family violence – a 22 per cent increase from the monthly average of 389 for cases of a similar nature before the Circuit Breaker period. With movement restrictions in place, individuals and families were spending more time in close quarters and were likely to experience more stress, potentially leading to violence. In addition, victims of family violence were physically restricted in seeking help for their situations as their abuser was likely to be at home with them. 
 
@@ -51,7 +51,7 @@ SPF had received 5,135 reports for family violence offences in 2020 – 1,115 of
 
 <br>Amongst the concerns that family violence victims face, the team found out that many of them were not aware of what they could do, who to reach out to, or where to find a capable or affordable lawyer to assist them in legal matters. As a result, they used the hackathon as an opportunity to put their ideas into action and create a realistic solution. The webapp was born.
 
-<b><i>Making the ‘Newsfeed’</i></b>
+<br><b><i>Making the ‘Newsfeed’</i></b>
 
 To aid the development of this webapp, the team interviewed victims of family violence, who offered a glimpse into the dilemmas they were in and the traumas they had experienced. 
 
@@ -61,11 +61,11 @@ To aid the development of this webapp, the team interviewed victims of family vi
   <img src="/images/LAB Photo 4.png/" title="The interface for ‘Newsfeed’." alt="The interface for ‘Newsfeed’.">The interface for ‘Newsfeed’.
 </div>
 <br>
-<br>Technology can aid access to justice. With more people staying home during the ongoing pandemic, there is a greater reliance on virtual services.
+<br><br>Technology can aid access to justice. With more people staying home during the ongoing pandemic, there is a greater reliance on virtual services.
 
 <br>“Once our webapp is fully built and launched, victims of domestic violence can use it to discreetly find a good and affordable lawyer, get links to social services, and guidance on how to handle legal proceedings on their own. They can even use the webapp to record their story and generate a report based on it, so that they can send it to whoever they need to, and save themselves the pain of repeating the story to multiple parties,” shares Valerie.
 
-<b><i>LegalTech Aiding Legal Aid</i></b>
+<br><b><i>LegalTech Aiding Legal Aid</i></b>
 
 For the LAB quartet, their responsibilities as legal officers include providing legal representation to persons of limited means in a wide variety of legal disputes, such as divorce, monetary claims, custody matters, and applications for deputyship. They also offer legal advice to members of the public at LAB’s legal clinic.
 
@@ -81,7 +81,7 @@ Together with their teammates Rachel Gan and Siow Ying Tze, the six of them form
 
 <br>LegalTech will continue to be a powerful driver to close informational gaps and improve access to justice. As Ying Tze pointed out, one lawyer can only help so many people at any one time, but a tech product can help thousands at the same time.
 
-<b><i>What’s Next?</i></b>
+<br><b><i>What’s Next?</i></b>
 
 The team envisions the full version of the webapp platform to be able to serve the needs of all victims of domestic violence, including the elderly. For those not fluent in English or computer literate, they intend to leverage on existing arrangements with government associations so that users can seek proper guidance.
 
