@@ -17,7 +17,7 @@ On 2 October 2020, MinLaw launched the Technology and Innovation Roadmap, outlin
 We spoke to three law firms to understand their technology adoption journeys.
 
 <div class="image">
-  <img src="/images/PSPOESC Photo 1.png/" title="From top: Mark Goh (founder of VanillaLaw LLC), Bazul Ashhab (Managing Partner at Oon & Bazul LLP), and Dharma Sadasivan (Director at BR Law Corporation).
+  <img src="/images/PSPOESC Photo 1.png/" title="From top: Mark Goh (founder of VanillaLaw LLC), Bazul Ashhab (Managing Partner at Oon & Bazul LLP), and Dharma Sadasivan (Director at BR Law Corporation)." alt="From top: Mark Goh (founder of VanillaLaw LLC), Bazul Ashhab (Managing Partner at Oon & Bazul LLP), and Dharma Sadasivan (Director at BR Law Corporation).">From top: Mark Goh (founder of VanillaLaw LLC), Bazul Ashhab (Managing Partner at Oon & Bazul LLP), and Dharma Sadasivan (Director at BR Law Corporation).
 </div>
 
 <b><i>Keeping it Plain and Simple – The Vanilla Way</i></b>
