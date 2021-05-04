@@ -1,7 +1,7 @@
 ---
 title: 'The Future is LegalTech'
 date: 2021-05-05
-permalink: /articles/legal-developments/2021-05-05-the-future-is-legaltech
+permalink: /articles/future-of-law/2021-05-05-the-future-is-legaltech
 breadcrumb: 'Future of Law'
 
 ---
