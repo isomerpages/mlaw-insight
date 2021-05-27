@@ -71,7 +71,7 @@ Over the years, the law has given even greater recognition to the role each spou
 <b><i>About the Women’s Charter</i></b>
 
 Enacted in 1961, the Act serves to protect and advance the rights of women and girls in Singapore. The Women’s Charter provides for:
-<br>●	Solemnization of marriages;
+<br><br>●	Solemnization of marriages;
 <br>●	Registration and dissolution of civil marriages;
 <br>●	Rights and duties of married persons;
 <br>●	Maintenance of wives and children;
