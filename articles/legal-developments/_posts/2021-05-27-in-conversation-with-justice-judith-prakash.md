@@ -60,7 +60,7 @@ It is also important for women to network and support each other to advance thei
   <img src="/images/JusticeJudithPrakash 4.png/" title="This year’s Opening of the Legal Year which was held virtually and at the State Courts – two firsts in our history books. (Credit: State Courts)" alt="This year’s Opening of the Legal Year which was held virtually and at the State Courts – two firsts in our history books. (Credit: State Courts)">This year’s Opening of the Legal Year which was held virtually and at the State Courts – two firsts in our history books. (Credit: State Courts)
 </div>
 
-<b><i>Insight MinLaw: Do you have any words of advice for the younger generation of Singaporean women?</i></b>
+<b><i>Sixty years on, how do you think the Women’s Charter has contributed to the advancement of women’s rights in Singapore?</i></b>
 
 In my view, the Women’s Charter is a pivotal and fundamental piece of legislation in relation to the rights of women in our society. Although many sections in the Charter were re-enactments of existing laws on the status of women, there was a special force that came from all these rights being contained in one piece of legislation.
 
