@@ -126,7 +126,7 @@ For instance, it recently amended the Precious Stones and Precious Metals (Preve
 
 Among several changes, application fees for new entrants have been reduced from $140 to $120. In addition, registration is now on an annual basis and regulated dealers are no longer required to pay the renewal application fee as this is factored into the registration fee.  
 
-As part of its digital push, ACD is also launching a new e-portal later this year. Called myPal, it will function as a single touchpoint for PSPM dealers on registration, supervision, enforcement and investigation matters.
+As part of its digital push, ACD is also launching a new e-portal later this year. Called <i>my</i>Pal, it will function as a single touchpoint for PSPM dealers on registration, supervision, enforcement and investigation matters.
 
 ACD officers are driven to ensure Singapore remains a prosperous trading hub for the PSPM market, without compromising on the nation’s AML/CFT efforts. 
 
