@@ -133,3 +133,5 @@ ACD officers are driven to ensure Singapore remains a prosperous trading hub for
 Evelyn said: “I am confident that the dealers will continue to grow in their knowledge and experience on this AML/CFT journey and be well prepared to protect their business from being used by criminals. The initial phase of getting everything in place is always the hardest. We will only grow stronger.” 
 
 <i>Watch <a href="https://fb.watch/6iou5MSAt_/" target="new">this video</a> to find out how PSPMs could be used in money laundering and terrorism financing!</i>
+
+Last updated on 23 June 2021
