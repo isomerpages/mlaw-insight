@@ -131,3 +131,5 @@ As part of its digital push, ACD is also launching a new e-portal later this yea
 ACD officers are driven to ensure Singapore remains a prosperous trading hub for the PSPM market, without compromising on the nation’s AML/CFT efforts. 
 
 Evelyn said: “I am confident that the dealers will continue to grow in their knowledge and experience on this AML/CFT journey and be well prepared to protect their business from being used by criminals. The initial phase of getting everything in place is always the hardest. We will only grow stronger.” 
+
+<i>Watch <a href="https://fb.watch/6iou5MSAt_/" target="new">this video</a> to find out how PSPMs could be used in money laundering and terrorism financing!</i>
