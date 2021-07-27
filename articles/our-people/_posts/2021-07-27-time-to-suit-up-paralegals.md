@@ -68,7 +68,7 @@ Latifah was also looking for a challenge. As a paralegal in a local firm who mai
   <img src="/images/SLE Photo 4.jpg/" title="Latifah sharing her thoughts on the training during the SLE Certification Ceremony in July 2021" alt="Latifah sharing her thoughts on the training during the SLE Certification Ceremony in July 2021">Latifah sharing her thoughts on the training during the SLE Certification Ceremony in July 2021
 </div>
 
-Lynette, meanwhile, was a civil service veteran of sorts, having been an LE in LAB for eight years before leaving to pursue a law degree. Her curiosity then led her to practise law in a private firm, but she felt she could do more. That was when she decided to return to LAB – find out more about the work that Lynette does <a href="https://www.facebook.com/watch/?v=404161150857445/" target="new">here</a>.
+Lynette, meanwhile, was a civil service veteran of sorts, having been an LE in LAB for eight years before leaving to pursue a law degree. Her curiosity then led her to practise law in a private firm, but she felt she could do more. That was when she decided to return to LAB – find out more about the work that Lynette does <a href="https://www.facebook.com/425106448078044/posts/796823744239644/" target="new">here</a>.
 
 <div class="image">
   <img src="/images/SLE Photo 5.jpg/" title="From left: Rae-Anne, Xin Hui, and Latifah having a discussion" alt="From left: Rae-Anne, Xin Hui, and Latifah having a discussion">From left: Rae-Anne, Xin Hui, and Latifah having a discussion
