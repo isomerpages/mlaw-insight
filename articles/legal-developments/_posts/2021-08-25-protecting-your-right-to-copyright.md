@@ -26,7 +26,7 @@ Technology has changed the way we consume and create all types of media. We have
 
 Such rapid advancements mean that the laws governing how content can be used and protected need to not only be up-to-date, but also stay ahead of the curve. With this in mind, MinLaw and IPOS decided to embark on an overhaul of the Copyright Act. “It’s been a long time coming, really. This is the most comprehensive review of our existing Copyright Act since it was first enacted in 1987,” said Gavin. The aim of the review is to ensure that Singapore’s copyright laws are well-suited to meet the demands of the digital age whilst continuing to support innovation.
 
-Asked how the proposed changes will help, Lili shared, “We’ve taken great pains to conduct numerous public consultations with various groups of stakeholders through different channels, sought to understand their difficulties and challenges, and have tried as far as we could to incorporate all of this feedback when writing the Bill. We really hope that the new copyright law will be much more aligned to the public’s expectations.”
+Asked how the proposed changes will help, Lili shared, “We’ve taken great effort to conduct numerous public consultations with various groups of stakeholders through different channels, sought to understand their difficulties and challenges, and have tried as far as we could to incorporate all of this feedback when writing the Bill.”
 
 <div class="image">
   <img src="/images/Copyright 2.jpg/">
@@ -36,11 +36,9 @@ Asked how the proposed changes will help, Lili shared, “We’ve taken great pa
 
 Apart from being more reader-friendly, the new Bill also introduces several noteworthy changes, such as granting creators and performers the right to be identified when their work or performance is used, and creating new exceptions such that copyright works can be used for certain purposes like computational data analysis, as long as they are lawfully accessed. 
 
-“Generally we have focused our efforts in two areas. One, helping individual creators who don’t have a legal team or strong backing to help them champion their needs. Two, putting in exceptions, or permitted uses, to allow copyrighted works to be used under certain circumstances, for the public good,” explained Lili. 
+“Generally we have focused our efforts in two areas. One, helping individual creators better protect their creation. Two, putting in exceptions, or permitted uses, to allow copyrighted works to be used under certain circumstances, for the public good,” explained Lili. 
 
 On the principles behind the new provisions, Lili noted on the need to go back to the basics of copyright. She said: “For every issue, we always go back to that: what should we do so that the incentives are still there for people to create.” 
-
-While reactions to some of the new provisions have been mixed from a diverse group of stakeholders, Gavin believes in a give-and-take approach. “Making compromises is inherent in policymaking and what we strive to do is to take into account all perspectives. Where it’s not possible to accommodate specific concerns in the legislation, we think about other ways to ameliorate those concerns,” he said.
 
 <div class="image">
   <img src="/images/Copyright 3.jpg/" title="Gavin, Senior Legal Counsel at IPOS" alt="Gavin, Senior Legal Counsel at IPOS">Gavin, Senior Legal Counsel at IPOS
@@ -56,7 +54,7 @@ A large-scale review for an age-old topic like copyright was never going to be e
 
 “In the beginning, we looked at copyright reviews that other jurisdictions were conducting or had conducted – the components they were reviewing and how applicable these were to us. We also canvassed opinions from academics, other government agencies, and looked at the inquiries and complaints on copyright that have come in over the years. This formed the initial slate of proposals for the public consultations,” explained Lili. 
 
-Gavin recalled the countless iterations they had to scrutinise for more than 500 sections of the Bill. “For existing provisions, we had to make sure we did not inadvertently change their meanings while simplifying them. For other provisions implementing new proposals, we had to ensure that our policy intent was accurately and clearly translated in the law.” 
+Gavin recalled the countless iterations they had to scrutinise for more than 500 sections of the Bill. “For existing provisions, we had to make sure we did not inadvertently change their meanings while simplifying them. For other provisions implementing new proposals, we had to ensure that our policy intent was accurately and clearly translated in the law.”
 
 <div class="image">
   <img src="/images/Copyright 4.jpg/">
@@ -66,9 +64,9 @@ Gavin recalled the countless iterations they had to scrutinise for more than 500
 
 Public consultations were held to better understand the needs and challenges of a diverse range of stakeholders, and how to address them through the amendments.
 
-Lili shared the challenges faced by the team at this stage: “All the different types of stakeholders have different needs, challenges and different concerns. Photographers have a set of needs and challenges, music band members have another, and school teachers and students have an entirely different set altogether. The list goes on.” In total, the team gathered more than 500 responses from individuals and organisations, through more than 20 group engagement sessions in the form of townhalls, roundtables, symposiums and focus groups.
+Lili shared the challenges faced by the team at this stage: “The various groups of stakeholders have different needs, challenges and concerns. Photographers have a set of needs and challenges, music band members have another, and school teachers and students have an entirely different set altogether. The list goes on.” In total, the team gathered more than 500 responses from individuals and organisations, through more than 20 group engagement sessions in the form of townhalls, roundtables, symposiums and focus groups.
 
-However, Gavin cautioned against expectations that all feedback would be taken onboard as is. “Different groups of stakeholders have competing interests, and the views of some stakeholders would always be diametrically opposed to that of others. Our job is to balance the competing interests. Nevertheless, when the feedback from particular stakeholders was not incorporated in certain respects, we tried to accommodate their interests in other aspects of the same proposal.”
+While reactions to some of the new provisions have been mixed from a diverse group of stakeholders, Gavin believes in a give-and-take approach. “Making compromises is inherent in policymaking and what we strive to do is to take into account all perspectives. Where it’s not possible to accommodate specific concerns in the legislation, we think about other ways to ameliorate those concerns,” he said.
 
 Lili added: “There’s a lot about copyright that is unknown or difficult to understand for people, so the fact that we have managed to educate so many people on copyright through this review, I think that is already one great outcome on its own.”
 
