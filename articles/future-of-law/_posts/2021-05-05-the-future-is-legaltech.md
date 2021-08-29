@@ -52,7 +52,7 @@ As the law firm had always placed technology at the core of its growth philosoph
 
 “Technology will continue to evolve. One needs to be laser-focused when it comes to technology or risk being annihilated in a dynamic and competitive environment,” noted Bazul Ashhab, Managing Partner at Oon & Bazul LLP.
 
-The firm leveraged the Tech-celerate for Law initiative to procure software such as Tesseract.io, an end-to-end collaborative practice management software. Apart from Tesseract.io, the firm also adopted the productivity tool Clarilis, a document automation platform that helps lawyers and corporate counsel with the drafting process for all forms of legal documentation. 
+The firm leveraged the Tech-celerate for Law initiative to procure software such as Tessaract.io, an end-to-end collaborative practice management software. Apart from Tessaract.io, the firm also adopted the productivity tool Clarilis, a document automation platform that helps lawyers and corporate counsel with the drafting process for all forms of legal documentation. 
 
 <div class="image">
   <img src="/images/PSPOESC Photo 5.jpeg/" title="Bazul Ashhab, Managing Partner at Oon & Bazul LLP." alt="Bazul Ashhab, Managing Partner at Oon & Bazul LLP.">Bazul Ashhab, Managing Partner at Oon & Bazul LLP.
