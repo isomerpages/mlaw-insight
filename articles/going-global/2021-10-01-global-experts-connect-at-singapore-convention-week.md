@@ -89,6 +89,7 @@ Ms Koh Swee Yen Partner, Commercial & Corporate Disputes and International Arbit
   <img src="/images/SC Week 7.JPG/" title="Hybrid capacity-building workshops at the UNCITRAL Academy" alt="Hybrid capacity-building workshops at the UNCITRAL Academy">Hybrid capacity-building workshops at the UNCITRAL Academy
 </div>
 
+
 <div class="image">
   <img src="/images/SC Week 8.png/">
 </div>
