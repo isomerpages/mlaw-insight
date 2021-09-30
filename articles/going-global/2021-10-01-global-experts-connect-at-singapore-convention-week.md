@@ -64,6 +64,7 @@ Watch the opening dialogue <a href="https://www.facebook.com/edwintongSC/videos/
   <img src="/images/SC Week 4.jpg/">
 </div>
 
+
 <div class="image">
   <img src="/images/SC Week 5.jpg/">
 </div>
