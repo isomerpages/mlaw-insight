@@ -14,7 +14,7 @@ breadcrumb: 'Going Global'
 
 New perspectives and ideas on dispute resolution from across the globe intersected at the Singapore Convention Week 2021 (SC Week). The week-long series of events, including the inaugural UNCITRAL Academy, was held from 6 to 10 September.
 
-The first-ever hybrid edition of SC Week drew over 4,000 participants from some 100 countries, and was organised by MinLaw in collaboration with 15 supporting partner organisations. The partner events added to the rich discussions at SC Week, and delved into related topics of discussion such as the role of expert witnesses, developments in international commercial litigation, mediation and arbitration, hybrid dispute resolution mechanisms, online dispute resolution, and dispute resolution of inter-state disputes.
+The first-ever hybrid edition of SC Week drew over 4,000 participants from some 100 countries, and was organised by MinLaw in collaboration with 15 supporting <a href="https://www.singaporeconventionweek.sg/partners.html">partner organisations</a>. The partner events added to the rich discussions at SC Week, and delved into related topics of discussion such as the role of expert witnesses, developments in international commercial litigation, mediation and arbitration, hybrid dispute resolution mechanisms, online dispute resolution, and dispute resolution of inter-state disputes.
 
 <b><i>Inaugural UNCITRAL Academy</i></b>
 
