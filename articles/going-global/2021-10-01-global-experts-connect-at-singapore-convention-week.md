@@ -62,7 +62,7 @@ Watch the opening dialogue <a href="https://www.facebook.com/edwintongSC/videos/
 
 <div class="image">
   <img src="/images/SC Week 4.jpg/">
-</div>
+</div><p>
 
 <div class="image">
   <img src="/images/SC Week 5.jpg/">
@@ -86,7 +86,7 @@ Ms Koh Swee Yen Partner, Commercial & Corporate Disputes and International Arbit
 
 <div class="image">
   <img src="/images/SC Week 7.JPG/" title="Hybrid capacity-building workshops at the UNCITRAL Academy" alt="Hybrid capacity-building workshops at the UNCITRAL Academy">Hybrid capacity-building workshops at the UNCITRAL Academy
-</div>
+</div><p>
 
 <div class="image">
   <img src="/images/SC Week 8.png/">
