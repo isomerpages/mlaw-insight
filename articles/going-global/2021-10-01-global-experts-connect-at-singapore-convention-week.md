@@ -16,7 +16,7 @@ New perspectives and ideas on dispute resolution from across the globe intersect
 
 The first-ever hybrid edition of SC Week drew over 4,000 participants from some 100 countries, and was organised by MinLaw in collaboration with 15 supporting partner organisations. The partner events added to the rich discussions at SC Week, and delved into related topics of discussion such as the role of expert witnesses, developments in international commercial litigation, mediation and arbitration, hybrid dispute resolution mechanisms, online dispute resolution, and dispute resolution of inter-state disputes.
 
-<iframe width="560" height="315" src="https://youtu.be/7vi5PImpwyo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7vi5PImpwyo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <b><i>Inaugural UNCITRAL Academy</i></b>
 
