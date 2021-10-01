@@ -62,15 +62,15 @@ Watch the opening dialogue <a href="https://www.facebook.com/edwintongSC/videos/
 
 <div class="image">
   <img src="/images/SC Week 4.jpg/">
-</div><br>
-
-<div class="image">
-  <img src="/images/SC Week 5.jpg/">
 </div>
 
 <b><i>Future Trends in International Dispute Resolution</i></b>
 
 Esteemed speakers at UNCITRAL Academy held lively discussions and exchanged views on the latest developments in the international dispute resolution scene. Some of the speakers include thought leaders and experts such as Professor Richard Susskind OBE, Technology Adviser to the Lord Chief Justice of England and Wales, Colin Rule, President and CEO, Mediate.com and Arbitrate.com, and Mark Beer OBE, Chairman of The Metis Institute.
+
+<div class="image">
+  <img src="/images/SC Week 5.jpg/">
+</div>
 
 The speakers explored how the pandemic has accelerated underlying structural shifts, from climate change to geopolitics, and how businesses and dispute resolution must evolve in response. Technology and innovation are necessary for companies to pick up new business models, anticipate potential disputes, and survive in the new normal.
 
@@ -86,13 +86,13 @@ Ms Koh Swee Yen Partner, Commercial & Corporate Disputes and International Arbit
 
 <div class="image">
   <img src="/images/SC Week 7.JPG/" title="Hybrid capacity-building workshops at the UNCITRAL Academy" alt="Hybrid capacity-building workshops at the UNCITRAL Academy">Hybrid capacity-building workshops at the UNCITRAL Academy
-</div><br>
+</div>
+
+MinLaw and UNCITRAL partnered with the Singapore International Dispute Resolution Academy (SIDRA), the Singapore International Mediation Centre (SIMC), and the International Centre for Settlement of Investment Disputes (ICSID) to hold a series of capacity-building workshops for representatives from governments and the industry (including general counsel and executives). 
 
 <div class="image">
   <img src="/images/SC Week 8.png/">
 </div>
-
-MinLaw and UNCITRAL partnered with the Singapore International Dispute Resolution Academy (SIDRA), the Singapore International Mediation Centre (SIMC), and the International Centre for Settlement of Investment Disputes (ICSID) to hold a series of capacity-building workshops for representatives from governments and the industry (including general counsel and executives). 
 
 The workshops introduced participants to topics such as using mediation and its benefits as a dispute resolution tool, the Convention and its mechanics, how States can build a framework and ecosystem to facilitate and encourage mediation and the use of mediation to resolve investor-State disputes. An exchange session between industry and government representatives offered both groups a platform to engage in discussions on the benefits of using mediation as a dispute resolution tool and how the ecosystem can encourage its use.
 
