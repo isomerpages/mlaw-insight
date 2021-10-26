@@ -18,7 +18,7 @@ Simon is also the author of four young adult fiction novels including the <i>Rai
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SV_fGYuPDMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In Letters of the Law, a collection of letters written by authors from the legal industry, Simon wrote a letter addressed to his younger self, during the year he spent studying Chinese at the Beijing No. 2 Foreign Languages Institute before returning to start university. Read more <a href="https://www.lettersofthelaw.org/read-all/dean-simon-chesterman">here</a>.
+In Letters of the Law, a collection of letters written by authors from the legal industry, Simon wrote a letter addressed to his younger self, during the year he spent studying Chinese at the Beijing No. 2 Foreign Languages Institute before returning to start university in Australia.
 
 Insight MinLaw caught up with Simon to chat about AI, legal education and his novels.
 
