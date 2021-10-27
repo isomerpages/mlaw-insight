@@ -28,7 +28,7 @@ Insight MinLaw caught up with Simon to chat about AI, legal education and his no
 
 <b><i>Insight MinLaw: In your recent book, We, the Robots? Regulating Artificial Intelligence and the Limits of the Law, you examined how laws are dealing with AI. What is the impact of AI on the legal profession?</i></b>
 
-The idea that legal practice — seen as the logical application of rules to established facts — could be automated has been around for decades.
+Simon: The idea that legal practice — seen as the logical application of rules to established facts — could be automated has been around for decades.
 
 In the 1980s, researchers developed prototype systems of rules in machine-readable form. The enthusiasm was characteristic of the time, preceding as it did one of the “AI winters” that periodically saw inflated expectations crash against reality.
 
@@ -58,7 +58,7 @@ To this one might add considerations of equity, since the drive towards greater 
 
 <b><i>Insight MinLaw: What qualities do you think law students need to succeed in their careers?</i></b>
 
-I’ll take it as given that our students need to be bright, to know the law, to have critical and analytical skills, to be able to communicate and to persuade. Above and beyond these, they need to be able to cross boundaries: literal, metaphorical, and social.
+Simon: I’ll take it as given that our students need to be bright, to know the law, to have critical and analytical skills, to be able to communicate and to persuade. Above and beyond these, they need to be able to cross boundaries: literal, metaphorical, and social.
 
 In terms of literal boundaries, half of our students in a normal year spend a semester or more on exchange, some earning a Master’s degree in their fourth year through partnerships with New York University, King’s College London, and other leading schools. The rest benefit from the diverse students from around the world who join our upper years. We are nonetheless exploring additional ways for students to travel for shorter periods, in particular exposing them to jurisdictions in Asia.
 
@@ -78,13 +78,13 @@ We’ve also sought to address it through requiring all of our students to do pr
 
 <b><i>Insight MinLaw: In the <a href="https://www.lettersofthelaw.org/read-all/dean-simon-chesterman">letter</a> to younger self, you wrote that lawyers have a chasm that separates their head from their heart, how can we get lawyers to be more empathetic?</i></b>
 
-I’m not sure you can “make” someone more empathetic, particularly once they’re an adult. Hopefully the pro bono work that our students do helps them to see the importance of law as a force for good.
+Simon: I’m not sure you can “make” someone more empathetic, particularly once they’re an adult. Hopefully the pro bono work that our students do helps them to see the importance of law as a force for good.
 
 One positive indication is that some naysayers warned when we started the pro bono programme that the 20-hour requirement would be a ceiling as well as a floor. In other words, students would do their 20 hours and then stop. Happily, the average number of hours completed is more like 50 – with many students doing far more than that. This gives me hope that perhaps I was wrong about that chasm.
 
 <b><i>Insight MinLaw: What inspired you to write fiction?</i></b>
 
-I’ve always been an avid reader and had dabbled in fiction as a teenager. (In fact, I completed two unpublished – and unpublishable – novels.)
+Simon: I’ve always been an avid reader and had dabbled in fiction as a teenager. (In fact, I completed two unpublished – and unpublishable – novels.)
 
 <div class="image">
   <img src="/images/NUS Law Dean 4.jpg/">
@@ -100,6 +100,6 @@ I suppose another reason was that my kids — bizarrely — seemed to have no in
 
 <b><i>Insight MinLaw: Complete this sentence – Dear Future Self,</i></b>
 
-So, did you ever get that sabbatical? Just curious.
+Simon: So, did you ever get that sabbatical? Just curious.
 
 Last updated on 27 October 2021
