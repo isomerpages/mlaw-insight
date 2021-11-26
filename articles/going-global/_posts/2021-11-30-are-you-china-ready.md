@@ -44,50 +44,62 @@ Joel: I saw it as a great opportunity to expand my network and explore areas whe
 
 Joel: Yes, it has met my objectives of deepening my knowledge of Chinese legal concepts and terminology. I was especially interested in the concept of security under Chinese law and the different ways in which security can be taken or enforced, as these are relevant to restructuring work (which involves understanding what security a company is subject to and the options available to a company in an enforcement scenario). 
 
-Insight MinLaw: How has the programme helped you in your work?
+<b><i>Insight MinLaw: How has the programme helped you in your work?</i></b>
 
 Joel: I was able to immediately put my newfound knowledge to use! Shortly after learning about the concept of a repairer’s lien under Chinese law, I had to deal with Chinese counsel on the same issue, and was able to communicate and understand from a Chinese law perspective why the counterparty had insisted on a particular course of action as a means of protecting their security. 
 
-Insight MinLaw: Tell us one interesting thing you learnt at the programme that you never knew.
+<b><i>Insight MinLaw: Tell us one interesting thing you learnt at the programme that you never knew.</i></b>
 
 Joel: The concept of having a second trial. This is interesting as common law jurisdictions tend to have one trial followed by one (or two) rounds of appeal. 
 
 <div class="image">
-  <img src="/images/SC Week 6.PNG/">
+  <img src="/images/CRP4.jpg" title="Tan Tian Hui, Senior Associate, Rajah & Tann Singapore LLP" alt="Tan Tian Hui, Senior Associate, Rajah & Tann Singapore LLP">Tan Tian Hui, Senior Associate, Rajah & Tann Singapore LLP
 </div>
 
-They also highlighted how legal technology can improve access to justice and accuracy of outcomes, while reducing costs. In ‘A World in Transition’ – this year’s theme – countries such as Singapore, which dedicate resources to developing legal technology such as Online Dispute Resolution (ODR) systems, will be best positioned to harness the benefits of such technology whilst helping their local legal communities adapt.
+<b><i>Insight MinLaw: Why did you enrol in the programme?</i></b>
 
-Ms Koh Swee Yen Partner, Commercial & Corporate Disputes and International Arbitration Practices, WongPartnership LLP, said that she found her time at UNCITRAL Academy to be an engaging and enriching experience. As a panellist at the Opening Panel Discussion, she had the chance to discuss with business leaders the challenges they face today. “We spoke about digital acceleration, challenges of climate change and the importance of ESG (Environmental, Social and Governance),” she said.  “From my perspective as a lawyer, it is very important to appreciate these business challenges and see how the law responds to it,” she added. 
+Tian Hui: I enrolled in the programme due to its relevance to my areas of practice. I am currently practising in the China Related Investments Dispute Resolution department of Rajah & Tann Singapore. As part of my practice, I encounter issues that involve Chinese law from time to time, and I thought it would be helpful to gain an understanding of the Chinese legal system, as well as to understand how it compares to the Singapore legal system. I was also keen to meet like-minded legal professionals who have a similar interest in furthering their understanding of Chinese law and their legal system. 
 
-<b><i>Workshops and Roundtable</i></b>
+<b><i>Insight MinLaw: Did the programme meet your objectives and what are your takeaways?</i></b>
+
+Tian Hui: The programme met my objectives as participants gained an in-depth understanding into the basic principles and rules in major areas of Chinese law, as well as an overview of the legal institutions in China. I also learnt legal terminology that has proven to be helpful in my work. 
+
+<b><i>Insight MinLaw: How has the programme helped you in your work?</i></b>
+
+Tian Hui: As I practise in the dispute resolution department, the module on dispute resolution in China was particularly helpful. I found the program challenging initially as I was unfamiliar with the legal terminology that was used. Even though I had come across Mandarin legal terms previously, this was my first time attending a Chinese law course which was conducted entirely in Mandarin. However, as the course progressed, I had become more familiar with the terms and I found it easier to understand the contents of each module that was taught. 
+
+I also learnt about the judicial system in China – i.e. its organisation and operation of the Courts in China, as well as basic civil procedure in China. This will help me to relate better to clients where their cases involve PRC proceedings. 
+
+<b><i>Insight MinLaw: Tell us one interesting thing you learnt at the programme that you never knew.</i></b>
+
+Tian Hui: I learnt that there are many specialised Courts in China for the handling of different types of disputes. For instance, courts that specialise in maritime, IP Law and financial matters. There is even a Hangzhou Internet Court, which deals specifically with e-commerce disputes!
 
 <div class="image">
-  <img src="/images/SC Week 7.JPG/" title="Hybrid capacity-building workshops at the UNCITRAL Academy" alt="Hybrid capacity-building workshops at the UNCITRAL Academy">Hybrid capacity-building workshops at the UNCITRAL Academy
+  <img src="/images/CRP5.jpg" title="Nicholas Ng, Associate, Rajah & Tann Singapore LLP" alt="Nicholas Ng, Associate, Rajah & Tann Singapore LLP">Nicholas Ng, Associate, Rajah & Tann Singapore LLP
 </div>
 
-MinLaw and UNCITRAL partnered with the Singapore International Dispute Resolution Academy (SIDRA), the Singapore International Mediation Centre (SIMC), and the International Centre for Settlement of Investment Disputes (ICSID) to hold a series of capacity-building workshops for representatives from governments and the industry (including general counsel and executives). 
+<b><i>Insight MinLaw: Why did you enrol in the programme?</i></b>
+
+Nicholas: Having gone on immersion trips to China in my secondary school days and taking a couple of China-related law modules in university, I have always been interested in using Chinese in my legal career. When the programme came along, I saw it as the perfect platform for me to brush up on my legal Chinese and basic knowledge of Chinese law and culture, so as to pursue the above interest. 
+
+<b><i>Insight MinLaw: Did the programme meet your objectives and what are your takeaways?</i></b>
+
+Nicholas: Having used English predominantly in my first few years of practice, I appreciated the opportunity to re-visit the Chinese language and, helpfully, in the legal context. Given that Singapore’s domestic legal market is relatively small, I learnt that it is important for Singapore to look beyond its shores and tap on opportunities presented by larger markets such as China. 
+
+<b><i>Insight MinLaw: How has the programme helped you in your work?</i></b>
+
+Nicholas: The programme increased my confidence in using Chinese in a professional setting. Initially, it was tedious for me to suddenly go back to reading, writing and speaking Chinese in an educational setting as it had been some years since I left school. However, the Business and Legal Chinese module of the programme offered strong foundational training and I found myself reading and understanding course materials more easily as the programme went along. 
+
+The case studies discussed during the programme also helped me better appreciate issues and features unique to Chinese law. With the knowledge acquired from the programme, I managed to embark on a new role dealing with Chinese investment disputes. 
+
+<b><i>Insight MinLaw: Tell us one interesting thing you learnt at the programme that you never knew.</i></b>
+
+Nicholas: One of the speakers at the programme advised that in order to succeed in serving the Chinese market, being bilingual alone is not enough as there are many Chinese lawyers who are effectively bilingual. As lawyers from Singapore, our value-add comes in not only being effectively bilingual, but also in having a good understanding of how Chinese law (with its civil law tradition) interacts with the common law tradition adopted by several other jurisdictions. This left a strong impression on how we as Singapore lawyers should position ourselves when dealing with the Chinese market.
 
 <div class="image">
-  <img src="/images/SC Week 8.png/">
+  <img src="/images/CRP6.jpg">
 </div>
 
-The workshops introduced participants to topics such as using mediation and its benefits as a dispute resolution tool, the Convention and its mechanics, how States can build a framework and ecosystem to facilitate and encourage mediation and the use of mediation to resolve investor-State disputes. An exchange session between industry and government representatives offered both groups a platform to engage in discussions on the benefits of using mediation as a dispute resolution tool and how the ecosystem can encourage its use.
-
-<div class="image">
-  <img src="/images/SC Week 9.jpg/" title="Roundtable with Minister Edwin Tong SC" alt="Roundtable with Minister Edwin Tong SC">Roundtable with Minister Edwin Tong SC
-</div>
-
-As part of SC Week, Minister Tong also hosted a roundtable with 23 young international dispute resolution practitioners from 18 jurisdictions. They had an engaging dialogue on how the pandemic had impacted them, what could be improved on, and how they could work together.
-
-<b><i>Looking Forward</i></b>
-
-“The Singapore Convention Week has put into focus how we should look ahead on certain trends that will come about as a result of technology, COVID-19 and more countries signing on to the Convention,” said Mr Wan Kwong Weng, Group Chief Corporate Officer at Mapletree Investments Pte Ltd and Vice President at Singapore Corporate Counsel Association, who attended the UNCITRAL Academy events.  
-
-Indeed, SC Week has provided a platform for an exchange of rich insights on international dispute resolution. As part of its longstanding commitment to promote the development, understanding and use of international dispute resolution, Singapore will continue to facilitate such discussions and looks forward to welcoming the international community at the next edition of SC Week, which will include the UNCITRAL Academy 2022 and will be held from 29 August to 2 September 2022.
-
-A recap of highlights, speakers and events from SC Week 2021 can be found <a href="https://www.singaporeconventionweek.sg/">here</a>.
-
-You may register your interest for SC Week 2022 at this <a href="https://go.gov.sg/sgconvention2022">link</a>.
+The second run of the China Ready Programme will commence in January 2022. Find out more and sign up <a href="https://hce-learning.com/china-ready-programme/" target="new">here</a>!
 
 Last updated on 30 November 2021
