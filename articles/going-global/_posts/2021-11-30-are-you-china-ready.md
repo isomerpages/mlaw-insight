@@ -24,8 +24,6 @@ To put our law firms in good stead to seize new opportunities in China, MinLaw l
 
 “The modules will help the participants gain a deeper understanding of the Chinese operating environment, legal system and laws; navigate the differences between how Singapore- and China-based businesses work and think; and build up competencies in communicating professionally with Chinese clients in the legal context. The knowledge and networks will help open more doors for Singapore lawyers as both Singapore- and China-based businesses look to expand into the region,” she added.
 
-<b><i>Impact of COVID-19</i></b>
-
 <div class="image">
   <img src="/images/CRP2.jpg" title="Participants of the inaugural run" alt="Participants of the inaugural run">Participants of the inaugural run. From left: Joel Chng, Tan Tian Hui and Nicholas Ng
 </div>
