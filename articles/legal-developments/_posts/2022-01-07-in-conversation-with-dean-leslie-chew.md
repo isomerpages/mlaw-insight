@@ -68,4 +68,6 @@ Sara Yang, 34, who graduated with a Bachelor of Laws in October 2021, was among 
 
 Last updated on 7 January 2022
 
-Other stories you may like: Interviews with the Deans of <a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" target="new">NUS Faculty of Law</a>, <a href="https://insight.mlaw.gov.sg/articles/future-of-law/2020-12-28-the-rise-of-legal-technology" target="new">SMU Yong Pung How School of Law</a>
+<b><i>Other stories you may like:</i></b>
+<a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" target="new">In Conversation with: Dean Simon Chesterman</a>
+<a href="https://insight.mlaw.gov.sg/articles/future-of-law/2020-12-28-the-rise-of-legal-technology" target="new">The Rise of Legal Technology</a>
