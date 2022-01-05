@@ -67,9 +67,8 @@ Prof Chew: While time is finite, it is not impossible to find time to do the thi
 Sara Yang, 34, who graduated with a Bachelor of Laws in October 2021, was among the pioneer batch of 20 law graduates from the SUSS School of Law. She gave birth to two children, now aged four and one, during her 4.5-year course at SUSS. Her journey of pursuing law while juggling work and motherhood was unfathomable yet admirable at the same time. While she had contemplated deferring her studies after her second child, Sara soldiered on after heeding advice from her university’s academic advisor, and with her husband’s unwavering support. 
 
 Last updated on 7 January 2022
-
-
+</div>
 <b>Other stories you may like:</b>
 
-<a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" target="new">In Conversation with: Dean Simon Chesterman</a>
+<a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" target="new">In Conversation with: Dean Simon Chesterman</a></div>
 <a href="https://insight.mlaw.gov.sg/articles/future-of-law/2020-12-28-the-rise-of-legal-technology" target="new">The Rise of Legal Technology</a>
