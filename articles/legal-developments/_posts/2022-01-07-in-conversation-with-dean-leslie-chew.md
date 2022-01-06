@@ -32,7 +32,7 @@ Prof Chew: Research has shown that for students who succeed, it is not simply ab
 
 This is particularly true of SUSS’s law students. They are working adults, often with young families. Juggling work, family responsibilities and school is not easy. However, the first batch of graduates, both from the J.D. and LL.B. programmes, have shown it is ‘doable’. The testimony of a recent LL.B. graduate, Sara Yang, is one fine example. Sara completed her course while working and at the same time, giving birth to two children! (Find out more about Sara’s story below.) 
 
-As the <a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" target="new">Dean of NUS Law</a> has observed, do not pursue law studies unless you really want it. Do not buy into the glamour or attractions offered by the media and the movies! Like all professions, the legal profession is one that requires a love for what you do to the exclusion of other ‘distractions’.  
+As the Dean of NUS Law (read more at the end of the article) has observed, do not pursue law studies unless you really want it. Do not buy into the glamour or attractions offered by the media and the movies! Like all professions, the legal profession is one that requires a love for what you do to the exclusion of other ‘distractions’.  
 
 <div class="image">
   <img src="/images/SUSS Law Dean 2.jpg" title="Prof Chew sharing a candid moment with his students at SUSS. (Credit: Prof Leslie Chew)" alt="Prof Chew sharing a candid moment with his students at SUSS. (Credit: Prof Leslie Chew)">Prof Chew sharing a candid moment with his students at SUSS. (Credit: Prof Leslie Chew)
