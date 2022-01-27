@@ -91,4 +91,9 @@ Social workers whom the team had reached out to seek feedback on the prototype a
 
 “We hope all this encourages family violence victims who might otherwise suffer in silence to seek help and also take action to help themselves.”
 
-<p class="right-side-updated">Last updated on 1 Mar 2021</p>
+Last updated on 1 March 2021
+<br>
+<br>
+<b>Other stories you may like:</b>
+
+<a href="https://insight.mlaw.gov.sg/articles/future-of-law/2020-12-28-the-rise-of-legal-technology" target="new">The Rise of Legal Technology</a><br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-05-05-the-future-is-legaltech" target="new">The Future is LegalTech</a>
