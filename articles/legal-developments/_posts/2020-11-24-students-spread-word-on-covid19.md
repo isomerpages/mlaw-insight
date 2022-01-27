@@ -76,5 +76,9 @@ The <a href="https://www.mlaw.gov.sg/covid19-relief">COVID-19 (Temporary Measure
 <br>(6) Concessions for collective sale procedures
 <br>(7) Re-Align Framework for businesses to renegotiate contracts
 
+Last updated on 24 November 2020
+<br>
+<br>
+<b>Other stories you may like:</b>
 
-<p class="right-side-updated">Last updated on 24 Nov 2020</p>
+<a href="https://insight.mlaw.gov.sg/articles/legal-developments/2021-1-29-the-race-to-give-singaporeans-and-local-businesses-a-lifeline" target="new">The Race to Give Singaporeans and Local Businesses a Lifeline</a><br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" target="new">In Conversation with: Dean Simon Chesterman</a><br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2020-12-28-the-rise-of-legal-technology" target="new">The Rise of Legal Technology</a>
