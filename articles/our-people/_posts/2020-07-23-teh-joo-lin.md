@@ -122,9 +122,9 @@ Asked if his mid-career switch had impeded his professional development, Mr Teh 
  
 “On both counts, I believe the answer is ‘yes’.”
 
+Last updated on 23 July 2020
+<br>
+<br>
+<b>Other stories you may like:</b>
 
-<p class="right-side-updated">Last updated on 23 July 2020</p>
-
-<i>Related Links</i>: <br>
-[Harold Foo - From Arguing to Shaping Our Laws](/articles/our-people/2020-08-27-harold-foo-from-arguing-to-shaping-laws)<br>
-[Maryam Hasanah Rozlan & Ng Xinyuan - Advancing Mediation: From Practice to Policy](/articles/our-people/2020-10-05-maryam-xinyuan-advancing-mediation)
+<a href="https://insight.mlaw.gov.sg/articles/going-global/2021-10-01-global-experts-connect-at-singapore-convention-week" target="new">Global Experts Connect at Singapore Convention Week</a><br><a href="https://insight.mlaw.gov.sg/articles/our-people/2020-10-05-maryam-xinyuan-advancing-mediation" target="new">Advancing Mediation: From Practice to Policy</a>
