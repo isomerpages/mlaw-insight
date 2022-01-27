@@ -113,3 +113,8 @@ A recap of highlights, speakers and events from SC Week 2021 can be found <a hre
 You may register your interest for SC Week 2022 at this <a href="https://go.gov.sg/sgconvention2022">link</a>.
 
 Last updated on 1 October 2021
+<br>
+<br>
+<b>Other stories you may like:</b>
+
+<a href="https://insight.mlaw.gov.sg/articles/our-people/2020-10-05-maryam-xinyuan-advancing-mediation" target="new">Advancing Mediation: From Practice to Policy</a><br><a href="https://insight.mlaw.gov.sg/articles/our-people/2020-07-23-teh-joo-lin-shifting-gears-from-media-to-mediation" target="new">Shifting Gears: From Media to Mediation</a>
