@@ -88,9 +88,9 @@ Today, while Mr Foo no longer prepares arguments for the courtroom, he neverthel
 
 He says: “I view it as a privilege to be able to use my experience and expertise to help younger lawyers in their journey, just as I have benefitted and continue to receive guidance and wisdom from others.”
 
+Last updated on 27 August 2020
+<br>
+<br>
+<b>Other stories you may like:</b>
 
-<p class="right-side-updated">Last updated on 27 Aug 2020</p>
-
-<i>Related Links</i>: <br>
-[Teh Joo Lin - Shifting Gears: From Media to Mediation](/articles/our-people/2020-07-23-teh-joo-lin-shifting-gears-from-media-to-mediation) <br>
-[Maryam Hasanah Rozlan & Ng Xinyuan - Advancing Mediation: From Practice to Policy](/articles/our-people/2020-10-05-maryam-xinyuan-advancing-mediation)
+<a href="https://insight.mlaw.gov.sg/articles/our-people/2020-10-05-maryam-xinyuan-advancing-mediation" target="new">Advancing Mediation: From Practice to Policy</a><br><a href="https://insight.mlaw.gov.sg/articles/legal-developments/2021-08-25-protecting-your-right-to-copyright" target="new">Protecting Your Right to Copyright</a>
