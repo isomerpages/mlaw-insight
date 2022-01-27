@@ -97,3 +97,8 @@ The recent copyright review has further strengthened Singapore’s high level of
 Concluding, Gavin said: “It is only when foreign investors and innovators have enough confidence in Singapore’s IA/IP regime that they would choose to bring their works and products here. This would definitely go a long way in driving Singapore’s business and economic relations.”
 
 Last updated on 25 August 2021
+<br>
+<br>
+<b>Other stories you may like:</b>
+
+<a href="https://insight.mlaw.gov.sg/articles/our-people/2021-06-09-the-precious-battle-against-money-laundering-and-terrorism-financing" target="new">The Precious Battle Against Money Laundering and Terrorism Financing</a><br><a href="https://insight.mlaw.gov.sg/articles/legal-developments/2021-1-29-the-race-to-give-singaporeans-and-local-businesses-a-lifeline" target="new">The Race to Give Singaporeans and Local Businesses a Lifeline</a>
