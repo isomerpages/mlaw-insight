@@ -103,3 +103,8 @@ I suppose another reason was that my kids — bizarrely — seemed to have no in
 Simon: So, did you ever get that sabbatical? Just curious.
 
 Last updated on 27 October 2021
+<br>
+<br>
+<b>Other stories you may like:</b>
+
+<a href="https://insight.mlaw.gov.sg/articles/legal-developments/2022-01-07-in-conversation-with-dean-leslie-chew" target="new">In Conversation with: Dean Leslie Chew</a><br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2020-12-28-the-rise-of-legal-technology" target="new">The Rise of Legal Technology</a>
