@@ -101,3 +101,8 @@ Nicholas: One of the speakers at the programme advised that in order to succeed 
 The second run of the China Ready Programme will commence in January 2022. Find out more and sign up <a href="https://hce-learning.com/china-ready-programme/" target="new">here</a>!
 
 Last updated on 30 November 2021
+<br>
+<br>
+<b>Other stories you may like:</b>
+
+<a href="https://insight.mlaw.gov.sg/articles/going-global/2021-10-01-global-experts-connect-at-singapore-convention-week" target="new">Global Experts Connect at Singapore Convention Week</a><br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-05-05-the-future-is-legaltech" target="new">The Future is LegalTech</a>

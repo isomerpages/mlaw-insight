@@ -99,3 +99,8 @@ Under the SLE scheme, selected LEs are gazetted as SLEs to handle uncontested ci
 Since March 2021, LAB has also expanded the SLE scheme to include certain types of uncontested probate and letters of administration cases, as well as certain types of Syariah Court divorce cases. LAB will continue to review the scheme and provide rigorous training to our SLEs so that they can serve our applicants in a meaningful way, develop themselves professionally and contribute to the success of LAB.
 
 Last updated on 27 July 2021
+<br>
+<br>
+<b>Other stories you may like:</b>
+
+<a href="https://insight.mlaw.gov.sg/articles/legal-developments/2021-05-27-in-conversation-with-justice-judith-prakash" target="new">In Conversation with: Justice Judith Prakash</a><br><a href="https://insight.mlaw.gov.sg/articles/legal-developments/2021-03-01-tech-ing-on-a-better-tomorrow" target="new">Tech-ing on a Better Tomorrow</a>

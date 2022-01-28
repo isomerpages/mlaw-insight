@@ -76,4 +76,9 @@ Enacted in 1961, the Act serves to protect and advance the rights of women and g
 
 Amendments have been made to the Charter over the years to ensure its continuing relevance as our society changes.
 
-<p class="right-side-updated">Last updated on 28 May 2021</p>
+Last updated on 28 May 2021
+<br>
+<br>
+<b>Other stories you may like:</b>
+
+<a href="https://insight.mlaw.gov.sg/articles/legal-developments/2022-01-07-in-conversation-with-dean-leslie-chew" target="new">In Conversation with: Dean Leslie Chew</a><br><a href="https://insight.mlaw.gov.sg/articles/our-people/2021-07-27-time-to-suit-up-paralegals" target="new">Time to Suit Up, Paralegals</a>

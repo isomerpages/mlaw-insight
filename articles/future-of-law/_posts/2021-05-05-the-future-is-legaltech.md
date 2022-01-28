@@ -92,4 +92,9 @@ MinLaw’s Ms Chua said the pandemic gave the legal industry a timely digital pu
 
 The <a href="https://www.mlaw.gov.sg/files/news/press-releases/2020/10/Minlaw_Tech_and_innovation_Roadmap_Report.pdf">Technology and Innovation Roadmap</a> highlights key trends that industry players should be aware of in deciding how best to forge ahead amidst a time of disruption and uncertainty. It also builds on existing initiatives that support industry players in their technology adoption and development efforts.
 
-<p class="right-side-updated">Last updated on 5 May 2021</p>
+Last updated on 5 May 2021
+<br>
+<br>
+<b>Other stories you may like:</b>
+
+<a href="https://insight.mlaw.gov.sg/articles/legal-developments/2021-03-01-tech-ing-on-a-better-tomorrow" target="new">Tech-ing on a Better Tomorrow</a><br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2020-12-28-the-rise-of-legal-technology" target="new">The Rise of Legal Technology</a>

@@ -135,3 +135,8 @@ Evelyn said: “I am confident that the dealers will continue to grow in their k
 <i>Watch <a href="https://fb.watch/6iou5MSAt_/" target="new">this video</a> to find out how PSPMs could be used in money laundering and terrorism financing!</i>
 
 Last updated on 23 June 2021
+<br>
+<br>
+<b>Other stories you may like:</b>
+
+<a href="https://insight.mlaw.gov.sg/articles/legal-developments/2021-08-25-protecting-your-right-to-copyright" target="new">Protecting Your Right to Copyright</a><br><a href="https://insight.mlaw.gov.sg/articles/legal-developments/2021-1-29-the-race-to-give-singaporeans-and-local-businesses-a-lifeline" target="new">The Race to Give Singaporeans and Local Businesses a Lifeline</a>

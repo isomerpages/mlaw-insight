@@ -86,5 +86,9 @@ At the end of the day, the team hoped that the measures had helped Singaporeans 
 
 ![image](https://github.com/isomerpages/mlaw-insight/blob/staging/images/clpdcovid1/picture5.jpg?raw=true)
 
+Last updated on 29 January 2021
+<br>
+<br>
+<b>Other stories you may like:</b>
 
-<p class="right-side-updated">Last updated on 29 Jan 2021</p>
+<a href="https://insight.mlaw.gov.sg/articles/legal-developments/2021-08-25-protecting-your-right-to-copyright" target="new">Protecting Your Right to Copyright</a><br><a href="https://insight.mlaw.gov.sg/articles/our-people/2021-06-09-the-precious-battle-against-money-laundering-and-terrorism-financing" target="new">The Precious Battle Against Money Laundering and Terrorism Financing</a>

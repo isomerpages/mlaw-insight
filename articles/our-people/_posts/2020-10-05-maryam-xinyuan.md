@@ -108,8 +108,9 @@ There is also much to look forward to as they continue their work in other areas
 
 Ms Maryam shares: “Having a meaningful career is important to me. I found my work back in the LAB extremely fulfilling, as I was able to witness first-hand the difference I was making in the lives of others. I am grateful that I am able to continue making a difference with the Policy Advisory team, though from a different perspective and in other spheres of society. There is still much to be done and needs to be met, but believing in the cause makes it worth the while.”
 
-<p class="right-side-updated">Last updated on 6 Oct 2020</p>
+Last updated on 6 October 2020
+<br>
+<br>
+<b>Other stories you may like:</b>
 
-<i>Related Links</i>: <br>
-[Teh Joo Lin - Shifting Gears: From Media to Mediation](/articles/our-people/2020-07-23-teh-joo-lin-shifting-gears-from-media-to-mediation) <br>
-[Harold Foo - From Arguing to Shaping Our Laws](/articles/our-people/2020-08-27-harold-foo-from-arguing-to-shaping-laws)
+<a href="https://insight.mlaw.gov.sg/articles/going-global/2021-10-01-global-experts-connect-at-singapore-convention-week" target="new">Global Experts Connect at Singapore Convention Week</a><br><a href="https://insight.mlaw.gov.sg/articles/our-people/2020-08-27-harold-foo-from-arguing-to-shaping-laws" target="new">From Arguing to Shaping Our Laws</a>

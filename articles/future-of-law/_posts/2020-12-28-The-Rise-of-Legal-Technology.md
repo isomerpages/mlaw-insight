@@ -75,4 +75,9 @@ For one, a Legal Industry Digital Plan is being developed to provide law firms w
 
 The rapid advancement of technology can no doubt increase lawyer and law firm productivity, enhance communications and bring about convenience. If utilised efficiently and effectively, technology could and would exponentially enhance the value of the work we do. 
 
-<p class="right-side-updated">Last updated on 28 Dec 2020</p>
+Last updated on 28 December 2020
+<br>
+<br>
+<b>Other stories you may like:</b>
+
+<a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-05-05-the-future-is-legaltech" target="new">The Future is LegalTech</a><br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" target="new">In Conversation with: Dean Simon Chesterman</a>
