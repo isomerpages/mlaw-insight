@@ -27,8 +27,7 @@ google_analytics: UA-10405444-22
 permalink: none
 baseurl: ""
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: page
@@ -40,3 +39,17 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+colors:
+  primary-color: '#a40935'
+  secondary-color: '#a40935'
+  media-colors:
+    - title: media-color-one
+      color: '#49759a'
+    - title: media-color-two
+      color: '#744d9f'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'
