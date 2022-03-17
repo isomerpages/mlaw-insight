@@ -7,7 +7,7 @@ breadcrumb: 'Our People'
 ---
 
 
-### **Time to Suit Up, Paralegals**
+### **Getting to the Heart of Community Conflicts**
 
 <i>Insight MinLaw goes behind the scenes to uncover stories about how the work we do impacts you.</i>
 <br>
