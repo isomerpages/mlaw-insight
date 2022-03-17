@@ -110,7 +110,7 @@ As such successful mediation cases have shown, fiery conflicts are often extingu
 
 <i>For more on the enhancements to the Community Dispute Mediation Framework, read MinLaw's COS 2022 speech <a href="https://www.mlaw.gov.sg/news/parliamentary-speeches/2022-03-03-response-speech-by-mr-edwin-tong-at-the-committee-of-supply-2022-minlaw" target="new">here</a>, and MCCY's speech <a href="https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2022/mar/A-Strong-Caring-and-Inclusive-Singapore" target="new">here</a>.<i>
 
-Last updated on 17 March 2022
+Last updated on 18 March 2022
 <br>
 <br>
 <b>Other stories you may like:</b>
