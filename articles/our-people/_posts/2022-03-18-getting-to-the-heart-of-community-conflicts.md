@@ -1,7 +1,7 @@
 ---
 title: 'Getting to the Heart of Community Conflicts'
-date: 2022-03-17
-permalink: /articles/our-people/2022-03-17-getting-to-the-heart-of-community-conflicts
+date: 2022-03-18
+permalink: /articles/our-people/2022-03-18-getting-to-the-heart-of-community-conflicts
 breadcrumb: 'Our People'
 
 ---
