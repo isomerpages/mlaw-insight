@@ -6,8 +6,8 @@ breadcrumb: Our People
 ---
 ### **Getting to the Heart of Community Conflicts**
 
-<i>Insight MinLaw goes behind the scenes to uncover stories about how the work we do impacts you.</i>
-<br>
+*Insight MinLaw goes behind the scenes to uncover stories about how the work we do impacts you.
+*
 
 You may have seen headlines about feuding neighbours during the pandemic. The reasons were diverse – from unhappiness over cooking smells to loud noises and secondhand smoke. While such situations can sometimes escalate and turn hostile, these warring disputes can also be peacefully mended before further damage is done.
 
