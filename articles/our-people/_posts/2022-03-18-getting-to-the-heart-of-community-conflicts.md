@@ -6,8 +6,8 @@ breadcrumb: Our People
 ---
 ### **Getting to the Heart of Community Conflicts**
 
-<i>Insight MinLaw goes behind the scenes to uncover stories about how the work we do impacts you.</i>
-<br>
+*Insight MinLaw goes behind the scenes to uncover stories about how the work we do impacts you.*
+
 
 You may have seen headlines about feuding neighbours during the pandemic. The reasons were diverse – from unhappiness over cooking smells to loud noises and secondhand smoke. While such situations can sometimes escalate and turn hostile, these warring disputes can also be peacefully mended before further damage is done.
 
@@ -95,7 +95,7 @@ As such successful mediation cases have shown, fiery conflicts are often extingu
 
 *If you need more information on community mediation or would like to apply for a session at the CMC, visit [here](https://cmc.mlaw.gov.sg/e-services/apply-online/).*
 
-For more on the enhancements to the Community Dispute Mediation Framework, read MinLaw's COS 2022 speech [here](https://www.mlaw.gov.sg/news/parliamentary-speeches/2022-03-03-response-speech-by-mr-edwin-tong-at-the-committee-of-supply-2022-minlaw), and MCCY's speech [here](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2022/mar/A-Strong-Caring-and-Inclusive-Singapore).
+*For more on the enhancements to the Community Dispute Mediation Framework, read MinLaw's COS 2022 speech [here](https://www.mlaw.gov.sg/news/parliamentary-speeches/2022-03-03-response-speech-by-mr-edwin-tong-at-the-committee-of-supply-2022-minlaw), and MCCY's speech [here](https://www.mccy.gov.sg/about-us/news-and-resources/speeches/2022/mar/A-Strong-Caring-and-Inclusive-Singapore).*
 
 Last updated on 18 March 2022
 <br>
