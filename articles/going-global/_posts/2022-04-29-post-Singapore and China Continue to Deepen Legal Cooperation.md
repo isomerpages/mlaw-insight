@@ -5,7 +5,6 @@ date: 2022-04-29
 layout: post
 description: ""
 ---
-
 ### **Singapore and China Continue to Deepen Legal Cooperation**
 
 <i>Insight MinLaw goes behind the scenes to uncover stories about how the work we do impacts you.</i>
@@ -21,7 +20,7 @@ The event featured more than 30 speakers who shared their insights on the develo
 
 Speaking from Beijing, Secretary of the Leading CPC Members Group and Chairman of CCPIT Mr Ren Hongbin said that the ability to effectively resolve international commercial disputes was important for businesses. He said it was also an important way to deepen cooperation and would bring benefits, adding that CCPIT would work with their Singapore counterparts to bring cooperation in this area to a new level.
 
-**Areas of legal cooperation**
+***Areas of Legal Cooperation***
 
 MinLaw and CCPIT demonstrated this commitment to deepen legal cooperation by signing a Memorandum of Cooperation to jointly organise an annual conference. This was signed by Mr Calvin Phua, Deputy Secretary of MinLaw, and Mr Ke Liangdong, Vice Chairperson of CCPIT. 
 
@@ -37,7 +36,7 @@ The members from Singapore are Mr Cavinder Bull SC, Mr Daryl Chew, Mr Chia Kim H
 
 “I am confident that they will be able to make suitable recommendations, after studying the relevant legislation, the landscape and most importantly, understanding deeply the business environment because ultimately and fundamentally, dispute resolution does not exist on its own,” said Minister Edwin. “It exists to support businesses, resolve dispute in as efficient and efficacious way as possible, so that more businesses will want to come into this environment,” he added.
 
-**The future of commercial dispute resolution**
+***The Future of Commercial Dispute Resolution***
 
 Speakers in the government, legal and business sectors also shared interesting insights during the three panel discussions. 
 
