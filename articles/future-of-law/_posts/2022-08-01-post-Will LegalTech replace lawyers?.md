@@ -36,73 +36,87 @@ Insight MinLaw caught up with Chief Commercial Officer and Co-Founder of Lupl, M
   <img src="/images/matt-alyssa.jpeg/" title="Chief Commercial Officer and Co-Founder of Lupl, Matthew Pollins (left) and Director for Professional Services Programme Office at Ministry of Law, Alyssa Toh (right)" alt="Chief Commercial Officer and Co-Founder of Lupl, Matthew Pollins (left) and Director for Professional Services Programme Office at Ministry of Law, Alyssa Toh (right)">Chief Commercial Officer and Co-Founder of Lupl, Matthew Pollins (left) and Director for Professional Services Programme Office at Ministry of Law, Alyssa Toh (right)
 </div>
 
-Ahead of the pack, the firm allowed staff to work from home and conduct their matters online – a full two years before the pandemic. But there were challenges, including strong resistance from their clients when it came to discussing cases online. When COVID-19 struck, firms and clients alike had no choice but to pivot online – a validation of VanillaLaw’s business and operating model.
+<b><i>Insight MinLaw: What are some of the biggest challenges and trends you have noticed in LegalTech, locally and globally?</i></b>
 
-Over the years, the firm has transformed itself into a digital legal practice with technology at the core of everything they do. This also meant taking an extra step in developing their own in-house proprietary document assembly software, VanillaLaw® Docs. A brainchild of Mark’s, the software was borne out of his perennial struggle with physical repositories of templates and precedents. Since Mark could not find any software on the market that met his expectations, he decided to develop one in-house. Today, VanillaLaw® Docs helps interns and junior lawyers to create the first drafts of various types of legal documents with an accuracy rate of up to 70%.
+Matt: The big trend right now is integration. There is a growing amount of LegalTech out there but too often, those tools and systems do not integrate well with each other. That was one of the biggest frustrations we noted from law firms and legal departments all over the world, including in Singapore. That is why we are so excited about the LTPI, because it is all about bringing things together in a simple and intuitive system, with a combination of rich native functionality and integrations with key systems.
 
-<div class="image">
-  <img src="/images/PSPOESC Photo 3.JPG/" title="An example of document assembly on VanillaLaw® Docs." alt="An example of document assembly on VanillaLaw® Docs.">An example of document assembly on VanillaLaw® Docs.
-</div>
+Alyssa: In our engagements with the industry, many lawyers highlighted a range of challenges that cause inefficiencies in their daily workflows. These include having to toggle among various communication mediums like messaging applications, emails, and Microsoft Teams with clients, because it requires additional effort to track and document essential information for cases. Lawyers also struggle to consistently track down the amount of work and level of profitability for each client’s case in real time.  
 
-In addition to going largely digital, the firm has also adopted “holocracy”, a novel organisational structure to replace conventional management hierarchies. Under this system, interns are given more autonomy to carry out and deliver their work, which in turn enables the firm to better assess their abilities before awarding training contracts – this is the primary way the firm hires young lawyers.
+While there are many tools available in the market, most tools are designed for discrete functions and do not allow lawyers to have a single, consolidated view of their matters. In addition, Small and Medium Practices (SMPs) may not be resourced from a cost and expertise point of view, to be able to effectively curate suitable solutions.
 
-When asked about the productivity gains that technology has brought to his firm, Mark quipped: “I do not quantify the benefits of technology in this manner. The only quantification for me is that I get to earn the same but have more free time for myself to do the things I enjoy and catch up on sleep.”
+<b><i>Insight MinLaw: What was the impetus and the factors considered behind the development of LTP?</i></b>
 
-<b><i>Oon-wards with Technology</i></b>
+Alyssa: The LTP is conceptualised with lawyers and law firms in mind and meant to address their pain points, and targeted to directly help SMPs. It is designed around lawyers’ typical matter workflows so that it is intuitive to use. As a cloud/browser-based solution, it minimises the need for law firms to set up specialised IT expertise to manage the firm’s technology suite.
 
-When Singapore entered the circuit breaker period last year, business continuity across most industry sectors were affected as overnight, telecommuting became the only mode of operation – but not for Oon & Bazul LLP. Disruption was kept to a minimum thanks to their technology-focused business continuity plan, which included simulations of various scenarios including a complete shutdown due to a terrorist attack.
+At the same time, we made sure that the LTP is integrated with other commonly used legaltech tools, to ensure that it caters to the needs of legal firms at various stages of digitalisation. Law firms which are just starting their digitalisation journey can easily choose and onboard a comprehensive suite of technology tools which are already widely accepted by the market. The inter-operability with existing legaltech tools also makes it easier for law firms with existing solutions to come onboard seamlessly.
 
-As the law firm had always placed technology at the core of its growth philosophy, this allowed them to better navigate the challenges posed by the pandemic. In fact, for some segments of practice, the firm’s productivity went up and billings increased even when travel restrictions kicked in. They were able to meet with clients more frequently via virtual meetings – across different time zones – and receive instructions faster as compared to traditional face-to-face meetings.
+Matt: We spent several months just listening to lawyers at Singapore law firms, working closely with MinLaw and consulting with key industry groups in Law Society and others. We wanted to make sure we had a deeper understanding of their workflows, current technology systems, and the key challenges. That input directly shaped the features for the LTP.
 
-<div class="image">
-  <img src="/images/PSPOESC Photo 4.jpg/" title="Bazul Ashhab (presenting), Managing Partner at Oon & Bazul LLP, at an internal meeting with employees pre-COVID-19." alt="Bazul Ashhab (presenting), Managing Partner at Oon & Bazul LLP, at an internal meeting with employees pre-COVID-19.">Bazul Ashhab (presenting), Managing Partner at Oon & Bazul LLP, at an internal meeting with employees pre-COVID-19.
-</div>
+For example, we heard a lot from lawyers about the importance of data protection, and how data localisation will provide additional comfort, that is why the LTP is hosted in Singapore. Similarly, every lawyer we spoke to mentioned that their clients increasingly tend to communicate with them via WhatsApp – more so than in any other jurisdiction we have come across.
 
-“Technology will continue to evolve. One needs to be laser-focused when it comes to technology or risk being annihilated in a dynamic and competitive environment,” noted Bazul Ashhab, Managing Partner at Oon & Bazul LLP.
-
-The firm leveraged the Tech-celerate for Law initiative to procure software such as Tessaract.io, an end-to-end collaborative practice management software. Apart from Tessaract.io, the firm also adopted the productivity tool Clarilis, a document automation platform that helps lawyers and corporate counsel with the drafting process for all forms of legal documentation. 
+For that reason, we built a WhatsApp integration, which allows lawyers to meet clients where they are, without sacrificing security and compliance. This iterative development process is never complete – it is a constant progress. Currently, we are experiencing a high demand for more connectivity with Government and public data systems, such as  eLitigation, and this is next on our development roadmap.
 
 <div class="image">
-  <img src="/images/PSPOESC Photo 5.jpeg/" title="Bazul Ashhab, Managing Partner at Oon & Bazul LLP." alt="Bazul Ashhab, Managing Partner at Oon & Bazul LLP.">Bazul Ashhab, Managing Partner at Oon & Bazul LLP.
+  <img src="/images/LTPI-dashboard.png/" title="Dashboard view of LTP" alt="Dashboard view of LTP">Dashboard view of LTP (Credit: <a href="https://ltpi.mlaw.gov.sg/ltp">https://ltpi.mlaw.gov.sg/ltp</a>)
 </div>
 
-The success recipe for the firm was a combination of a bottom-up approach involving staff across all levels, formulation of a comprehensive technology learning and development plan for all employees, as well as regular investments in technology. “I will not make a decision until I have heard from every business segment, including non-lawyers,” said Bazul, emphasizing the firm’s senior management’s belief in adopting a consultative approach.
+<b><i>Insight MinLaw: Why launch the initiative now?</i></b>
 
-<b><i>Out with the Old, In with the New</i></b>
+Alyssa: Digitalisation has been a multi-year effort for MinLaw. Since 2017, MinLaw has embarked on various efforts to encourage digitalisation, particularly among the SMPs. Most of the earlier initiatives were targeted at extending grants that subsidised the costs of onboarding selected digital solutions.
 
-Uprooting legacy systems and processes that have served companies well for over three decades might be daunting for most, but 35-year-old law practice BR Law Corporation defied the odds to emerge as a stronger outfit. When the firm decided to upgrade its technology infrastructure in 2017, it did not expect to break the mould and transcend what most traditional law firms would have done.
+However, the pain points experienced by law firms during technology adoption go beyond the dollars and cents. A key challenge lies in the lack of the economies-of-scale to effectively identify, curate, and deploy technology solutions. This calls for a more direct form of support by providing the actual solutions that can address the digitalisation challenges faced by the industry.
 
-“There will always be a fair level of inertia in technology adoption, especially when there are legacy systems in place that has served the firm well for years,” shared Dharma Sadasivan, Director at BR Law Corporation.
+The timing is right for a more direct support like the LTP, because the COVID-19 pandemic has renewed the industry’s interest and appetite in technology adoption. During the Circuit Breaker period, many SMPs found it challenging to continue with their business operations as they lacked the digital means to transit fully into remote working. With this experience in mind, SMPs have become more open to adopting legal technology.  
+  
+
+<b><i>Insight MinLaw: What do you think differentiates the LTP from other LegalTech platforms?</i></b>
+
+Alyssa: I think what sets the LTP apart is the co-creation approach MinLaw has taken to develop the LTP. It is a continual process which involves an established active feedback loop with the legal community, to test and provide their insights and suggestions to refine the platform.
+
+It was through this process that we identified important Singapore-specific features, such as the WhatsApp integration I mentioned earlier, and have comments consolidated on the LTP. As far as we know, such an integration is an industry-first, because we heard our lawyers say that WhatsApp is a mode of communication that clients here commonly use.
+
+Moving forward, we will build more Singapore-specific features, such as linkages to public systems including eLitigation– which will be made available later. The enhanced access allows lawyers to be more efficient in using these systems. Such integrations are possible only with the strong support of the Government and public institutions.  
+  
+
+<b><i>Insight MinLaw: What was your experience like collaborating with MinLaw? Was there a eureka moment? Tell us what went on behind the scenes.</i></b>
+
+Matt: I remember reading MinLaw’s Technology and Innovation Roadmap back in late 2020, thinking how unique it was for the public sector to be getting behind legal technology for the benefit of law firms and their clients. It is the only country I can think of where such support and backing exists.
+
+Of course, a roadmap is one thing – delivering on it is another – and there has been a huge amount of hard work in the background over several months, from MinLaw, Lupl, various industry groups and our integration partner companies such as Tessaract, Clio, LexisNexis, iManage, Net Documents and others.
+
+<b><i>Insight MinLaw: Tell us more about the funding programme and other ways in which MinLaw is supporting law firms’ onboarding to the LTP?</i></b>
+
+Alyssa: Cost is an important consideration for law firms when it comes to digital adoption. For the LTP, we partnered with Infocomm Media Development Authority and Enterprise SG to roll out a funding programme where law firms can obtain substantial support, up to 70% for up to two years. This will help them significantly in lowering the initial costs of adoption.
+
+Apart from funding, our technology provider, Lupl, has also provided a dedicated onboarding and customer success team to guide the law firms adopting the solution. There is also 24/7 tech support to address issues timely. All these go towards ensuring a smooth and seamless onboarding process to the LTP for law firms.
 
 <div class="image">
-  <img src="/images/PSPOESC Photo 6.jpg/" title="Dharma Sadasivan (right), Director at BR Law Corporation, with a colleague in a photo taken pre-COVID-19." alt="Dharma Sadasivan (right), Director at BR Law Corporation, with a colleague in a photo taken pre-COVID-19.">Dharma Sadasivan (right), Director at BR Law Corporation, with a colleague in a photo taken pre-COVID-19.
+  <img src="/images/finding-out-about-ltp.jpeg/" title="Participant finding out more about LTP at the launch event" alt="Participant finding out more about LTP at the launch event">Participant finding out more about LTP at the launch event
 </div>
 
-To navigate the potential challenges of adoption, Dharma paid close attention to the user interface and user experience (UI/UX) as key considerations when mapping out the firm’s technology refresh roadmap. As commercial solutions available back then did not meet BR Law’s needs, the law firm decided to embark on a custom-built solution.
+<b><i>Insight MinLaw: What future developments can we look forward to in terms of the LTP? And what is the vision for the LTPI?</i></b> 
 
-Their new Legal Practice Management (LPM) system took more than a year to develop due to the firm’s emphasis on UI/UX. This was reflected in efforts to engage users from various practice areas and departments for feedback at different stages, and on their specific work processes. The result of their efforts was a custom-built, cloud-based LPM system that enabled the firm to be more data-driven in making decisions.
+Matt: We have come a long way in a short period of time. But we are not done! Our commitment to Singapore firms is that we will keep listening and keep responding. Some of the areas we are prioritising right now include linking up with Government and public systems, like SingPass. We have also heard some requests for integrations or features to help streamline Know Your Customer and Anti-Money Laundering software. That is something we are also actively exploring.
 
-While travel restrictions have made it challenging to physically meet prospective clients and partners based overseas, technology has empowered BR Law to extend their outreach. With video conferencing as the ‘new normal’, they were able to reach over 300 attendees in a single webinar, which was more than ten times the typical turnout of physical seminars.
+Finally, we continue to add depth and breadth to the native features of the platform itself. One of our most popular features is Matter Templates – think of these as pre-built matters that help automate matter setup, accelerate the process, and reduce risks. We are looking to add more Singapore-specific content to the library, so stay tuned.
 
-<div class="image">
-  <img src="/images/PSPOESC Photo 7.JPG/" title="A video conference with staff across BR Law’s offices and who are telecommuting." alt="A video conference with staff across BR Law’s offices and who are telecommuting.">A video conference with staff across BR Law’s offices and who are telecommuting.
-</div>
+Most importantly, our message to Singapore law firms is – to keep the ideas coming! The LTP exists to help make things easier and efficient for the benefit of you and your clients – and this is your opportunity to tell us what you would like to see. Your ideas will shape the future of the LTP.
 
-The firm is not resting on its laurels as they continue their technology journey. What’s next? A cloud-based phone system that allows users to make, receive, and transfer office calls using their DIDs via a mobile application – all this while they continue to explore other technology tools to improve their processes, work flexibility and business resilience.
+Alyssa: We hope that availing an easy to use, low-cost, “one-stop solution” that could fulfil most of the law firms’ digitalisation needs will accelerate the digitalisation journeys of the Singapore law firms. At the firm-level, law firms can benefit from productivity gains and operational resilience. At the industry level, it brings us closer to our ambitions of modernising the Singapore legal sector and spurring more legal technology innovation here.  
 
-MinLaw’s Ms Chua said the pandemic gave the legal industry a timely digital push. She noted: “As we pivot to new opportunities with technology, it is inevitable that we will face challenges along the way. However, I am certain that the legal industry will emerge stronger and further strengthen Singapore’s position as a leading international legal services hub.”
+<b><i>Insight MinLaw: Do you think there will come a day when lawyers are replaced by technology? Why?</i></b>
 
-<div class="image">
-  <img src="/images/PSPOESC Photo 8.jpg/">
-</div>
+Alyssa: The short answer is no, at least not in our lifetime.
 
-<b><i>About the Technology and Innovation Roadmap</i></b>
+There is still a lot of room to leverage technology for the more standardised and repetitive work, such as drafting legal letters, billing and accounting. According to a report by Deloitte, 39% of legal jobs can be automated. For complex work though, such as a multi-billion-dollar Mergers & Acquisitions transaction, or in mediation and arbitration, which requires a high level of reasoning, creativity, and emotional intelligence, chances are that people would still be more comfortable with their trusted legal professionals.
 
-The <a href="https://www.mlaw.gov.sg/files/news/press-releases/2020/10/Minlaw_Tech_and_innovation_Roadmap_Report.pdf">Technology and Innovation Roadmap</a> highlights key trends that industry players should be aware of in deciding how best to forge ahead amidst a time of disruption and uncertainty. It also builds on existing initiatives that support industry players in their technology adoption and development efforts.
+We should see technology as augmenting and enhancing what our lawyers have to offer, because what it does is it enables our lawyers to improve the quality of their work, free them up to do higher value-add work and service their clients better.
 
-Last updated on 5 May 2021
+So really, what technology does is it not only does not replace lawyers’ work, but in fact reduces laborious and repetitive manual work which are less meaningful to them, so that they don’t waste their time and suffer from burn-out.
+
+Last updated on 1 Aug 2022
 <br>
 <br>
 <b>Other stories you may like:</b>
 
-<a href="https://insight.mlaw.gov.sg/articles/legal-developments/2021-03-01-tech-ing-on-a-better-tomorrow" target="new">Tech-ing on a Better Tomorrow</a><br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2020-12-28-the-rise-of-legal-technology" target="new">The Rise of Legal Technology</a>
+<a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-05-05-the-future-is-legaltech" target="new">The Future is LegalTech</a><br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" target="new">In Conversation with: Dean Simon Chesterman</a>
