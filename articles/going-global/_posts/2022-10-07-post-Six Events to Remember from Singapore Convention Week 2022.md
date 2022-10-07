@@ -88,4 +88,4 @@ Last updated on 7 October 2022
 <br>
 <b>Other stories you may like:</b>
 
-<a href="https://insight.mlaw.gov.sg/articles/going-global/2021-10-01-global-experts-connect-at-singapore-convention-week" target="new">Global Experts Connect at Singapore Convention Week</a><br><a href="https://insight.mlaw.gov.sg/articles/going-global/2021-11-30-are-you-china-ready" target="new">Are You China-Ready?</a>
+<a href="https://insight.mlaw.gov.sg/articles/going-global/2022-05-05-singapore-china-continue-to-deepen-legal-cooperation" target="new">Singapore and China Continue to Deepen Legal Cooperation</a><br><a href="https://insight.mlaw.gov.sg/articles/going-global/2021-10-01-global-experts-connect-at-singapore-convention-week" target="new">Global Experts Connect at Singapore Convention Week</a>
