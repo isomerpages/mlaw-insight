@@ -16,7 +16,7 @@ Organised by the Ministry of Law (MinLaw) in collaboration with 21 supporting pa
 
 At the heart of SC Week 2022 was the UNCITRAL Academy, which comprised the UNCITRAL Academy Conference and Capacity-Building Workshops. Jointly organised by MinLaw and the United Nations Commission on International Trade Law (UNCITRAL), the UNCITRAL Academy took place from 30 August to 1 September 2022. Themed <i>“Embracing Global Change, Navigating New Possibilities”</i>, the discussions centred on current trends and challenges in cross-border dispute resolution amidst the quick-changing global landscape, and breakthroughs in dispute resolution practice.
 
-<picture 1>
+![](/images/SCWeek2022/SCW1.png)
 
 Minister for Home Affairs and Minister for Law K Shanmugam SC delivered his welcome address, emphasising the importance of upholding rules-based multilateralism against a backdrop of uncertainty and global challenges brought about by COVID-19 and geopolitical tensions. He highlighted, “The Singapore Convention on Mediation provides businesses with greater assurance that their international mediated settlement agreements can be enforced across borders.”
 
