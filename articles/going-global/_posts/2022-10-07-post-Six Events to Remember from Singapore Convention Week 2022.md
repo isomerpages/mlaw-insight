@@ -80,7 +80,7 @@ The success of SC Week 2022 is a testament to the pivotal role that Singapore co
 
 The Singapore Convention on Mediation is an essential instrument in the facilitation of international trade and the promotion of mediation as an effective cross-border dispute resolution option. SC Week reinforces our commitment to the Convention and to multilateralism.
 
-Highlights of the SC Week 2022 are available at <a href=:https://www.singaporeconventionweek.sg" target-"new">https://www.singaporeconventionweek.sg</a>. 
+Highlights of the SC Week 2022 are available at <a href="https://www.singaporeconventionweek.sg" target-"new">https://www.singaporeconventionweek.sg</a>. 
 
 
 Last updated on 7 October 2022
