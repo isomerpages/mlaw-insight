@@ -26,11 +26,11 @@ During a fireside chat on the evolution of dispute resolution in Asia, Minister 
 
 Senior Parliamentary Secretary, Ministry of Health and Ministry of Law, Rahayu Mahzam launched the second edition of the Singapore International Dispute Resolution Academy’s (SIDRA) Singapore Convention on Mediation Commentary Book during the UNCITRAL Academy Conference. 
  
- <picture 2>
+![](/images/SCWeek2022/SCW2.png)
  
 The Conference also hosted rich panel discussions on pertinent topics such as investor-state dispute settlement reforms and dispute resolution in relation to the digital economy, climate change and various specialised fields.
  
-<picture 3>
+![](/images/SCWeek2022/SCW3.png)
 
 Three UNCITRAL Academy Capacity-Building Workshops were held virtually over two days:  
 
@@ -42,31 +42,31 @@ Three UNCITRAL Academy Capacity-Building Workshops were held virtually over two 
 
 <b>2.	Partner Events</b>
  
- <picture 4>
+![](/images/SCWeek2022/SCW4.png)
  
 SC Week 2022 proudly offered a large range of exciting events organised by partner institutions and associations throughout the week, which explored a range of legal and dispute resolution-related topics, such as Singapore’s role in Maritime Dispute Resolution, litigation in the Asia-Pacific Region and Complex Mediations for a Digital Age. The events drove rich discussions among global experts and thought leaders. 
 
 <b>3.	Reimagine, Rethink, Remake International Commercial Dispute Resolution Event</b>
  
- <picture 5>
+![](/images/SCWeek2022/SCW5.png)
  
 Promising young dispute resolution practitioners from around the world came to Singapore to exchange views on emerging issues in dispute resolution on 31 August 2022, with Second Minister for Law Edwin Tong SC and Senior Parliamentary Secretary for Law Rahayu Mahzam joining in the roundtable discussions and presentations. It was an insightful session, where the practitioners shared varied perspectives and experiences with their peers, with a view to shaping the future of international dispute resolution.  
 
 <b>4.	Welcome Reception</b>
 
-<picture 6>
+![](/images/SCWeek2022/SCW6.png)
  
 Guests enjoyed a stunning bird’s eye view of Singapore, while reconnecting with old friends and toasting to new connections at an exclusive Welcome Reception hosted by MinLaw to formally welcome SC Week 2022 participants and kick off the week’s events on 29 August 2022.
 
 <b>5.	Breaking with Convention Networking Event</b>
 
-<picture 7>
+![](/images/SCWeek2022/SCW7.png)
 
 After a day of fruitful discussions at the UNCITRAL Academy Conference on 30 August 2022, participants gathered along the rich historic lanes of Emerald Hill for a casual evening of networking with light bites and drinks.  
 
 <b>6.	Experience Singapore</b>
 
-<picture 8> 
+![](/images/SCWeek2022/SCW8.png)
 
 SC Week 2022 participants were given a ‘taste’ of Singapore through various curated activities on 28 August 2022. 
 The <i>Market to Table Culinary Experience</i> brought participants to a wet market to pick out fresh ingredients and cook local favourites such as chicken rice, alongside professional chefs. Gin enthusiasts who signed up for the Brass Lion Distillery Tour learnt more about the distilling process and sampled some locally-made spirits. 
