@@ -6,6 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
+<i>Insight MinLaw goes behind the scenes to uncover stories about how the work we do impacts you.</i>
+<br>
+
 What a year 2022 has been! As 2022 comes to an end, we reflect on what we have achieved as a MinLaw family. It greatly helped that, with Singapore progressively transitioning towards living with COVID-19, we could hold more face-to-face events. These provided the platform for people – both locally and globally – to reconnect and forge new friendships and partnerships. All these would not have been possible without the strong support from our partners and stakeholders. We were delighted to be able to show our appreciation in person to our partners and volunteers who had supported the work we do. 
 
 **The Year of Beginnings**
