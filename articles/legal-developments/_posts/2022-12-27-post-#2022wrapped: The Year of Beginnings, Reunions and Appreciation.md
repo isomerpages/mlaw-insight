@@ -17,14 +17,14 @@ What a year 2022 has been! As 2022 comes to an end, we reflect on what we have a
 
 2022 was a year of beginnings, as the MinLaw family launched several initiatives, including the following.   
 
-•	The Public Defender’s Office (PDO) was officially launched in 2022. First of its kind in Singapore, the PDO provides criminal defence aid to those facing non-capital criminal charges but are unable to afford legal representation due to limited means. To benefit more Singaporeans, the income limit coverage has been raised from the 25th to the 35th percentile of resident households, and the range of offences has been expanded. 
+* The Public Defender’s Office (PDO) was officially launched in 2022. First of its kind in Singapore, the PDO provides criminal defence aid to those facing non-capital criminal charges but are unable to afford legal representation due to limited means. To benefit more Singaporeans, the income limit coverage has been raised from the 25th to the 35th percentile of resident households, and the range of offences has been expanded. 
 
-•	The Conditional Fee Agreements framework came into operation in 2022, as part of ongoing efforts to enhance our litigation funding landscape to better support the needs of businesses. 
+* The Conditional Fee Agreements framework came into operation in 2022, as part of ongoing efforts to enhance our litigation funding landscape to better support the needs of businesses. 
 
 
-•	The Legal Technology Platform Initiative was launched in 2022 to provide a matter management and collaboration tool designed around legal workflows, to help small and medium law kickstart their digitalisation journeys. 
+* The Legal Technology Platform Initiative was launched in 2022 to provide a matter management and collaboration tool designed around legal workflows, to help small and medium law kickstart their digitalisation journeys. 
 
-•	The Singapore Land Authority announced the rejuvenation of Gillman Barracks which would transform the area into an exciting and vibrant creative lifestyle enclave for all to enjoy. 
+* The Singapore Land Authority announced the rejuvenation of Gillman Barracks which would transform the area into an exciting and vibrant creative lifestyle enclave for all to enjoy. 
 
 
 **The Year of Reunions
