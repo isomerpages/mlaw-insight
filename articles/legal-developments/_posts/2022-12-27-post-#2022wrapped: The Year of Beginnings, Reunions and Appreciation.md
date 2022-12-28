@@ -27,8 +27,7 @@ What a year 2022 has been! As 2022 comes to an end, we reflect on what we have a
 * The Singapore Land Authority announced the rejuvenation of Gillman Barracks which would transform the area into an exciting and vibrant creative lifestyle enclave for all to enjoy. 
 
 
-**The Year of Reunions
-**
+**The Year of Reunions**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RzUTNT_kp68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
