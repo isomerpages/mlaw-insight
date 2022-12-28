@@ -13,6 +13,7 @@ What a year 2022 has been! As 2022 comes to an end, we reflect on what we have a
 
 **The Year of Beginnings**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASttGhroOWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2022 was a year of beginnings, as the MinLaw family launched several initiatives, including the following.   
 
@@ -29,6 +30,7 @@ What a year 2022 has been! As 2022 comes to an end, we reflect on what we have a
 **The Year of Reunions
 **
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzUTNT_kp68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2022 was also a year of reunions. 
 
@@ -39,6 +41,8 @@ The Singapore-China International Commercial Dispute Resolution Conference retur
 We also saw the return of IP Week @ SG 2022, with more in-person programmes. The IP Marketplace – a hub for networking, events and exhibition – was also brought back. 
 
 **The Year of Appreciation**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lNWmkYAV-vI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2022 also called for appreciation for the efforts of MinLaw’s partners and volunteers who had supported MinLaw’s efforts over the past years, during the pandemic and in the transitioning phase. 
 
