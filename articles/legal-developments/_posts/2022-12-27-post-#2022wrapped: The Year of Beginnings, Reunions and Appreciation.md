@@ -52,3 +52,7 @@ The Mediators’ Appointment Ceremony and Appreciation Dinner 2022 returned afte
 **New Year, New Heights**
 
 In the new year, MinLaw will continue to enhance our efforts to strengthen the rule of law, provide a trusted legal system and to continue to advance access to justice for the public.
+
+<b>Other stories you may like:</b>
+
+<a href="https://insight.mlaw.gov.sg/articles/going-global/2022-10-07-six-events-to-remember-singapore-convention-week-2022/" target="new">Six Events to Remember from Singapore Convention Week 2022</a><br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/will-legaltech-replace-lawyers" target="new">Will LegalTech replace lawyers?</a>
