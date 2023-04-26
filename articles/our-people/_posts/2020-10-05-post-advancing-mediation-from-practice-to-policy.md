@@ -1,7 +1,7 @@
 ---
 title: 'Advancing Mediation: From Practice to Policy'
 date: 2020-10-05
-permalink: /articles/our-people/2020-10-05-maryam-xinyuan-advancing-mediation
+permalink: /articles/our-people/2020-10-05-maryam-xinyuan-advancing-mediation/
 breadcrumb: 'Our People'
 
 ---

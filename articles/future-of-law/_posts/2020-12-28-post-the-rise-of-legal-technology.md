@@ -1,7 +1,7 @@
 ---
 title: 'The Rise of Legal Technology'
 date: 2020-12-28
-permalink: /articles/future-of-law/2020-12-28-The-Rise-of-Legal-Technology
+permalink: /articles/future-of-law/2020-12-28-the-rise-of-legal-technology/
 breadcrumb: 'Future of Law'
 
 ---

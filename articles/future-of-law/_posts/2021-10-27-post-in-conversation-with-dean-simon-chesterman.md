@@ -1,7 +1,7 @@
 ---
 title: 'In Conversation with: Dean Simon Chesterman'
 date: 2021-10-27
-permalink: /articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman
+permalink: /articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman/
 breadcrumb: 'Future of Law'
 
 ---

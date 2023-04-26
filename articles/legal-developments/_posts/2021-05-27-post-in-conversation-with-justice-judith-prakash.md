@@ -1,7 +1,7 @@
 ---
 title: 'In Conversation with: Justice Judith Prakash'
 date: 2021-05-27
-permalink: /articles/legal-developments/2021-05-27-in-conversation-with-justice-judith-prakash
+permalink: /articles/legal-developments/2021-05-27-in-conversation-with-justice-judith-prakash/
 breadcrumb: 'Legal Developments'
 
 ---

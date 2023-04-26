@@ -1,7 +1,7 @@
 ---
 title: 'The Precious Battle Against Money Laundering and Terrorism Financing'
 date: 2021-06-09
-permalink: /articles/our-people/2021-06-09-the-precious-battle-against-money-laundering-and-terrorism-financing
+permalink: /articles/our-people/2021-06-09-the-precious-battle-against-money-laundering-and-terrorism-financing/
 breadcrumb: 'Our People'
 
 ---

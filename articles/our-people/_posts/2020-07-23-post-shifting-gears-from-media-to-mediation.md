@@ -1,7 +1,7 @@
 ---
 title: 'Shifting Gears: From Media to Mediation'
 date: 2020-07-23T00:00:00.000Z
-permalink: /articles/our-people/2020-07-23-teh-joo-lin-shifting-gears-from-media-to-mediation
+permalink: /articles/our-people/2020-07-23-teh-joo-lin-shifting-gears-from-media-to-mediation/
 breadcrumb: 'Our People'
 
 ---

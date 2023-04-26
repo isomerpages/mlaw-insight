@@ -1,7 +1,7 @@
 ---
 title: 'Time to Suit Up, Paralegals'
 date: 2021-07-27
-permalink: /articles/our-people/2021-07-27-time-to-suit-up-paralegals
+permalink: /articles/our-people/2021-07-27-time-to-suit-up-paralegals/
 breadcrumb: 'Our People'
 
 ---

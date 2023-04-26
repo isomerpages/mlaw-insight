@@ -1,7 +1,7 @@
 ---
 title: 'Protecting Your Right to Copyright'
 date: 2021-08-25
-permalink: /articles/legal-developments/2021-08-25-protecting-your-right-to-copyright
+permalink: /articles/legal-developments/2021-08-25-protecting-your-right-to-copyright/
 breadcrumb: 'Legal Developments'
 
 ---

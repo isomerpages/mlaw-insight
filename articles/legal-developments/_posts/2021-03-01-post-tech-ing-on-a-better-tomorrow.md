@@ -1,7 +1,7 @@
 ---
 title: 'Tech-ing on a Better Tomorrow'
 date: 2021-03-01
-permalink: /articles/legal-developments/2021-03-01-tech-ing-on-a-better-tomorrow
+permalink: /articles/legal-developments/2021-03-01-tech-ing-on-a-better-tomorrow/
 breadcrumb: 'Legal Developments'
 
 ---

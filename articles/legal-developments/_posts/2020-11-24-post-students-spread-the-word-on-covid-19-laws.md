@@ -1,7 +1,7 @@
 ---
 title: 'Students Spread the Word on COVID-19 Laws'
 date: 2020-11-24
-permalink: /articles/legal-developments/2020-11-24-students-spread-word-on-covid19
+permalink: /articles/legal-developments/2020-11-24-students-spread-word-on-covid19/
 breadcrumb: 'Legal Developments'
 
 ---

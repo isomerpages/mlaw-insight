@@ -1,7 +1,7 @@
 ---
 title: 'The Race to Give Singaporeans and Local Businesses a Lifeline'
 date: 2021-1-29
-permalink: /articles/legal-developments/2021-1-29-the-race-to-give-singaporeans-and-local-businesses-a-lifeline
+permalink: /articles/legal-developments/2021-1-29-the-race-to-give-singaporeans-and-local-businesses-a-lifeline/
 breadcrumb: 'Legal Developments'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Global Experts Connect at Singapore Convention Week'
 date: 2021-10-01
-permalink: /articles/going-global/2021-10-01-global-experts-connect-at-singapore-convention-week
+permalink: /articles/going-global/2021-10-01-global-experts-connect-at-singapore-convention-week/
 breadcrumb: 'Going Global'
 
 ---

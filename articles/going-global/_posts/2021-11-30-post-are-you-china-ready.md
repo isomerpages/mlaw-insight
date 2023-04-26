@@ -1,7 +1,7 @@
 ---
 title: 'Are You China-Ready?'
 date: 2021-11-30
-permalink: /articles/going-global/2021-11-30-are-you-china-ready
+permalink: /articles/going-global/2021-11-30-are-you-china-ready/
 breadcrumb: 'Going Global'
 
 ---

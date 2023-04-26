@@ -1,7 +1,7 @@
 ---
 title: 'From Arguing to Shaping Our Laws'
 date: 2020-08-27T00:00:00.000Z
-permalink: /articles/our-people/2020-08-27-harold-foo-from-arguing-to-shaping-laws
+permalink: /articles/our-people/2020-08-27-harold-foo-from-arguing-to-shaping-laws/
 breadcrumb: 'Our People'
 
 ---
