@@ -1,7 +1,7 @@
 ---
 title: 'The Precious Battle Against Money Laundering and Terrorism Financing'
 date: 2021-06-09
-permalink: /articles/our-people/2021-06-09-the-precious-battle-against-money-laundering-and-terrorism-financing
+permalink: /articles/our-people/2021-06-09-the-precious-battle-against-money-laundering-and-terrorism-financing/
 breadcrumb: 'Our People'
 
 ---
@@ -17,7 +17,7 @@ At some point or another, you may have patronised a jewellery store in the heart
 We meet Evelyn Ang, Justin Tan and Hong Khim Woon from MinLaw’s Anti-Money Laundering / Countering the Financing of Terrorism Division (ACD) to find out more about their work, which forms part of Singapore’s larger efforts to counter money laundering and terrorism financing.
 
 <div class="image">
-  <img src="/images/ACD_1_acd main pic.png/" title="From left: Evelyn, Justin and Khim Woon" alt="From left: Evelyn, Justin and Khim Woon">From left: Evelyn, Justin and Khim Woon
+  <img src="/images/ACD_1_acd main pic.png" title="From left: Evelyn, Justin and Khim Woon" alt="From left: Evelyn, Justin and Khim Woon">From left: Evelyn, Justin and Khim Woon
 </div>
 
 “Learning new things everyday” – this is how Khim Woon, a team leader in the Enforcement & Investigation Branch (EIB), describes his time at ACD. 
@@ -25,7 +25,7 @@ We meet Evelyn Ang, Justin Tan and Hong Khim Woon from MinLaw’s Anti-Money Lau
 When Khim Woon first joined MinLaw, the Precious Stones and Precious Metals (PSPM) industry was new to him. Prior to that, he only knew about diamonds from buying a wedding ring for his wife. 
 
 <div class="image">
-  <img src="/images/ACD_2_ISAAC_K_100102.jpg/" title="Khim Woon, team leader of the Enforcement and Investigation Branch (EIB) at ACD" alt="Khim Woon, team leader of the Enforcement and Investigation Branch (EIB) at ACD">Khim Woon, team leader of the Enforcement and Investigation Branch (EIB) at ACD
+  <img src="/images/ACD_2_ISAAC_K_100102.jpg" title="Khim Woon, team leader of the Enforcement and Investigation Branch (EIB) at ACD" alt="Khim Woon, team leader of the Enforcement and Investigation Branch (EIB) at ACD">Khim Woon, team leader of the Enforcement and Investigation Branch (EIB) at ACD
 </div>
 
 Nearly two years on, he is familiar with almost 2,000 dealers of various categories – from jade and sapphires to bullion trading – registered with ACD.  
@@ -43,7 +43,7 @@ Now, businesses dealing in precious stones, precious metals, and precious produc
 This levels up trust and reputation of the sector – a common cause welcomed by the industry associations.  
 
 <div class="image">
-  <img src="/images/ACD_3_ISAAC_K_100050.jpg/">
+  <img src="/images/ACD_3_ISAAC_K_100050.jpg">
 </div>
 
 Mr Reuben Khafi, President of the Diamond Exchange of Singapore, said: “The introduction of the PSPM Act in 2019 was a timely move that will go a long way to maintain and protect the good reputation of Singapore as a compliant and internationally recognised diamond and jewellery centre.”
@@ -59,7 +59,7 @@ ACD also leads the Precious Stones and Precious Metals Dealers workgroup compris
 This collective effort is critical as precious stones and precious metals are an easy target for criminals to launder money. They are portable, valuable and easily convertible to cash, said Evelyn, who has had close to a decade’s experience in a homegrown jewellery retailer. 
 
 <div class="image">
-  <img src="/images/ACD_4_ISAAC_K_100069.jpg/" title="Evelyn, team leader of the Supervision and Compliance Branch (SCB) at ACD" alt="Evelyn, team leader of the Supervision and Compliance Branch (SCB) at ACD">Evelyn, team leader of the Supervision and Compliance Branch (SCB) at ACD
+  <img src="/images/ACD_4_ISAAC_K_100069.jpg" title="Evelyn, team leader of the Supervision and Compliance Branch (SCB) at ACD" alt="Evelyn, team leader of the Supervision and Compliance Branch (SCB) at ACD">Evelyn, team leader of the Supervision and Compliance Branch (SCB) at ACD
 </div>
 
 <b><i>Starting From Scratch</i></b>
@@ -71,7 +71,7 @@ For starters, there were no registered dealers, and Justin’s team had to start
 This was done to determine which business entities potentially fell under the PSPM Act, and if they had to consider registering themselves with ACD. Although this was tedious, his past experience working as a senior analyst at both the Singapore Customs and the Singapore Police Force came in handy. 
 
 <div class="image">
-  <img src="/images/ACD_5_ISAAC_K_100003.jpg/" title="Justin, team leader of the Registration and Research Branch (RRB) at ACD" alt="Justin, team leader of the Registration and Research Branch (RRB) at ACD">Justin, team leader of the Registration and Research Branch (RRB) at ACD
+  <img src="/images/ACD_5_ISAAC_K_100003.jpg" title="Justin, team leader of the Registration and Research Branch (RRB) at ACD" alt="Justin, team leader of the Registration and Research Branch (RRB) at ACD">Justin, team leader of the Registration and Research Branch (RRB) at ACD
 </div>
 
 Back then, registered dealers were also largely unaware of the potential money laundering and terrorism financing risks to their industry. 
@@ -95,7 +95,7 @@ The information from desktop surveillance and intelligence assessments is then p
 From October 2019 to March 2021, this team carried out 284 enforcement checks and initiated investigations against 225 regulated dealers for a range of offences under the PSPM Act and its subsidiary legislation. Khim Woon noted that most of the time, dealers who were found not to comply with the regime were not aware of or did not fully comprehend the Act.
 
 <div class="image">
-  <img src="/images/ACD_6_ISAAC_K_100105.jpg/">
+  <img src="/images/ACD_6_ISAAC_K_100105.jpg">
 </div>
 
 <b><i>Action, Awareness and Appreciation</i></b>
@@ -105,7 +105,7 @@ Despite the initial difficulties, the fruits of ACD’s labour are starting to s
 In the two years since the Act was implemented, close to 2,000 dealers - operating more than 2,500 outlets – have registered with ACD.  
 
 <div class="image">
-  <img src="/images/ACD_7_ISAAC_K_100036.jpg/">
+  <img src="/images/ACD_7_ISAAC_K_100036.jpg">
 </div>
 
 “We are already seeing increased awareness within the regulated dealers, who are more aware of the risks associated with money laundering and terrorism financing in the sector,” shared Khim Woon.
@@ -115,7 +115,7 @@ Industry associations appreciate the benefits of being a registered regulated de
 “Our members appreciate that ACD conducts industry feedback and consultation prior to new implementation, and notice or grant period is often given before a change. On top of that, training, seminars and conferences are held on a periodic basis to refresh and retrain the dealers, which is important especially when there is a change or update,” he said.
 
 <div class="image">
-  <img src="/images/ACD_8_ISAAC_K_100074.jpg/">
+  <img src="/images/ACD_8_ISAAC_K_100074.jpg">
 </div>
 
 <b><i>A Precious Future to Protect</i></b>

@@ -1,7 +1,7 @@
 ---
 title: 'Time to Suit Up, Paralegals'
 date: 2021-07-27
-permalink: /articles/our-people/2021-07-27-time-to-suit-up-paralegals
+permalink: /articles/our-people/2021-07-27-time-to-suit-up-paralegals/
 breadcrumb: 'Our People'
 
 ---
@@ -19,7 +19,7 @@ Some contracts are more complex than others, and that’s when a lawyer’s nous
 We speak to Goh Xin Hui, Latifah Hassan Ali, Rae-Anne Lim and Lynette Heng to find out why these legal aid officers were given the opportunity to suit up for court, and how their work at LAB impacts Singaporeans.
 
 <div class="image">
-  <img src="/images/SLE Photo 1.png/" title="From left: Xin Hui, Latifah, Rae-Anne and Lynette" alt="From left: Xin Hui, Latifah, Rae-Anne and Lynette">From left: Xin Hui, Latifah, Rae-Anne and Lynette
+  <img src="/images/SLE Photo 1.png" title="From left: Xin Hui, Latifah, Rae-Anne and Lynette" alt="From left: Xin Hui, Latifah, Rae-Anne and Lynette">From left: Xin Hui, Latifah, Rae-Anne and Lynette
 </div>
 
 <b><i>Becoming a Specialist</i></b>
@@ -33,7 +33,7 @@ Based on a set of eligibility criteria, MinLaw’s Director of Legal Aid selects
 However, the road to their courtroom debut was not without a few challenges, courtesy of an intense training and assessment process prior to their appointment.
 
 <div class="image">
-  <img src="/images/SLE Photo 2.jpg/" title="From left: Xin Hui, Lynette, Latifah, and Rae-Anne during the early days of their SLE training. Photo taken before COVID-19." alt="From left: Xin Hui, Lynette, Latifah, and Rae-Anne during the early days of their SLE training. Photo taken before COVID-19.">From left: Xin Hui, Lynette, Latifah, and Rae-Anne during the early days of their SLE training. Photo taken before COVID-19.
+  <img src="/images/SLE Photo 2.jpg" title="From left: Xin Hui, Lynette, Latifah, and Rae-Anne during the early days of their SLE training. Photo taken before COVID-19." alt="From left: Xin Hui, Lynette, Latifah, and Rae-Anne during the early days of their SLE training. Photo taken before COVID-19.">From left: Xin Hui, Lynette, Latifah, and Rae-Anne during the early days of their SLE training. Photo taken before COVID-19.
 </div>
 
 <b><i>Back to School</i></b>
@@ -57,7 +57,7 @@ While Rae-Anne is currently a final year law student at the Singapore University
 “Having to cope with studies and work was challenging on many fronts. To say that law school is tough is an understatement – the sudden transition from spending free time with my friends and loved ones during weekends to one where I was pre-occupied mostly with my readings, books and just being so physically drained due to the demands of law school was a difficult adjustment at first,” shared Rae-Anne.
 
 <div class="image">
-  <img src="/images/SLE Photo 3.jpg/" title="Rae-Anne (left) receiving her certificate from the Director of Legal Aid at MinLaw, Lim Hui Min, at the SLE Certification Ceremony in July 2021" alt="Rae-Anne (left) receiving her certificate from the Director of Legal Aid at MinLaw, Lim Hui Min, at the SLE Certification Ceremony in July 2021">Rae-Anne (left) receiving her certificate from the Director of Legal Aid at MinLaw, Lim Hui Min, at the SLE Certification Ceremony in July 2021
+  <img src="/images/SLE Photo 3.jpg" title="Rae-Anne (left) receiving her certificate from the Director of Legal Aid at MinLaw, Lim Hui Min, at the SLE Certification Ceremony in July 2021" alt="Rae-Anne (left) receiving her certificate from the Director of Legal Aid at MinLaw, Lim Hui Min, at the SLE Certification Ceremony in July 2021">Rae-Anne (left) receiving her certificate from the Director of Legal Aid at MinLaw, Lim Hui Min, at the SLE Certification Ceremony in July 2021
 </div>
 
 Xin Hui is similarly familiar with the demands of school, but from a completely different perspective as a former Chinese Language teacher in a junior college. She was also a court interpreter prior to joining LAB. After numerous interactions with members of the public and lawyers, she wanted to deepen her understanding in this field. Describing herself as someone who is restless and prefers to get challenged to step out of her comfort zone, she decided that LAB would be a good fit for her interests.
@@ -65,13 +65,13 @@ Xin Hui is similarly familiar with the demands of school, but from a completely 
 Latifah was also looking for a challenge. As a paralegal in a local firm who mainly dealt with divorce cases, she wanted to work on other forms of civil law and draft more complex court documents. She decided to make the switch to LAB when she saw opportunities to gain experience and contribute in the public sector.
 
 <div class="image">
-  <img src="/images/SLE Photo 4.jpg/" title="Latifah sharing her thoughts on the training during the SLE Certification Ceremony in July 2021" alt="Latifah sharing her thoughts on the training during the SLE Certification Ceremony in July 2021">Latifah sharing her thoughts on the training during the SLE Certification Ceremony in July 2021
+  <img src="/images/SLE Photo 4.jpg" title="Latifah sharing her thoughts on the training during the SLE Certification Ceremony in July 2021" alt="Latifah sharing her thoughts on the training during the SLE Certification Ceremony in July 2021">Latifah sharing her thoughts on the training during the SLE Certification Ceremony in July 2021
 </div>
 
 Lynette, meanwhile, was a civil service veteran of sorts, having been an LE in LAB for eight years before leaving to pursue a law degree. Her curiosity then led her to practise law in a private firm, but she felt she could do more. That was when she decided to return to LAB – find out more about the work that Lynette does <a href="https://www.facebook.com/425106448078044/posts/796823744239644/" target="new">here</a>.
 
 <div class="image">
-  <img src="/images/SLE Photo 5.jpg/" title="From left: Rae-Anne, Xin Hui, and Latifah having a discussion" alt="From left: Rae-Anne, Xin Hui, and Latifah having a discussion">From left: Rae-Anne, Xin Hui, and Latifah having a discussion
+  <img src="/images/SLE Photo 5.jpg" title="From left: Rae-Anne, Xin Hui, and Latifah having a discussion" alt="From left: Rae-Anne, Xin Hui, and Latifah having a discussion">From left: Rae-Anne, Xin Hui, and Latifah having a discussion
 </div>
 
 <b><i>To Care for a Case</i></b>

@@ -1,7 +1,7 @@
 ---
 title: 'The Rise of Legal Technology'
 date: 2020-12-28
-permalink: /articles/future-of-law/2020-12-28-The-Rise-of-Legal-Technology
+permalink: /articles/future-of-law/2020-12-28-the-rise-of-legal-technology/
 breadcrumb: 'Future of Law'
 
 ---
@@ -25,7 +25,7 @@ The Singapore Management University (SMU) School of Law is one of the key stakeh
 The SMU School of Law embraces that fundamentally, through aggregation of information, technology will help legal professionals have a better understanding of policy and law.
 
 <div class="image">
-  <img src="/images/GYH2.jpg/" title="Goh Yihan" alt="Goh Yihan">
+  <img src="/images/GYH2.jpg" title="Goh Yihan" alt="Goh Yihan">
 </div>  
 
 Yihan explains that the proliferation of technology in the legal sector is not an unanticipated trend, given that the legal system works on the basis of data. Lawyers look at statutes and judgements in search of facts and insights to construct legal arguments in court, making it conducive for the gradual assimilation of technology.
@@ -44,7 +44,7 @@ The way that lawyers practise law will also be different. It is a possibility th
 On access to law, Yihan draws on the fact that chatbots have changed how people access legal information. They are now able to do so quickly and easily but being exposed to a sea of information also means that users which can be corporate businesses, the man in the street or even lawyers themselves must be more discerning to distinguish facts from falsehoods. 
 
 <div class="image">
-  <img src="/images/GYH4.jpg/" title="Goh Yihan" alt="Goh Yihan">Goh Yihan, Dean of School of Law, Singapore Management University (SMU)
+  <img src="/images/GYH4.jpg" title="Goh Yihan" alt="Goh Yihan">Goh Yihan, Dean of School of Law, Singapore Management University (SMU)
 </div>
 
 In the face of a changing legal landscape, SMU has rolled out several programmes and initiatives to prepare its students to become lawyers of the future. Yihan expounds on the importance of legal professionals having the right mindset, which he reiterates to be as important as being equipped with advanced legal knowledge and capabilities. Lawyers should look to be less risk averse and critical but instead, embrace technology with a dose of realism – having the right people use the right technology tools at the right time. 
@@ -52,7 +52,7 @@ In the face of a changing legal landscape, SMU has rolled out several programmes
 The guiding principle of how law is being taught in schools is undergoing a transformation. At SMU, students are trained to have contextualized understanding of basic law subjects in light of technology. They are exposed to real life current day issues like whether cryptocurrency can be classified as property; its implications on property law and trust law as well as whether contract law deals with smart contracts. Students also have the choice to take up electives such as Computational Thinking and Legal Technology, Introductory Statistics, Legal Design, Financial Technology (Fintech) law, Digital Innovation for Access to Justice and more.
 
 <div class="image">
-  <img src="/images/GYH5.jpg/" title="Goh Yihan" alt="Goh Yihan">
+  <img src="/images/GYH5.jpg" title="Goh Yihan" alt="Goh Yihan">
 </div>
 
 SMU also launched a Bachelor of Science (Computing and Law) degree in August this year. Unlike a double degree in Law and Computing, this is a single integrated specialist degree that has subjects curated for the contextualization of law and technology and vice versa. Graduates of the Computing and Law degree, whilst legally trained, are not legally qualified. Yet, even so, Yihan explains that the integrated knowledge of law and technology opens the doors to a wide array of careers, from legal technologists to even engineers and appeals across industries. 
@@ -68,7 +68,7 @@ Technology plays a critical role in efforts to grow the legal industry in Singap
 In October 2020, MinLaw launched the Legal Industry Technology and Innovation Roadmap (TIR), which aims to promote innovation, technology adoption and development in Singapore’s legal industry in the next decade. The TIR builds on existing initiatives that support industry players in their technology adoption and development efforts.
 
 <div class="image">
-  <img src="/images/GYH6.jpg/" title="Goh Yihan" alt="Goh Yihan">TIR report published by MinLaw.
+  <img src="/images/GYH6.jpg" title="Goh Yihan" alt="Goh Yihan">TIR report published by MinLaw.
 </div>
 
 For one, a Legal Industry Digital Plan is being developed to provide law firms with practical assistance to assess their digital readiness and identify digital solutions to adopt at each stage of their digital maturity. Another key initiative under the TIR is a cloud-based platform that MinLaw is working on, that will aggregate the functionalities of various front-end and back-end legal technology solutions for law firms and legal departments.

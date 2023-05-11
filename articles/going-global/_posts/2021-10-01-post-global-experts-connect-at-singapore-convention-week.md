@@ -1,7 +1,7 @@
 ---
 title: 'Global Experts Connect at Singapore Convention Week'
 date: 2021-10-01
-permalink: /articles/going-global/2021-10-01-global-experts-connect-at-singapore-convention-week
+permalink: /articles/going-global/2021-10-01-global-experts-connect-at-singapore-convention-week/
 breadcrumb: 'Going Global'
 
 ---
@@ -21,7 +21,7 @@ The first-ever hybrid edition of SC Week drew over 4,000 participants from some 
 <b><i>Inaugural UNCITRAL Academy</i></b>
 
 <div class="image">
-  <img src="/images/SC Week 1.png/" title="UNCITRAL Academy participants attended the conference via the Virtual Platform" alt="UNCITRAL Academy participants attended the conference via the Virtual Platform">UNCITRAL Academy participants attended the conference via the Virtual Platform
+  <img src="/images/SC Week 1.png" title="UNCITRAL Academy participants attended the conference via the Virtual Platform" alt="UNCITRAL Academy participants attended the conference via the Virtual Platform">UNCITRAL Academy participants attended the conference via the Virtual Platform
 </div>
 
 At the heart of the SC Week was the inaugural UNCITRAL Academy, jointly organised by MinLaw and the United Nations Commission on International Trade Law (UNCITRAL). Themed ‘A World in Transition’, the two-day showcase comprised fireside chats, panel discussions and capacity-building workshops which featured over 80 global experts from the private and public sectors. 
@@ -31,7 +31,7 @@ About 1,500 speakers and participants from around 90 countries attended the UNCI
 <b><i>Impact of COVID-19</i></b>
 
 <div class="image">
-  <img src="/images/SC Week 2.jpg/">
+  <img src="/images/SC Week 2.jpg">
 </div>
 
 The impact of the ongoing COVID-19 pandemic was front and centre in almost all the discussions at UNCITRAL Academy. 
@@ -49,7 +49,7 @@ The Singapore Convention on Mediation (the “Singapore Convention” or “Conv
 Speakers at the UNCITRAL Academy discussed how the Convention provides an effective avenue for parties to enforce mediated settlement agreements for cross-border disputes, as well as the benefits of mediation, which can help businesses settle disputes quickly, amicably and cost-effectively.
 
 <div class="image">
-  <img src="/images/SC Week 3.png/">
+  <img src="/images/SC Week 3.png">
 </div>
 
 At the opening dialogue, Mr Edwin Tong SC, Singapore’s Minister for Culture, Community and Youth and Second Minister for Law, said: “The more countries have signed and ratified the Convention, the more accessible mediation will be, especially cross-border mediation.” 
@@ -61,7 +61,7 @@ Mr Cameron Ford, Partner at Squire Patton Boggs, who attended UNCITRAL Academy, 
 Watch the opening dialogue <a href="https://www.facebook.com/edwintongSC/videos/1005814773295278/">here</a>.
 
 <div class="image">
-  <img src="/images/SC Week 4.jpg/">
+  <img src="/images/SC Week 4.jpg">
 </div>
 
 <b><i>Future Trends in International Dispute Resolution</i></b>
@@ -69,13 +69,13 @@ Watch the opening dialogue <a href="https://www.facebook.com/edwintongSC/videos/
 Esteemed speakers at UNCITRAL Academy held lively discussions and exchanged views on the latest developments in the international dispute resolution scene. Some of the speakers include thought leaders and experts such as Professor Richard Susskind OBE, Technology Adviser to the Lord Chief Justice of England and Wales, Colin Rule, President and CEO, Mediate.com and Arbitrate.com, and Mark Beer OBE, Chairman of The Metis Institute.
 
 <div class="image">
-  <img src="/images/SC Week 5.jpg/">
+  <img src="/images/SC Week 5.jpg">
 </div>
 
 The speakers explored how the pandemic has accelerated underlying structural shifts, from climate change to geopolitics, and how businesses and dispute resolution must evolve in response. Technology and innovation are necessary for companies to pick up new business models, anticipate potential disputes, and survive in the new normal.
 
 <div class="image">
-  <img src="/images/SC Week 6.PNG/">
+  <img src="/images/SC Week 6.png">
 </div>
 
 They also highlighted how legal technology can improve access to justice and accuracy of outcomes, while reducing costs. In ‘A World in Transition’ – this year’s theme – countries such as Singapore, which dedicate resources to developing legal technology such as Online Dispute Resolution (ODR) systems, will be best positioned to harness the benefits of such technology whilst helping their local legal communities adapt.
@@ -85,19 +85,19 @@ Ms Koh Swee Yen Partner, Commercial & Corporate Disputes and International Arbit
 <b><i>Workshops and Roundtable</i></b>
 
 <div class="image">
-  <img src="/images/SC Week 7.JPG/" title="Hybrid capacity-building workshops at the UNCITRAL Academy" alt="Hybrid capacity-building workshops at the UNCITRAL Academy">Hybrid capacity-building workshops at the UNCITRAL Academy
+  <img src="/images/SC Week 7.jpg" title="Hybrid capacity-building workshops at the UNCITRAL Academy" alt="Hybrid capacity-building workshops at the UNCITRAL Academy">Hybrid capacity-building workshops at the UNCITRAL Academy
 </div>
 
 MinLaw and UNCITRAL partnered with the Singapore International Dispute Resolution Academy (SIDRA), the Singapore International Mediation Centre (SIMC), and the International Centre for Settlement of Investment Disputes (ICSID) to hold a series of capacity-building workshops for representatives from governments and the industry (including general counsel and executives). 
 
 <div class="image">
-  <img src="/images/SC Week 8.png/">
+  <img src="/images/SC Week 8.png">
 </div>
 
 The workshops introduced participants to topics such as using mediation and its benefits as a dispute resolution tool, the Convention and its mechanics, how States can build a framework and ecosystem to facilitate and encourage mediation and the use of mediation to resolve investor-State disputes. An exchange session between industry and government representatives offered both groups a platform to engage in discussions on the benefits of using mediation as a dispute resolution tool and how the ecosystem can encourage its use.
 
 <div class="image">
-  <img src="/images/SC Week 9.jpg/" title="Roundtable with Minister Edwin Tong SC" alt="Roundtable with Minister Edwin Tong SC">Roundtable with Minister Edwin Tong SC
+  <img src="/images/SC Week 9.jpg" title="Roundtable with Minister Edwin Tong SC" alt="Roundtable with Minister Edwin Tong SC">Roundtable with Minister Edwin Tong SC
 </div>
 
 As part of SC Week, Minister Tong also hosted a roundtable with 23 young international dispute resolution practitioners from 18 jurisdictions. They had an engaging dialogue on how the pandemic had impacted them, what could be improved on, and how they could work together.

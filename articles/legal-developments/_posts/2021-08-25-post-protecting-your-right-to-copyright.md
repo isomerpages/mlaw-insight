@@ -1,7 +1,7 @@
 ---
 title: 'Protecting Your Right to Copyright'
 date: 2021-08-25
-permalink: /articles/legal-developments/2021-08-25-protecting-your-right-to-copyright
+permalink: /articles/legal-developments/2021-08-25-protecting-your-right-to-copyright/
 breadcrumb: 'Legal Developments'
 
 ---
@@ -17,7 +17,7 @@ The Copyright Bill, which is expected to come into effect in November 2021, will
 We take a deep dive into the new law with Soh Lili from MinLaw’s Intellectual Property Policy Division and Gavin Foo from the Intellectual Property Office of Singapore (IPOS).
 
 <div class="image">
-  <img src="/images/Copyright 1.png/" title="From left: Lili and Gavin" alt="From left: Lili and Gavin">From left: Lili and Gavin
+  <img src="/images/Copyright 1.png" title="From left: Lili and Gavin" alt="From left: Lili and Gavin">From left: Lili and Gavin
 </div>
 
 <b><i>Keeping Up with Content</i></b>
@@ -29,7 +29,7 @@ Such rapid advancements mean that the laws governing how content can be used and
 Asked how the proposed changes will help, Lili shared, “We’ve taken great effort to conduct numerous public consultations with various groups of stakeholders through different channels, sought to understand their difficulties and challenges, and have tried as far as we could to incorporate all of this feedback when writing the Bill.”
 
 <div class="image">
-  <img src="/images/Copyright 2.jpg/">
+  <img src="/images/Copyright 2.jpg">
 </div>
 
 <b><i>Re-Shaping Copyright Protection</i></b>
@@ -41,7 +41,7 @@ Apart from being more reader-friendly, the new Bill also introduces several note
 On the principles behind the new provisions, Lili noted on the need to go back to the basics of copyright. She said: “For every issue, we always go back to that: what should we do so that the incentives are still there for people to create.” 
 
 <div class="image">
-  <img src="/images/Copyright 3.jpg/" title="Gavin, Senior Legal Counsel at IPOS" alt="Gavin, Senior Legal Counsel at IPOS">Gavin, Senior Legal Counsel at IPOS
+  <img src="/images/Copyright 3.jpg" title="Gavin, Senior Legal Counsel at IPOS" alt="Gavin, Senior Legal Counsel at IPOS">Gavin, Senior Legal Counsel at IPOS
 </div>
 
 For example, with the issue of set-top boxes, while consumers may be unhappy that the new legislation could restrict their access to free – but nonetheless, pirated – content, Gavin and Lili hope that with time, mindsets will change and there will be greater respect for IP rights. Nevertheless, consumer concerns and pain points are always recognised and taken into account during policy making. So in this case, the policy goes beyond the legislation and includes encouraging rights holders to provide quality offerings at affordable price points. 
@@ -57,7 +57,7 @@ A large-scale review for an age-old topic like copyright was never going to be e
 Gavin recalled the countless iterations they had to scrutinise for more than 500 sections of the Bill. “For existing provisions, we had to make sure we did not inadvertently change their meanings while simplifying them. For other provisions implementing new proposals, we had to ensure that our policy intent was accurately and clearly translated in the law.”
 
 <div class="image">
-  <img src="/images/Copyright 4.jpg/">
+  <img src="/images/Copyright 4.jpg">
 </div>
 
 <b><i>Creating a Law for the People</i></b>
@@ -71,7 +71,7 @@ While reactions to some of the new provisions have been mixed from a diverse gro
 Lili added: “There’s a lot about copyright that is unknown or difficult to understand for people, so the fact that we have managed to educate so many people on copyright through this review, I think that is already one great outcome on its own.”
 
 <div class="image">
-  <img src="/images/Copyright 5.jpg/" title="Lili, Deputy Director of the Intellectual Property Policy Division at MinLaw" alt="Lili, Deputy Director of the Intellectual Property Policy Division at MinLaw">Lili, Deputy Director of the Intellectual Property Policy Division at MinLaw
+  <img src="/images/Copyright 5.jpg" title="Lili, Deputy Director of the Intellectual Property Policy Division at MinLaw" alt="Lili, Deputy Director of the Intellectual Property Policy Division at MinLaw">Lili, Deputy Director of the Intellectual Property Policy Division at MinLaw
 </div>
 
 <b><i>A Whole-of-Government Effort</i></b>
@@ -85,7 +85,7 @@ Gavin and Lili described the relationship between organisations as “highly syn
 “Even when the provisions come into force, a lot of coordination and collaboration will also be needed amongst the different organisations, as we continuously improve and enhance our procedures and practices. The ultimate objective is to build a strong copyright regime in Singapore, with rights holders and users co-existing harmoniously, as users recognise and accord rights holders with the respect and acknowledgement they deserve for their creations and works,” Gavin noted. 
 
 <div class="image">
-  <img src="/images/Copyright 6.jpg/">
+  <img src="/images/Copyright 6.jpg">
 </div>
 
 This also fits into the Singapore Intellectual Property Strategy (SIPS) 2030, which aims to not only maintain Singapore’s top ranking in its intangible assets (IA) and intellectual property (IP) regime, but to also grow Singapore as a global hub for IA/IP activities and transactions. 

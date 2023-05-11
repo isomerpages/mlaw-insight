@@ -31,8 +31,8 @@ defaults:
       path: ""
     values:
       layout: page
-staging: https://mlaw-insight-staging.netlify.com/
-prod: https://mlaw-insight-prod.netlify.com/
+staging: https://staging.d39jqws5vjjclc.amplifyapp.com/
+prod: https://master.d39jqws5vjjclc.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

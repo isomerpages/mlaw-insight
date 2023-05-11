@@ -1,6 +1,6 @@
 ---
 title: Will LegalTech replace lawyers?
-permalink: /articles/future-of-law/will-legaltech-replace-lawyers
+permalink: /articles/future-of-law/will-legaltech-replace-lawyers/
 date: 2022-08-01
 layout: post
 description: ""
@@ -20,7 +20,7 @@ The initiative comprises (a) the Legal Technology Platform (LTP), a matter manag
 <br>
 <br>
 <div class="image">
-  <img src="/images/ltp-box-1.png/" title="ltp box 1" alt="ltp box 1">
+  <img src="/images/ltp-box-1.png" title="ltp box 1" alt="ltp box 1">
 </div>
 
 Designed to streamline legal workflows, the LTP includes key features such as a legal project management toolkit, customisable matter templates, as well as integration with select practice management systems (“PMS”), document management systems (“DMS”), communications tool such as WhatsApp, and other commonly used legaltech tools.
@@ -28,7 +28,7 @@ Designed to streamline legal workflows, the LTP includes key features such as a 
 The team identified features that will be most useful to Singapore lawyers, such as integration with WhatsApp and data localization, through extensive consultation with the legal industry.
 
 <div class="image">
-  <img src="/images/ltp-box-2.png/" title="ltp box 2" alt="ltp box 2">
+  <img src="/images/ltp-box-2.png" title="ltp box 2" alt="ltp box 2">
 </div>
 
 Insight MinLaw caught up with Chief Commercial Officer and Co-Founder of Lupl, Matthew Pollins as well as Director at MinLaw (Professional Services Programme Office) Alyssa Toh, to share more on what went behind the building of the LTP and other aspects of the LTPI.
@@ -57,7 +57,7 @@ For example, we heard a lot from lawyers about the importance of data protection
 For that reason, we built a WhatsApp integration, which allows lawyers to meet clients where they are, without sacrificing security and compliance. This iterative development process is never complete – it is a constant progress. Currently, we are experiencing a high demand for more connectivity with Government and public data systems, such as  eLitigation, and this is next on our development roadmap.
 
 <div class="image">
-  <img src="/images/LTPI-dashboard.png/" title="Dashboard view of LTP" alt="Dashboard view of LTP">Dashboard view of LTP (Credit: <a href="https://ltpi.mlaw.gov.sg/ltp">https://ltpi.mlaw.gov.sg/ltp</a>)
+  <img src="/images/LTPI-dashboard.png" title="Dashboard view of LTP" alt="Dashboard view of LTP">Dashboard view of LTP (Credit: <a href="https://ltpi.mlaw.gov.sg/ltp">https://ltpi.mlaw.gov.sg/ltp</a>)
 </div>
 
 <b><i>Insight MinLaw: Why launch the initiative now?</i></b>

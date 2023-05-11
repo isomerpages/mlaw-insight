@@ -1,7 +1,7 @@
 ---
 title: 'In Conversation with: Dean Leslie Chew'
 date: 2022-01-07
-permalink: /articles/legal-developments/2022-01-07-in-conversation-with-dean-leslie-chew
+permalink: /articles/legal-developments/2022-01-07-in-conversation-with-dean-leslie-chew/
 breadcrumb: 'Legal Developments'
 
 ---
