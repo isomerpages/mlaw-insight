@@ -25,7 +25,7 @@ For the students, this was an opportunity to put their legal education into prac
 “We wanted to do something meaningful during this difficult time. It was also a great way for us to use our legal skills to help the community,” said Justin. “We did all our discussions online and it was challenging at times, but our goal was to consolidate and simplify the relevant content as soon as possible because we felt a sense of urgency to ease the impact of the pandemic on individuals such as business owners and tenants.”
 
 <div class="image">
-  <img src="/images/Students2.jpg/" title="Justin and Jeanette" alt="Justin and Jeanette">From left: Justin and Jeanette
+  <img src="/images/Students2.jpg" title="Justin and Jeanette" alt="Justin and Jeanette">From left: Justin and Jeanette
 </div>
 
 Together with Jeanette Tang, his sister and fellow second-year law undergraduate at SMU, the group looked at various sources of information, such as ministerial and parliamentary speeches, news articles, and newsletters from law firms. They then distilled the information into digestible pieces of content aimed at addressing legal issues, such as the inability to perform contracts and remission of property tax.
@@ -37,7 +37,7 @@ The work on the portal continues with SMU Law alumnus, Reuben Teng, who was hire
 Over at NUS Law, third-year students Anders Seah and Mark Tang co-founded <a href="https://nus-covaid.com/">COV-AID</a>, a one-stop online portal that helps individuals and businesses navigate the COVID-19 legislation. 
 
 <div class="image">
-  <img src="/images/Students3.jpg/" title="Mark and Anders" alt="Mark and Anders">From left: Mark and Anders
+  <img src="/images/Students3.jpg" title="Mark and Anders" alt="Mark and Anders">From left: Mark and Anders
 </div>
 
 Anders came up with the idea while he was interning at a law firm. He remembers answering numerous client queries relating to the new COVID-19 legislation. “At that time, many law firms were providing COVID-19 updates for their clients, and I thought, why not do the same for the man on the street?” he said.
@@ -57,7 +57,7 @@ The information on the portal remains timely, with the students updating new mea
 Second-year NUS Law student Charlene Tan, meanwhile, developed a COVID-19 guide specifically for domestic helpers. The students wanted to help this group better understand pandemic-related measures. For example, the guide provides practical information about safe distancing measures and TraceTogether, which would be especially useful for their rest days, and where they can remit money during these challenging times.
 
 <div class="image">
-  <img src="/images/Students4.jpg/" title="Charlene Tan" alt="Charlene Tan">
+  <img src="/images/Students4.jpg" title="Charlene Tan" alt="Charlene Tan">
 </div>
 
 Charlene shared that the domestic helpers may not be familiar with some of the legislation. Not only are they away from home and faced with a different legal system, there may be language barriers as well. The guide is currently being translated into Bahasa Indonesia, as the students seek to raise awareness within the Indonesian domestic helper community. The English version will be available on the <a href="https://nus-covaid.com/additional-resources">COV-AID website</a> in December 2020, and the team plans to work with NGOs to disseminate the guide.

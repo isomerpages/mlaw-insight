@@ -15,7 +15,7 @@ breadcrumb: 'Legal Developments'
 With the coronavirus upending our daily lives and forever changing consumption habits and business practices, we are often left wondering – “what would a post-COVID-19 Singapore be like?”. That was what Geraldine Kuah, Valerie Chua, Darren Chan and Istyana Putri Ibrahim were tasked to do – to reimagine access to justice in the post-pandemic era.
 
 <div class="image">
-  <img src="/images/LAB Photo 1.jpg/" title="Geraldine, Valerie, Darren and Istyana" alt="Geraldine, Valerie, Darren and Istyana">From left: Geraldine, Valerie, Darren and Istyana
+  <img src="/images/LAB Photo 1.jpg" title="Geraldine, Valerie, Darren and Istyana" alt="Geraldine, Valerie, Darren and Istyana">From left: Geraldine, Valerie, Darren and Istyana
 </div>
 
 Made up of four officers from the Legal Aid Bureau (LAB) at MinLaw, the team came up with a one-stop platform equipped with self-help tools for victims of family violence as part of the ‘Hackathon for a Better World’, jointly organised by DBS Bank and the Singapore Judiciary. 
@@ -32,7 +32,7 @@ A total of 37 teams took part in the hackathon, consisting of participants from 
 Over the course of three months, the ‘slow-burn’ hackathon gave participants the time and room to develop innovative solutions on top of their existing commitments, unlike the usual all-action format that lasts for a few hours or days. Teams also had the opportunity to obtain feedback from relevant stakeholders throughout the research and development process of their prototypes.
 
 <div class="image">
-  <img src="/images/LAB Photo 2.jpg/" title="The Awards and Prize Presentation Day was held virtually, with Justice Aedit Abdullah as the Guest-of-Honour." alt="The Awards and Prize Presentation Day was held virtually, with Justice Aedit Abdullah as the Guest-of-Honour.">The Awards and Prize Presentation Day was held virtually, with Justice Aedit Abdullah as the Guest-of-Honour.
+  <img src="/images/LAB Photo 2.jpg" title="The Awards and Prize Presentation Day was held virtually, with Justice Aedit Abdullah as the Guest-of-Honour." alt="The Awards and Prize Presentation Day was held virtually, with Justice Aedit Abdullah as the Guest-of-Honour.">The Awards and Prize Presentation Day was held virtually, with Justice Aedit Abdullah as the Guest-of-Honour.
 </div>
 
 "This hackathon was intense but extremely meaningful for us. We worked closely with victims of family violence to co-create a safe way of empowering them with information and social support. Our webapp reflects what the LAB stands for – helping the vulnerable and less privileged get access to justice," says Istyana.
@@ -44,7 +44,7 @@ According to the Singapore Police Force (SPF), 476 reports were filed from April
 SPF had received 5,135 reports for family violence offences in 2020 – 1,115 of which were referred to family service centres or family violence specialist centres. To step up efforts to tackle this issue, the Ministry of Social and Family Development recently launched a 24-hour integrated helpline for people to report cases of family violence, and other forms of abuse or neglect.
 
 <div class="image">
-  <img src="/images/LAB Photo 3.jpg/" title="Istyana, Darren, Valerie and Geraldine having a discussion." alt="Istyana, Darren, Valerie and Geraldine having a discussion.">From left: Istyana, Darren, Valerie and Geraldine having a discussion.
+  <img src="/images/LAB Photo 3.jpg" title="Istyana, Darren, Valerie and Geraldine having a discussion." alt="Istyana, Darren, Valerie and Geraldine having a discussion.">From left: Istyana, Darren, Valerie and Geraldine having a discussion.
 </div>
 
 The LAB team were tracking social developments during the Circuit Breaker, and had already developed several LAB-specific responses for their chatbot to cater to the reported rise in family violence. Nonetheless, the team felt that more could be done to help this vulnerable group of people.
@@ -58,7 +58,7 @@ To aid the development of this webapp, the team interviewed victims of family vi
 “Our key discovery was that they wanted to address their basic needs such as safety, housing and social support before considering legal proceedings for their issues. In fact, many of them were worried that if they took action, their safety would be at stake if the perpetrator found out. Foreign wives with children were also haunted by the fear that they would be sent back to their home country without their children,” says Darren.
 
 <div class="image">
-  <img src="/images/LAB Photo 4.png/" title="The interface for ‘Newsfeed’." alt="The interface for ‘Newsfeed’.">The interface for ‘Newsfeed’.
+  <img src="/images/LAB Photo 4.png" title="The interface for ‘Newsfeed’." alt="The interface for ‘Newsfeed’.">The interface for ‘Newsfeed’.
 </div>
 
 Technology can aid access to justice. With more people staying home during the ongoing pandemic, there is a greater reliance on virtual services.
@@ -74,7 +74,7 @@ The team handles family violence cases on a day-to-day basis. In the course of r
 Together with their teammates Rachel Gan and Siow Ying Tze, the six of them form LAB’s LegalTech team that designs and develops tech solutions for the bureau.
 
 <div class="image">
-  <img src="/images/LAB Photo 5.jpg/" title="Geraldine, Ying Tze, Rachel, Darren, Istyana, Valerie" alt="Geraldine, Ying Tze, Rachel, Darren, Istyana, Valerie">From clockwise: Geraldine, Ying Tze, Rachel, Darren, Istyana, Valerie
+  <img src="/images/LAB Photo 5.jpg" title="Geraldine, Ying Tze, Rachel, Darren, Istyana, Valerie" alt="Geraldine, Ying Tze, Rachel, Darren, Istyana, Valerie">From clockwise: Geraldine, Ying Tze, Rachel, Darren, Istyana, Valerie
 </div>
 
 “Our team launched the Intelligent Legal Assistance Bot (iLAB) in February last year. The chatbot is able to identify your legal issues and provides you with customised legal information to help you address them. It can also generate simple legal documents, tell you where you can get legal advice from a lawyer, and check on your eligibility for legal aid,” shares Rachel, who leads the team.

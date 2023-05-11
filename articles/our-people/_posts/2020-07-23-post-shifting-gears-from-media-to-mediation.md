@@ -19,13 +19,13 @@ This has not stopped Mr Teh Joo Lin from exploring new paths in his work life, i
 He says: “Change brings about uncertainty, but the pay-off is experience and exposure. I feel like I have lived different lives and am the richer for it.”
 
 <div class="image">
-  <img src="/images/TJLpic1.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin1">
+  <img src="/images/TJLpic1.jpg" title="Teh Joo Lin" alt="Teh Joo Lin1">
 </div>
 
 Over the past 15 years, Mr Teh has worn several hats.  He was a journalist at The Straits Times before deciding to switch to law and return to school for a second degree.  The 38-year-old joined the legal service after completing the full-time course at the National University of Singapore. Following stints at the Attorney-General’s Chambers and the Supreme Court, he transitioned to be a policy adviser in the Ministry of Law. 
 
 <div class="image">
-  <img src="/images/TJLpic2.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin2">
+  <img src="/images/TJLpic2.jpg" title="Teh Joo Lin" alt="Teh Joo Lin2">
 </div> <sup>Mr Teh Joo Lin (top row, fourth from left) was working as a Justices’ Law Clerk at the Supreme Court of Singapore between 2015 – 2016.</sup>
 
 At the start of this year, his legal journey took him to the Singapore International Mediation Centre (SIMC) in the role of  deputy chief executive officer. SIMC specialises in the resolution of cross-border disputes through mediation, which is an increasingly important method of settling conflicts.
@@ -39,7 +39,7 @@ He says: “The public service value of journalism lies in provide accurate, bal
 “Even a tiny weather report could help someone decide whether to bring an umbrella out. An interview on a fatal accident can remind someone to be more careful on the roads.”
 
 <div class="image">
-  <img src="/images/TJLpic3.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin3">
+  <img src="/images/TJLpic3.jpg" title="Teh Joo Lin" alt="Teh Joo Lin3">
 </div>
 
 The former award-winning correspondent credits his reporting stint – he was a journalist for more than five years and covered major news events such as the manhunt for Mas Selamat Kastari and the 2011 General Elections – with instilling a strong understanding of what makes Singapore society tick. 
@@ -47,7 +47,7 @@ The former award-winning correspondent credits his reporting stint – he was a 
 Asked about the most satisfying aspect of his articles, Mr Teh points to the opportunity to report about “hidden communities” to help others understand their lives. This led to articles on migrant workers, the vice trade, gang violence, and even life behind bars. 
 
 <div class="image">
-  <img src="/images/TJLpic4.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin4">
+  <img src="/images/TJLpic4.jpg" title="Teh Joo Lin" alt="Teh Joo Lin4">
 </div>
 
 But he shut his notebook in 2011. It was time to chase his other passion – law.
@@ -79,7 +79,7 @@ He says: “To me, the magic of mediation is how it can be used to resolve confl
 “With the Convention entering into force, more will appreciate the benefits of mediation. Also, the COVID-19 pandemic has disrupted many lives and businesses. During this period, it is even more critical to find ways to resolve disputes amicably and not acrimoniously. This puts everyone in a stronger position to recover.” 
 
 <div class="image">
-  <img src="/images/TJLpic5.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin5">
+  <img src="/images/TJLpic5.jpg" title="Teh Joo Lin" alt="Teh Joo Lin5">
 </div><sup>Mr Teh with colleagues from the Ministry of Law.</sup>
 
 His three-year stint at the Ministry of Law has given him a deeper perspective of the public service’s role.
@@ -91,7 +91,7 @@ He adds that he has learnt at every step of the way, as his superiors gave him t
 In January, Mr Teh took on a secondment opportunity to the SIMC, which has allowed him to “operate more directly at the frontier of mediation”.
 
 <div class="image">
-  <img src="/images/TJLpic6.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin6">
+  <img src="/images/TJLpic6.jpg" title="Teh Joo Lin" alt="Teh Joo Lin6">
 </div>
 
 He has been busy with projects such as SIMC’s COVID-19 Protocol, which offers businesses the opportunity to resolve their disputes quickly, inexpensively and effectively during the pandemic.
@@ -99,11 +99,11 @@ He has been busy with projects such as SIMC’s COVID-19 Protocol, which offers 
 He says: “Some people ask me if promoting commercial mediation is meaningful as it is about businesses, and not individuals. However, businesses play such a powerful role in society that if they are believers in the peaceful management of conflicts, there will be knock-on effects on other aspects of human life.”
 
 <div class="image">
-  <img src="/images/TJLpic7.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin7">
+  <img src="/images/TJLpic7.jpg" title="Teh Joo Lin" alt="Teh Joo Lin7">
 </div><sup>Mr Teh (bottom row, second from left)</sup>
 
 <div class="image">
-  <img src="/images/TJLpic8.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin8">
+  <img src="/images/TJLpic8.jpg" title="Teh Joo Lin" alt="Teh Joo Lin8">
 </div><sup>Milestone celebration for Singapore International Mediation Centre (SIMC) crossing its 100th case. Photo taken on 3 Mar 2020.</sup>
 
 The current role also enables him to draw on his knowledge and experience in law and communications, giving him a head start of sorts. 
@@ -115,7 +115,7 @@ He reflects: “For example, communication skills are important in mediation. Th
 Asked if his mid-career switch had impeded his professional development, Mr Teh notes: “Perhaps, if this is conceived in a narrow sense. But a career is not just about linear progression up the ranks, but the experiences gained and the ability to contribute in different areas. 
 
 <div class="image">
-  <img src="/images/TJLpic9.jpg/" title="Teh Joo Lin" alt="Teh Joo Lin9">
+  <img src="/images/TJLpic9.jpg" title="Teh Joo Lin" alt="Teh Joo Lin9">
  </div>
  
 “In hindsight, whatever I did was a necessary step for what I am doing today. At the end of the day, I just ask myself if I am learning, and if I’m adding to something that is larger than myself. 

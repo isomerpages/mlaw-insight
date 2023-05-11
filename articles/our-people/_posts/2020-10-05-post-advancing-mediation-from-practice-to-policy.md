@@ -19,7 +19,7 @@ For Ms Ng Xinyuan, Senior Executive in the Policy Advisory Division in the Minis
 Before embarking on a career in the public service, Ms Ng had spent two years in family law practice in Singapore, where she witnessed first-hand how mediation could help disputing parties work through their differences and not just preserve, but mend relationships.
 
 <div class="image">
-  <img src="/images/xinyuanmaryam1.jpg/" title="Xinyuan" alt="Xinyuan">
+  <img src="/images/xinyuanmaryam1.jpg" title="Xinyuan" alt="Xinyuan">
 </div>
 
 Ms Ng shared one case she has a stark memory of, involving parents undergoing a divorce, who could not agree on the care arrangements for their child: “Their relationship was rather acrimonious at the start. They could not even have a conversation with one another without it dissolving into a quarrel. But through mediation, and with the patience of the judge mediator who took the time and care to speak to each parent individually to understand their interests, the parents were able to look beyond each other’s legal positions to the real interests at heart. They eventually reached a settlement agreement and by the end of the mediation process, the parents were not only communicating civilly, but were also having some meals together. My client shared with me that the mediation process and the mediator had moved him – I was amazed at the transformation.”
@@ -31,7 +31,7 @@ Working alongside Ms Ng in the Policy Advisory Division is Assistant Director Ma
 Like Ms Ng, Ms Maryam handled a bulk of cases involving family law matters whilst at the LAB, a majority of which were resolved through mediation. Her experience with mediation advocacy in family and matrimonial cases has inculcated a strong belief in the benefits of mediation.
 
 <div class="image">
-  <img src="/images/xinyuanmaryam2.jpg/" title="Maryam" alt="Maryam">
+  <img src="/images/xinyuanmaryam2.jpg" title="Maryam" alt="Maryam">
 </div>
 
 “I saw how mediation helped warring parents set aside their differences for the sake of their children and allowed parties to address misunderstandings head-on. It brought together and healed broken families, and helped them move forward,” she says.
@@ -49,7 +49,7 @@ The Convention, which is the first UN treaty to be named after Singapore, is the
 The Policy Advisory team, together with the Legal Industry Division at the Ministry of Law, worked closely with other government agencies on the domestic legislation for the Convention – the Singapore Convention on Mediation Act 2020 (“Act”) and the Supreme Court of Judicature (Singapore Convention on Mediation) Rules 2020 (“Rules”). The Act implements Singapore’s obligations under the Convention, while the Rules are subsidiary legislation under the Act which set out court procedures for applications under the Act.
 
 <div class="image">
-  <img src="/images/xinyuanmaryam3.jpg/" title="MinLaw" alt="MinLaw">
+  <img src="/images/xinyuanmaryam3.jpg" title="MinLaw" alt="MinLaw">
 </div> <sup>Ms Ng and Ms Maryam with Director-General Sharon Ong, who leads the International & Advisory team at MinLaw.</sup>
 
 For Ms Maryam, her experience at the LAB came in handy in the process of drafting the Rules, where she brought her recent expertise with court procedure to the team. She says, “It is definitely useful to have had that perspective on the ground. While the Convention and the Act provide the overarching framework, the domestic rules which provide for the procedures need to be practical and workable in real life.”
@@ -65,7 +65,7 @@ The highlight, she says, was seeing the domestic legislation commence on 12 Sept
 “Domestically, we had discussions and consultations with mediation experts and institutions on the operation of the Convention in Singapore. Everyone, including our colleagues at the Attorney-General’s Chambers (AGC) and the Courts, came together to push this through, which I think was not just because they knew it was significant for Singapore, but also testament to a belief in mediation being an effective and beneficial means of dispute resolution.”
 
 <div class="image">
-  <img src="/images/xinyuanmaryam4.jpg/" title="SCM" alt="SCM">
+  <img src="/images/xinyuanmaryam4.jpg" title="SCM" alt="SCM">
 </div> <sup>Ms Maryam (extreme left) with MinLaw colleagues at the Singapore Convention on Mediation Signing Ceremony and Conference in 2019.</sup>
 
  <b><i>A Milestone in Mediation Practice</i></b>
@@ -75,7 +75,7 @@ With the Convention in place, businesses seeking enforcement of a commercial med
 Ms Maryam says: “To me, the Convention and Singapore’s ratification is an impressive milestone in mediation practice. When I first began learning about and taking up training in mediation in 2015, mediators were saying more needed to be done for the benefits of mediation to be appreciated and for mediation to be regarded as a profession. There has been so much progress since – there is now an international treaty recognising mediation as a means of resolving international commercial disputes.”    
 
 <div class="image">
-  <img src="/images/xinyuanmaryam5.jpg/" title="Xinyuan & Maryam" alt="Xinyuan & Maryam">
+  <img src="/images/xinyuanmaryam5.jpg" title="Xinyuan & Maryam" alt="Xinyuan & Maryam">
 </div> <sup>Ms Maryam (left) and Ms Ng (right) from the Policy Advisory Division in the Ministry of Law.</sup>
 
 <b><i>Reforming the Law</i></b>
@@ -95,7 +95,7 @@ Ms Ng shares: “Having seen how the law and policies have the potential to shap
 Developing policies and legislation is not a static effort, but an ongoing one that requires long-term review and refinement. Even as the Convention, the Act and the Rules are in place, the work continues for Ms Ng, Ms Maryam and their colleagues at the Ministry of Law.
 
 <div class="image">
-  <img src="/images/xinyuanmaryam6.jpg/" title="Xinyuan & Maryam" alt="Xinyuan & Maryam">
+  <img src="/images/xinyuanmaryam6.jpg" title="Xinyuan & Maryam" alt="Xinyuan & Maryam">
 </div> <sup>The work continues in the face of COVID-19. Ms Ng and Ms Maryam setting up video conferencing to facilitate bilateral exchanges on mediation and the Convention.</sup>
 
 The Ministry works with countries, businesses and practitioners to promote the benefits of mediation and the Convention. Besides providing technical assistance to assist countries to work towards signing and ratifying the Convention, the Ministry also exchanges views with countries on the mediation landscape in their countries.

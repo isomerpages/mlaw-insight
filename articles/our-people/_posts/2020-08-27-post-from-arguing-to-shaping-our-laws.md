@@ -19,7 +19,7 @@ When presented with the opportunity to be involved first-hand with the reforms t
 <b><i>Enhancing Singapore’s laws and legal frameworks</i></b>
 
 <div class="image">
-  <img src="/images/harold1.png/" title="Harold Foo" alt="Harold Foo">
+  <img src="/images/harold1.png" title="Harold Foo" alt="Harold Foo">
 </div>
 
 In the past four years, the Assistant Director in the Policy Advisory Division has had a myriad of experiences, from conceptualising and implementing legislation to engaging local and international stakeholders across various projects.
@@ -33,7 +33,7 @@ In addition to his work in insolvency, he has also contributed to other projects
 <b><i>Why insolvency?</i></b>
 
 <div class="image">
-  <img src="/images/harold2.png/" title="Harold Foo" alt="Harold Foo">
+  <img src="/images/harold2.png" title="Harold Foo" alt="Harold Foo">
 </div>
 
 While insolvency may be unfamiliar to some, Mr Foo views it as an intellectually challenging and rewarding area of law. “Insolvency frequently involves complex legal issues, as well as business and practical considerations, which cut across the areas of contractual rights, property rights and public policy,” he says.
@@ -47,7 +47,7 @@ A key highlight thus far in his public service career has been the commencement 
 The golden thread connecting the provisions in this massive statute – together with its 48 pieces of supporting subsidiary legislation – is ensuring that Singapore’s insolvency laws remain progressive and modern. This supports businesses and individuals faced with financial distress and enhances Singapore as an international centre for debt restructuring. 
 
 <div class="image">
-  <img src="/images/harold3.png/" title="Harold Foo" alt="Harold Foo">
+  <img src="/images/harold3.png" title="Harold Foo" alt="Harold Foo">
 </div> <sup>Mr Foo with his colleagues from the Ministry of Law.</sup>
 
 He reflects: “The IRDA is a landmark legislation that has changed the face of Singapore’s insolvency legislation. Its introduction is timely, given the unprecedented spread and severity of the COVID-19 pandemic that has devastated businesses, and in turn, individuals.”
@@ -59,7 +59,7 @@ He adds: “Looking back, the process of bringing the legislation to fruition wa
 <b><i>Flying the Singapore flag</i></b>
 
 <div class="image">
-  <img src="/images/harold4.png/" title="Harold Foo" alt="Harold Foo">
+  <img src="/images/harold4.png" title="Harold Foo" alt="Harold Foo">
 </div> <sup>Mr Foo chairing the 56th session of UNCITRAL Working Group V (Insolvency Law) in Vienna, Austria in December 2019.</sup>
 
 In December 2019, Mr Foo was elected as Chairperson of United Nations Commission on International Trade Law (“<b>UNCITRAL</b>”) Working Group V (Insolvency Law) for its 56th Session. The working group comprises more than 150 insolvency experts from all over the world, across Governments, academics, and practitioners. UNCITRAL, established by the United Nations Generally Assembly, plays an important role in furthering the progressive harmonisation and modernisation of the law on international trade. 
@@ -69,19 +69,19 @@ The working group is currently focused on the insolvency of micro, small and med
 “This is meaningful work that will hopefully have long lasting and positive impact on global economies,” Mr Foo notes, “I am incredibly humbled and honoured to have been given the opportunity to contribute to this, in my own small way.”
 
 <div class="image">
-  <img src="/images/harold5.png/" title="Harold Foo" alt="Harold Foo">
+  <img src="/images/harold5.png" title="Harold Foo" alt="Harold Foo">
 </div> <sup>Mr Foo chairing an online informal consultation session with UNCITRAL Working Group V in May 2020, in light of the public health concerns and travel restrictions arising from the COVID-19 pandemic.</sup>
 
 In addition, as part of his broader work, Mr Foo has also been involved in various bilateral and international engagements that aim to further Singapore’s interests. For example, in May 2019, he was part of the Singapore delegation to the St Petersburg International Legal Forum, which provided attendees with a better understanding of Singapore’s legal system and Singapore law.
 
 <div class="image">
-  <img src="/images/harold6.png/" title="Harold Foo" alt="Harold Foo">
+  <img src="/images/harold6.png" title="Harold Foo" alt="Harold Foo">
 </div> <sup>Flying the Singapore flag high in St Petersburg, Russia in May 2019. Mr Foo with Minister for Culture, Community and Youth, and Second Minister for Law, Mr Edwin Tong, and colleagues from the Ministry of Law and Ministry of Foreign Affairs.</sup>
 
 <b><i>Giving back</i></b>
 
 <div class="image">
-  <img src="/images/harold7.png/" title="Harold Foo" alt="Harold Foo">
+  <img src="/images/harold7.png" title="Harold Foo" alt="Harold Foo">
 </div>
 
 Today, while Mr Foo no longer prepares arguments for the courtroom, he nevertheless analyses and argues points of law in the classroom with future legal eagles. As a facilitator for the preparatory course for the Singapore Bar Examinations, he helps aspiring lawyers as they seek to embark on their careers in the legal profession.

@@ -23,7 +23,7 @@ In Letters of the Law, a collection of letters written by authors from the legal
 Insight MinLaw caught up with Simon to chat about AI, legal education and his novels.
 
 <div class="image">
-  <img src="/images/NUS Law Dean 1.jpg/">
+  <img src="/images/NUS Law Dean 1.jpg">
 </div>
 
 <b><i>Insight MinLaw: In your recent book, We, the Robots? Regulating Artificial Intelligence and the Limits of the Law, you examined how laws are dealing with AI. What is the impact of AI on the legal profession?</i></b>
@@ -53,7 +53,7 @@ Singapore’s Chief Justice Sundaresh Menon has said that such developments in C
 To this one might add considerations of equity, since the drive towards greater automation is being dominated by deep-pocketed clients and ever-closer ties to technology companies, with uncertain consequences for the future administration of justice.
 
 <div class="image">
-  <img src="/images/NUS Law Dean 2.jpg/">
+  <img src="/images/NUS Law Dean 2.jpg">
 </div>
 
 <b><i>Insight MinLaw: What qualities do you think law students need to succeed in their careers?</i></b>
@@ -69,7 +69,7 @@ By metaphorical boundaries, I mean disciplinary ones. There’s a dirty secret m
 As for social boundaries, I do think it’s vital that our graduates can relate to people from all walks of life.
 
 <div class="image">
-  <img src="/images/NUS Law Dean 3.jpg/" title="The 2019 NUS Law Rag team with Professor Simon Chesterman. Photo taken before COVID-19. (Credit: NUS Law)" alt="The 2019 NUS Law Rag team with Professor Simon Chesterman. Photo taken before COVID-19. (Credit: NUS Law)">The 2019 NUS Law Rag team with Professor Simon Chesterman. Photo taken before COVID-19. (Credit: NUS Law)
+  <img src="/images/NUS Law Dean 3.jpg" title="The 2019 NUS Law Rag team with Professor Simon Chesterman. Photo taken before COVID-19. (Credit: NUS Law)" alt="The 2019 NUS Law Rag team with Professor Simon Chesterman. Photo taken before COVID-19. (Credit: NUS Law)">The 2019 NUS Law Rag team with Professor Simon Chesterman. Photo taken before COVID-19. (Credit: NUS Law)
 </div>
 
 We’ve tried to address this in terms of our intake, by increasing aptitude-based admissions (formerly discretionary admissions). Earlier this year, we launched a pilot programme where candidates whose achievements put them in the top five per cent of students at any of Singapore’s junior colleges and Millennia Institute, based on their GCE ‘A’ Level results, International Baccalaureate (IB) Diploma or equivalent, are eligible for shortlisting to sit for the written test and interview. 
@@ -87,13 +87,13 @@ One positive indication is that some naysayers warned when we started the pro bo
 Simon: I’ve always been an avid reader and had dabbled in fiction as a teenager. (In fact, I completed two unpublished – and unpublishable – novels.)
 
 <div class="image">
-  <img src="/images/NUS Law Dean 4.jpg/">
+  <img src="/images/NUS Law Dean 4.jpg">
 </div>
 
 When encouraging my own children to read, it rekindled that interest in writing. My <i>Raising Arcadia</i> trilogy in particular was an attempt to show my own kids that you could have a strong female character who succeeded through her brains rather than, say, magic or violence.
 
 <div class="image">
-  <img src="/images/NUS Law Dean 5.jpg/" title="The Raising Arcadia Trilogy (Credit: Simon Chesterman)" alt="The Raising Arcadia Trilogy (Credit: Simon Chesterman)">The Raising Arcadia Trilogy (Credit: Simon Chesterman)
+  <img src="/images/NUS Law Dean 5.jpg" title="The Raising Arcadia Trilogy (Credit: Simon Chesterman)" alt="The Raising Arcadia Trilogy (Credit: Simon Chesterman)">The Raising Arcadia Trilogy (Credit: Simon Chesterman)
 </div>
 
 I suppose another reason was that my kids — bizarrely — seemed to have no interest in reading about international law or data protection. So at least these were books of mine that they would read.
