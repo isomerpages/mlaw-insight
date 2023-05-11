@@ -25,7 +25,7 @@ We spoke to three law firms to understand their technology adoption journeys.
 The early days of VanillaLaw LLC started back in a conservation shophouse in Chinatown when it was still a sole proprietorship. Their small size meant that they had to work with limited resources, and this pushed them to leverage digital tools to scale up their work. Their philosophy on digitalisation? “Be clear about my goals and then find a tool which can help me achieve it as cheaply as possible,” shared Mark Goh, founder of VanillaLaw LLC.
 
 <div class="image">
-  <img src="/images/PSPOESC Photo 2.jpg" title="Mark Goh, founder of VanillaLaw LLC, who is also an avid cyclist." alt="Mark Goh, founder of VanillaLaw LLC, who is also an avid cyclist.">Mark Goh, founder of VanillaLaw LLC, who is also an avid cyclist.
+  <img src="/images/PSPOESC Photo 2.JPG" title="Mark Goh, founder of VanillaLaw LLC, who is also an avid cyclist." alt="Mark Goh, founder of VanillaLaw LLC, who is also an avid cyclist.">Mark Goh, founder of VanillaLaw LLC, who is also an avid cyclist.
 </div>
 
 Ahead of the pack, the firm allowed staff to work from home and conduct their matters online – a full two years before the pandemic. But there were challenges, including strong resistance from their clients when it came to discussing cases online. When COVID-19 struck, firms and clients alike had no choice but to pivot online – a validation of VanillaLaw’s business and operating model.
@@ -33,7 +33,7 @@ Ahead of the pack, the firm allowed staff to work from home and conduct their ma
 Over the years, the firm has transformed itself into a digital legal practice with technology at the core of everything they do. This also meant taking an extra step in developing their own in-house proprietary document assembly software, VanillaLaw® Docs. A brainchild of Mark’s, the software was borne out of his perennial struggle with physical repositories of templates and precedents. Since Mark could not find any software on the market that met his expectations, he decided to develop one in-house. Today, VanillaLaw® Docs helps interns and junior lawyers to create the first drafts of various types of legal documents with an accuracy rate of up to 70%.
 
 <div class="image">
-  <img src="/images/PSPOESC Photo 3.jpg" title="An example of document assembly on VanillaLaw® Docs." alt="An example of document assembly on VanillaLaw® Docs.">An example of document assembly on VanillaLaw® Docs.
+  <img src="/images/PSPOESC Photo 3.JPG" title="An example of document assembly on VanillaLaw® Docs." alt="An example of document assembly on VanillaLaw® Docs.">An example of document assembly on VanillaLaw® Docs.
 </div>
 
 In addition to going largely digital, the firm has also adopted “holocracy”, a novel organisational structure to replace conventional management hierarchies. Under this system, interns are given more autonomy to carry out and deliver their work, which in turn enables the firm to better assess their abilities before awarding training contracts – this is the primary way the firm hires young lawyers.
@@ -55,7 +55,7 @@ As the law firm had always placed technology at the core of its growth philosoph
 The firm leveraged the Tech-celerate for Law initiative to procure software such as Tessaract.io, an end-to-end collaborative practice management software. Apart from Tessaract.io, the firm also adopted the productivity tool Clarilis, a document automation platform that helps lawyers and corporate counsel with the drafting process for all forms of legal documentation. 
 
 <div class="image">
-  <img src="/images/PSPOESC Photo 5.jpeg/" title="Bazul Ashhab, Managing Partner at Oon & Bazul LLP." alt="Bazul Ashhab, Managing Partner at Oon & Bazul LLP.">Bazul Ashhab, Managing Partner at Oon & Bazul LLP.
+  <img src="/images/PSPOESC Photo 5.jpeg" title="Bazul Ashhab, Managing Partner at Oon & Bazul LLP." alt="Bazul Ashhab, Managing Partner at Oon & Bazul LLP.">Bazul Ashhab, Managing Partner at Oon & Bazul LLP.
 </div>
 
 The success recipe for the firm was a combination of a bottom-up approach involving staff across all levels, formulation of a comprehensive technology learning and development plan for all employees, as well as regular investments in technology. “I will not make a decision until I have heard from every business segment, including non-lawyers,” said Bazul, emphasizing the firm’s senior management’s belief in adopting a consultative approach.
@@ -77,7 +77,7 @@ Their new Legal Practice Management (LPM) system took more than a year to develo
 While travel restrictions have made it challenging to physically meet prospective clients and partners based overseas, technology has empowered BR Law to extend their outreach. With video conferencing as the ‘new normal’, they were able to reach over 300 attendees in a single webinar, which was more than ten times the typical turnout of physical seminars.
 
 <div class="image">
-  <img src="/images/PSPOESC Photo 7.jpg" title="A video conference with staff across BR Law’s offices and who are telecommuting." alt="A video conference with staff across BR Law’s offices and who are telecommuting.">A video conference with staff across BR Law’s offices and who are telecommuting.
+  <img src="/images/PSPOESC Photo 7.JPG" title="A video conference with staff across BR Law’s offices and who are telecommuting." alt="A video conference with staff across BR Law’s offices and who are telecommuting.">A video conference with staff across BR Law’s offices and who are telecommuting.
 </div>
 
 The firm is not resting on its laurels as they continue their technology journey. What’s next? A cloud-based phone system that allows users to make, receive, and transfer office calls using their DIDs via a mobile application – all this while they continue to explore other technology tools to improve their processes, work flexibility and business resilience.
