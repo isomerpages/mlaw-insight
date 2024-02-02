@@ -11,8 +11,8 @@ variant: tiptap
 <p><em>Insight MinLaw goes behind the scenes to uncover stories about how the work we do impacts you.</em>
 </p>
 <p>What do old army barracks and disused school buildings have in common?
-A chance at getting a new lease of life as SLA optimises the use of vacant
-State land and properties.</p>
+A chance at getting a new lease of life as Singapore Land Authority (SLA)
+optimises the use of vacant State land and properties.</p>
 <p></p>
 <p>Singapore is a small city-state, and land is a strategic resource for
 us. Given our limited land resources, land that is left unused can be considered
