@@ -31,8 +31,9 @@ for the community to gather for co-learning through interactive programmes,
 workshops, camps, and competitions. VIVISTOP is slated to open officially
 in the first half of 2024.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4659.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/IMG_4659.jpg">
 </div>
 <p><em>An artist's impression of the repurposed centre, VIVISTOP at 10 Kampong Eunos</em>
 </p>
@@ -43,7 +44,7 @@ Co-Founders and Environment Creator at VIVITA Singapore.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Ms Carrie Wong, SLA's Business Planning Division" src="/images/Carrie_Wong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/Carrie_Wong.jpg">
 </div>
 <p><em>Ms Carrie Wong, SLA’s Business Planning Division</em>
 </p>
@@ -99,8 +100,9 @@ was also supportive of VIVITA’s proposal.</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/_TAM6085__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/_TAM6085__2_.jpg">
 </div>
 <p><em>Mr Lee Hoi Leong, Co-Founder and Environment Creator of VIVITA Singapore</em>
 </p>
@@ -131,11 +133,7 @@ of cool kids’ ideas, and a hub that empowers everyone to be makers – it
 will be a Creative Kampong!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VIVITA co-creating the space with children" src="/images/IMG_4660.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VIVITA co-creating the space with children" src="/images/IMG_4661.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/Untitled_design__8_.png">
 </div>
 <p><em>VIVITA co-creating the space with children</em>
 </p>
