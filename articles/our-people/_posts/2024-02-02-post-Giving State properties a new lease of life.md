@@ -129,7 +129,7 @@ of cool kids’ ideas, and a hub that empowers everyone to be makers – it
 will be a Creative Kampong!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4660.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="VIVITA co-creating the space with children" src="/images/IMG_4660.jpg">
 </div>
 <p>VIVITA co-creating the space with children</p>
 <p></p>
