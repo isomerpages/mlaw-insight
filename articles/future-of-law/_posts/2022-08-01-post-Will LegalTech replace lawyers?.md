@@ -162,8 +162,9 @@ dedicated onboarding and customer success team to guide the law firms adopting
 the solution. There is also 24/7 tech support to address issues timely.
 All these go towards ensuring a smooth and seamless onboarding process
 to the LTP for law firms.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Participant finding out more about LTP at the launch event" alt="Participant finding out more about LTP at the launch event" src="/images/finding-out-about-ltp.jpeg/">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/finding-out-about-ltp.jpeg">
 </div>
 <p>Participant finding out more about LTP at the launch event</p>
 <p><strong><em>Insight MinLaw: What future developments can we look forward to in terms of the LTP? And what is the vision for the LTPI?</em></strong>
