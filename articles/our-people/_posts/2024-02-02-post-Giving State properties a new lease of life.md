@@ -35,8 +35,8 @@ in the first half of 2024.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/IMG_4659.jpg">
 </div>
-<p><em>An artist's impression of the repurposed centre, VIVISTOP at 10 Kampong Eunos</em>
-</p>
+<center><p><em>An artist's impression of the repurposed centre, VIVISTOP at 10 Kampong Eunos</em></p></center>
+<p></p>
 <p></p>
 <p>To find out how State properties are chosen for repurposing and rejuvenation,
 and what you can look forward to at 10 Kampong Eunos, we spoke to Carrie
@@ -47,8 +47,8 @@ Co-Founders and Environment Creator at VIVITA Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/Carrie_Wong.jpg">
 </div>
-<p><em>Ms Carrie Wong, SLA’s Business Planning Division</em>
-</p>
+<center><p><em>Ms Carrie Wong, SLA’s Business Planning Division</em></p></center>
+<p></p>
 <p></p>
 <p><strong><em>Insight MinLaw: How does SLA identify which properties should be repurposed and rejuvenated for the community?</em></strong>
 </p>
@@ -107,8 +107,8 @@ was also supportive of VIVITA’s proposal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/_TAM6085__2_.jpg">
 </div>
-<p><em>Mr Lee Hoi Leong, Co-Founder and Environment Creator of VIVITA Singapore</em>
-</p>
+<center><p><em>Mr Lee Hoi Leong, Co-Founder and Environment Creator of VIVITA Singapore</em>
+</p></center>
 <p></p>
 <p></p>
 <p><strong><em>Insight MinLaw: What inspired VIVITA’s proposal for 10 Kampong Eunos? What can we look forward to?</em></strong>
@@ -140,8 +140,8 @@ will be a Creative Kampong!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/Untitled_design__8_.png">
 </div>
 <p></p>
-<p><em>VIVITA co-creating the space with children</em>
-</p>
+<center><p><em>VIVITA co-creating the space with children</em></p></center>
+<p></p>
 <p></p>
 <p></p>
 <p><strong><em>Insight MinLaw: Can you share with us the other initial ideas that VIVITA came up with for this site?</em></strong>
