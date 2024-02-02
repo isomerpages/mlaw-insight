@@ -34,8 +34,8 @@ in the first half of 2024.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4659.jpg">
 </div>
-<p>An artist's impression of the repurposed centre, VIVISTOP at 10 Kampong
-Eunos</p>
+<center>An artist's impression of the repurposed centre, VIVISTOP at 10 Kampong
+Eunos</center>
 <p>To find out how State properties are chosen for repurposing and rejuvenation,
 and what you can look forward to at 10 Kampong Eunos, we spoke to Carrie
 Wong from SLA’s Business Planning Division and Lee Hoi Leong, one of the
@@ -45,7 +45,7 @@ Co-Founders and Environment Creator at VIVITA Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Carrie_Wong.jpg">
 </div>
-<p>Ms Carrie Wong, SLA’s Business Planning Division</p>
+<center><p>Ms Carrie Wong, SLA’s Business Planning Division</p></center>
 <p><strong><em>Insight MinLaw: How does SLA identify which properties should be repurposed and rejuvenated for the community?</em></strong>
 </p>
 <p>Carrie: For vacant State properties not required for immediate development,
@@ -101,7 +101,7 @@ was also supportive of VIVITA’s proposal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/_TAM6085__2_.jpg">
 </div>
-<p>Mr Lee Hoi Leong, Co-Founder and Environment Creator of VIVITA Singapore</p>
+<center><p>Mr Lee Hoi Leong, Co-Founder and Environment Creator of VIVITA Singapore</p></center>
 <p></p>
 <p><strong><em>Insight MinLaw: What inspired VIVITA’s proposal for 10 Kampong Eunos? What can we look forward to?</em></strong>
 </p>
@@ -131,7 +131,7 @@ will be a Creative Kampong!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="VIVITA co-creating the space with children" src="/images/IMG_4660.jpg">
 </div>
-<p>VIVITA co-creating the space with children</p>
+<center><p>VIVITA co-creating the space with children</p></center>
 <p></p>
 <p><strong><em>Insight MinLaw: Can you share with us the other initial ideas that VIVITA came up with for this site?</em></strong>
 </p>
@@ -162,4 +162,6 @@ transport, again because we want more children and youths to be able to
 come. The site at 10 Kampong Eunos checks all these boxes, which makes
 sense, since it was previously a community centre. It was a real find,
 and I think it will be a great home for VIVISTOP!</p>
-<p>&nbsp;</p>
+<br>
+<b>Other stories you may like:</b>
+<a href="https://insight.mlaw.gov.sg/articles/future-of-law/will-legaltech-replace-lawyers" target="new">Will Legaltech replace lawyers</a><br><a href="https://insight.mlaw.gov.sg/articles/our-people/2022-03-18-getting-to-the-heart-of-community-conflicts" target="new">Getting to the heart of community conflicts</a>
