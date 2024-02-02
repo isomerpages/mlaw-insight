@@ -34,7 +34,8 @@ in the first half of 2024.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/IMG_4659.jpg">
-<i>An artist's impression of the repurposed centre, VIVISTOP at 10 Kampong Eunos</i>
+</div>
+<center><i>An artist's impression of the repurposed centre, VIVISTOP at 10 Kampong Eunos</i></center>
 <p></p>
 <p>To find out how State properties are chosen for repurposing and rejuvenation,
 and what you can look forward to at 10 Kampong Eunos, we spoke to Carrie
@@ -44,8 +45,7 @@ Co-Founders and Environment Creator at VIVITA Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/Carrie_Wong.jpg">
-</div>
-	<p></p><center><i>Ms Carrie Wong, SLA’s Business Planning Division</i></center>
+<center><i>Ms Carrie Wong, SLA’s Business Planning Division</i></center>
 <p></p>
 <p><strong><em>Insight MinLaw: How does SLA identify which properties should be repurposed and rejuvenated for the community?</em></strong>
 </p>
