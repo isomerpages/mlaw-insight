@@ -107,8 +107,8 @@ was also supportive of VIVITA’s proposal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/_TAM6085__2_.jpg">
 </div>
-<center><p><em>Mr Lee Hoi Leong, Co-Founder and Environment Creator of VIVITA Singapore</em>
-</p></center>
+<center><p><i>Mr Lee Hoi Leong, Co-Founder and Environment Creator of VIVITA Singapore</i></p></center>
+<p></p>
 <p></p>
 <p></p>
 <p><strong><em>Insight MinLaw: What inspired VIVITA’s proposal for 10 Kampong Eunos? What can we look forward to?</em></strong>
