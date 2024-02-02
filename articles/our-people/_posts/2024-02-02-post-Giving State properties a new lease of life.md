@@ -43,7 +43,7 @@ Co-Founders and Environment Creator at VIVITA Singapore.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Carrie_Wong.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Carrie_Wong.jpg">
 </div>
 <center><p>Ms Carrie Wong, SLA’s Business Planning Division</p></center>
 <p><strong><em>Insight MinLaw: How does SLA identify which properties should be repurposed and rejuvenated for the community?</em></strong>
