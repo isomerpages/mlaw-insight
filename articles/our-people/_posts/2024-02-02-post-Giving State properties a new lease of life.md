@@ -168,6 +168,6 @@ and I think it will be a great home for VIVISTOP!</p>
 <p>
 <br><strong>Other stories you may like:</strong>
 </p>
-<p><a href="https://insight.mlaw.gov.sg/articles/future-of-law/will-legaltech-replace-lawyers" rel="noopener noreferrer nofollow" target="new">Will Legaltech replace lawyers</a>
+<p><a href="https://insight.mlaw.gov.sg/articles/future-of-law/will-legaltech-replace-lawyers" rel="noopener noreferrer nofollow" target="new">Will Legaltech replace lawyers</a> 
 <br><a href="https://insight.mlaw.gov.sg/articles/our-people/2022-03-18-getting-to-the-heart-of-community-conflicts" rel="noopener noreferrer nofollow" target="new">Getting to the heart of community conflicts</a>
 </p>
