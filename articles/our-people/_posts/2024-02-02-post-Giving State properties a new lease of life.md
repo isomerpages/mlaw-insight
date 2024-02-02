@@ -34,8 +34,7 @@ in the first half of 2024.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/IMG_4659.jpg">
-</div>
-<center><i><sup>An artist's impression of the repurposed centre, VIVISTOP at 10 Kampong Eunos</sup></i></center>
+</div><i><sup>An artist's impression of the repurposed centre, VIVISTOP at 10 Kampong Eunos</sup></i>
 <p></p>
 <p>To find out how State properties are chosen for repurposing and rejuvenation,
 and what you can look forward to at 10 Kampong Eunos, we spoke to Carrie
@@ -45,8 +44,8 @@ Co-Founders and Environment Creator at VIVITA Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/Carrie_Wong.jpg">
-	<center><i><sup>Ms Carrie Wong, SLA’s Business Planning Division</sup></i></center>
-<p></p>
+<center><i><sup>Ms Carrie Wong, SLA’s Business Planning Division</sup></i></center>
+</div><p></p>
 <p><strong><em>Insight MinLaw: How does SLA identify which properties should be repurposed and rejuvenated for the community?</em></strong>
 </p>
 <p>Carrie: For vacant State properties not required for immediate development,
@@ -102,7 +101,6 @@ was also supportive of VIVITA’s proposal.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/_TAM6085__2_.jpg">
-</div>
 <p></p><center><i><sup>Mr Lee Hoi Leong, Co-Founder and Environment Creator of VIVITA Singapore</sup></i></center>
 <p></p>
 <p></p>
@@ -133,8 +131,8 @@ will be a Creative Kampong!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/Untitled_design__8_.png">
-</div>
 	<p><i></i></p><center><i><sup>VIVITA co-creating the space with children</sup></i></center>
+</div>
 <p></p>
 <p></p>
 <p><strong><em>Insight MinLaw: Can you share with us the other initial ideas that VIVITA came up with for this site?</em></strong>
