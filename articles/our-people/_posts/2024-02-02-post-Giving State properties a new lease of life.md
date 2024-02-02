@@ -43,7 +43,7 @@ Co-Founders and Environment Creator at VIVITA Singapore.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Carrie_Wong.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Ms Carrie Wong, SLA's Business Planning Division" src="/images/Carrie_Wong.jpg">
 </div>
 <p><em>Ms Carrie Wong, SLA’s Business Planning Division</em>
 </p>
@@ -132,6 +132,10 @@ will be a Creative Kampong!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="VIVITA co-creating the space with children" src="/images/IMG_4660.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="VIVITA co-creating the space with children" src="/images/IMG_4661.jpg">
 </div>
 <p><em>VIVITA co-creating the space with children</em>
 </p>
