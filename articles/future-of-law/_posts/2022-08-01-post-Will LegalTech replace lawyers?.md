@@ -40,11 +40,7 @@ consultation with the legal industry.</p>
 <p>Insight MinLaw caught up with Chief Commercial Officer and Co-Founder
 of Lupl, Matthew Pollins as well as Director at MinLaw (Professional Services
 Programme Office) Alyssa Toh, to share more on what went behind the building
-of the LTP and other aspects of the LTPI.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Chief Commercial Officer and Co-Founder of Lupl, Matthew Pollins (left) and Director for Professional Services Programme Office at Ministry of Law, Alyssa Toh (right)" alt="Chief Commercial Officer and Co-Founder of Lupl, Matthew Pollins (left) and Director for Professional Services Programme Office at Ministry of Law, Alyssa Toh (right)" src="/images/matt-alyssa.jpeg/">
-</div>
-<p></p>
+of the LTP and other aspects of the LTPI</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/matt-alyssa.jpeg">
 </div>
@@ -218,6 +214,6 @@ from burn-out.</p>
 <br>
 <br><strong>Other stories you may like:</strong>
 </p>
-<p><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-05-05-the-future-is-legaltech" rel="noopener noreferrer nofollow" target="new">The Future is LegalTech</a>
+<p><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-05-05-the-future-is-legaltech" rel="noopener noreferrer nofollow" target="new">The Future is LegalTech</a> 
 <br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" rel="noopener noreferrer nofollow" target="new">In Conversation with: Dean Simon Chesterman</a>
 </p>
