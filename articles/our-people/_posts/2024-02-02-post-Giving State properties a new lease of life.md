@@ -44,7 +44,7 @@ Co-Founders and Environment Creator at VIVITA Singapore.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/Carrie_Wong.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/Carrie_Wong.jpg">
 </div>
 <p><em>Ms Carrie Wong, SLA’s Business Planning Division</em>
 </p>
@@ -102,7 +102,7 @@ was also supportive of VIVITA’s proposal.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/_TAM6085__2_.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="" src="/images/State Land rejuvenation/_TAM6085__2_.jpg">
 </div>
 <p><em>Mr Lee Hoi Leong, Co-Founder and Environment Creator of VIVITA Singapore</em>
 </p>
