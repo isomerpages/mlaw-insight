@@ -164,4 +164,5 @@ sense, since it was previously a community centre. It was a real find,
 and I think it will be a great home for VIVISTOP!</p>
 <br>
 <b>Other stories you may like:</b>
+
 <a href="https://insight.mlaw.gov.sg/articles/future-of-law/will-legaltech-replace-lawyers" target="new">Will Legaltech replace lawyers</a><br><a href="https://insight.mlaw.gov.sg/articles/our-people/2022-03-18-getting-to-the-heart-of-community-conflicts" target="new">Getting to the heart of community conflicts</a>
