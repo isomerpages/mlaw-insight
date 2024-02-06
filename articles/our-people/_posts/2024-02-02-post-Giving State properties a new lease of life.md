@@ -106,7 +106,6 @@ was also supportive of VIVITA’s proposal.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/_TAM6085__2_.jpg">
-</div>
 <center><p><i>Mr Lee Hoi Leong, Co-Founder and Environment Creator of VIVITA Singapore</i></p></center>
 <p></p>
 <p></p>
@@ -178,4 +177,4 @@ and I think it will be a great home for VIVISTOP!</p>
 </p>
 <p><a href="https://insight.mlaw.gov.sg/articles/future-of-law/will-legaltech-replace-lawyers" rel="noopener noreferrer nofollow" target="new">Will Legaltech replace lawyers</a> 
 <br><a href="https://insight.mlaw.gov.sg/articles/our-people/2022-03-18-getting-to-the-heart-of-community-conflicts" rel="noopener noreferrer nofollow" target="new">Getting to the heart of community conflicts</a>
-</p>
+</p></div>
