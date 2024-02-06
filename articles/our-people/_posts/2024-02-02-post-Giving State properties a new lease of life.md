@@ -105,7 +105,7 @@ was also supportive of VIVITA’s proposal.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/_TAM6085__2_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/1_tam6085_2_.jpg">
 <center><p><i>Mr Lee Hoi Leong, Co-Founder and Environment Creator of VIVITA Singapore</i></p></center>
 <p></p>
 <p></p>
