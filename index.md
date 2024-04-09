@@ -29,7 +29,7 @@ sections:
     - resources:
         title: ''
         subtitle: ''
-        button: ''
+        button: 'More'
 ---
 
 
