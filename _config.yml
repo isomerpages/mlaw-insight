@@ -1,6 +1,6 @@
-title: 'Insight Minlaw'
+title: Insight Minlaw
 description: Description
-url: 'https://insight.mlaw.gov.sg'
+url: https://insight.mlaw.gov.sg
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 future: true
@@ -21,7 +21,7 @@ exclude:
   - vendor/ruby/
   - Gemfile
   - Gemfile.lock
-facebook-pixel: 255277428824423
+facebook-pixel: "255277428824423"
 favicon: /images/favicon-minlaw.ico
 google_analytics: UA-10405444-22
 permalink: none
@@ -40,16 +40,20 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 colors:
-  primary-color: '#a40935'
-  secondary-color: '#a40935'
+  primary-color: "#a40935"
+  secondary-color: "#a40935"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#744d9f"
     - title: media-color-three
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
