@@ -1,8 +1,8 @@
 logo: /images/mlaw-logo.png
 links:
-  - title: 'About Us'
+  - title: About Us
     url: /about-us/
   - title: Articles
     resource_room: true
-  - title: 'Contact Us'
+  - title: Contact Us
     url: /contact-us/
