@@ -80,7 +80,13 @@ at Gardens by the Bay</p>
 <p>About 80 volunteers comprising wheelchair users, facilitators and guests
 participated in the final BFA pilot testing session at Orchard Road, which
 started at Temasek Shophouse</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Eric_Chua_joined_the_barrier_free_access_routes_mapped_out_in_the_Orchard_Road_precinct.png">
+</div>
+<p>Mr Eric Chua, Senior Parliamentary Secretary, Ministry of Culture, Community
+&amp; Youth and Ministry of Social &amp; Family Development joined the
+final pilot testing session to assess the barrier-free access routes mapped
+out in the Orchard Road precinct</p>
 <p></p>
 <p><strong><em>Insight MinLaw: What was the impetus and the factors considered behind the development of LTP?</em></strong>
 </p>
@@ -226,7 +232,4 @@ from burn-out.</p>
 <p><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-05-05-the-future-is-legaltech" rel="noopener noreferrer nofollow" target="new"><u>The Future is LegalTech</u></a> 
 <br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" rel="noopener noreferrer nofollow" target="new"><u>In Conversation with: Dean Simon Chesterman</u></a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLA_staff_assisting_a_wheelchair_user.jpg">
-</div>
 <p></p>
