@@ -138,8 +138,8 @@ obtain feedback to finetune the solution and methodology with each iteration”.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_from_the_Digital_Local_Connect_platform.png">
 </div>
 <center><p>Screenshot from the Digital Local Connect platform showing health and
-social services around Ang Mo Kio Credits: Courtesy of MOH Office for Healthcare
-Transformation</p></center>
+	social services around Ang Mo Kio </p>Credits: Courtesy of MOH Office for Healthcare
+Transformation<p></p></center>
 <p>In line with the Healthier SG movement, SLA is collaborating with MOH
 Office for Healthcare Transformation (MOHT) on Digital Local Connect (DLC),
 an innovative digital platform that serves as a comprehensive ‘pocket guide
