@@ -153,52 +153,15 @@ version of DLC. The DLC is expected to be progressively rolled out to other
 precincts to enhance existing care and support for residents. This initiative
 aligns with SLA’s efforts to mainstream geospatial capabilities in sectors
 such as healthcare to promote inclusivity, preventive healthcare, and innovation.</p>
+<p><strong>Embracing Geospatial Technologies in Everyday Lives</strong>
+</p>
+<p>The Geospatial Master Plan (2024 – 2033) envisions a transformative future
+where healthcare is seamlessly integrated into our daily lives and navigation
+is easy for everyone. SLA continues to push the boundaries of geospatial
+data and technology, paving the way for a healthier, more inclusive and
+more connected society.</p>
 <p></p>
-<p><strong><em>Insight MinLaw: What future developments can we look forward to in terms of the LTP? And what is the vision for the LTPI?</em></strong>
-</p>
-<p>Matt: We have come a long way in a short period of time. But we are not
-done! Our commitment to Singapore firms is that we will keep listening
-and keep responding. Some of the areas we are prioritising right now include
-linking up with Government and public systems, like SingPass. We have also
-heard some requests for integrations or features to help streamline Know
-Your Customer and Anti-Money Laundering software. That is something we
-are also actively exploring.</p>
-<p>Finally, we continue to add depth and breadth to the native features of
-the platform itself. One of our most popular features is Matter Templates
-– think of these as pre-built matters that help automate matter setup,
-accelerate the process, and reduce risks. We are looking to add more Singapore-specific
-content to the library, so stay tuned.</p>
-<p>Most importantly, our message to Singapore law firms is – to keep the
-ideas coming! The LTP exists to help make things easier and efficient for
-the benefit of you and your clients – and this is your opportunity to tell
-us what you would like to see. Your ideas will shape the future of the
-LTP.</p>
-<p>Alyssa: We hope that availing an easy to use, low-cost, “one-stop solution”
-that could fulfil most of the law firms’ digitalisation needs will accelerate
-the digitalisation journeys of the Singapore law firms. At the firm-level,
-law firms can benefit from productivity gains and operational resilience.
-At the industry level, it brings us closer to our ambitions of modernising
-the Singapore legal sector and spurring more legal technology innovation
-here.&nbsp;&nbsp;</p>
-<p><strong><em>Insight MinLaw: Do you think there will come a day when lawyers are replaced by technology? Why?</em></strong>
-</p>
-<p>Alyssa: The short answer is no, at least not in our lifetime.</p>
-<p>There is still a lot of room to leverage technology for the more standardised
-and repetitive work, such as drafting legal letters, billing and accounting.
-According to a report by Deloitte, 39% of legal jobs can be automated.
-For complex work though, such as a multi-billion-dollar Mergers &amp; Acquisitions
-transaction, or in mediation and arbitration, which requires a high level
-of reasoning, creativity, and emotional intelligence, chances are that
-people would still be more comfortable with their trusted legal professionals.</p>
-<p>We should see technology as augmenting and enhancing what our lawyers
-have to offer, because what it does is it enables our lawyers to improve
-the quality of their work, free them up to do higher value-add work and
-service their clients better.</p>
-<p>So really, what technology does is it not only does not replace lawyers’
-work, but in fact reduces laborious and repetitive manual work which are
-less meaningful to them, so that they don’t waste their time and suffer
-from burn-out.</p>
-<p>Last updated on 1 Aug 2022
+<p>Last updated on 25 Sept 2022
 <br>
 <br><strong>Other stories you may like:</strong>
 </p>
