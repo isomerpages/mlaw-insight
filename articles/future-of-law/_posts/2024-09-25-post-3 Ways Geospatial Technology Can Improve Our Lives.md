@@ -68,22 +68,22 @@ which was eventually launched for public access on 6 March 2024.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLA_staff_assisting_a_wheelchair_user.jpg">
 </div>
-<p>SLA staff assisting a wheelchair user during the pilot testing session
-at Gardens by the Bay</p>
+<center><p>SLA staff assisting a wheelchair user during the pilot testing session
+at Gardens by the Bay</p></center>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/80_volunteers_comprising_wheelchair_users.jpg">
 </div>
-<p>About 80 volunteers comprising wheelchair users, facilitators and guests
+<center><p>About 80 volunteers comprising wheelchair users, facilitators and guests
 participated in the final BFA pilot testing session at Orchard Road, which
-started at Temasek Shophouse</p>
+started at Temasek Shophouse</p></center>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Eric_Chua_joined_the_barrier_free_access_routes_mapped_out_in_the_Orchard_Road_precinct.png">
 </div>
-<p>Mr Eric Chua, Senior Parliamentary Secretary, Ministry of Culture, Community
+<center><p>Mr Eric Chua, Senior Parliamentary Secretary, Ministry of Culture, Community
 &amp; Youth and Ministry of Social &amp; Family Development joined the
 final pilot testing session to assess the barrier-free access routes mapped
-out in the Orchard Road precinct</p>
+out in the Orchard Road precinct</p></center>
 <p>Moving forward, SLA and SBS Transit are working together to create more
 barrier-free routes around public transport areas. SLA’s Senior Manager
 of Geospatial Systems &amp; Technology, Andy Tan, shared that SLA is also
@@ -125,7 +125,7 @@ social prescriptions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Living_Asset_Map.png">
 </div>
-<p>The Living Asset Map enables social prescribing</p>
+<center><p>The Living Asset Map enables social prescribing</p></center>
 <p>Megan Ann Pang, who was then the Geospatial Manager of Geospatial Planning
 &amp; Services at SLA working on the project said: “SLA built the Living
 Asset Map in an iterative manner and engaged SingHealth Community Hospitals
@@ -137,9 +137,9 @@ obtain feedback to finetune the solution and methodology with each iteration”.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_from_the_Digital_Local_Connect_platform.png">
 </div>
-<p>Screenshot from the Digital Local Connect platform showing health and
+<center><p>Screenshot from the Digital Local Connect platform showing health and
 social services around Ang Mo Kio Credits: Courtesy of MOH Office for Healthcare
-Transformation</p>
+Transformation</p></center>
 <p>In line with the Healthier SG movement, SLA is collaborating with MOH
 Office for Healthcare Transformation (MOHT) on Digital Local Connect (DLC),
 an innovative digital platform that serves as a comprehensive ‘pocket guide
