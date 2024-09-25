@@ -55,18 +55,19 @@ of Muscular Dystrophy Association, shared.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLA_Judy_Wee_OneMap.png">
 </div>
 <p>Ms Judy Wee using the barrier-frfee access route feature on OneMap</p>
-<p>Alyssa: In our engagements with the industry, many lawyers highlighted
-a range of challenges that cause inefficiencies in their daily workflows.
-These include having to toggle among various communication mediums like
-messaging applications, emails, and Microsoft Teams with clients, because
-it requires additional effort to track and document essential information
-for cases. Lawyers also struggle to consistently track down the amount
-of work and level of profitability for each client’s case in real time.&nbsp;&nbsp;</p>
-<p>While there are many tools available in the market, most tools are designed
-for discrete functions and do not allow lawyers to have a single, consolidated
-view of their matters. In addition, Small and Medium Practices (SMPs) may
-not be resourced from a cost and expertise point of view, to be able to
-effectively curate suitable solutions.</p>
+<p>In a collaboration with SG Enable and Gardens by the Bay, Singapore Land
+Authority (SLA) introduced a pilot app to develop the BFA function on OneMap,
+to help wheelchair users navigate around more easily by providing an additional
+routing option that includes covered linkways, ramps, footpaths, pedestrian
+crossings, and overhead bridges with lifts.</p>
+<p>Over 100 wheelchair users tested the BFA function on the pilot app across
+four sessions, in locations including Gardens by the Bay, Orchard Road,
+Ang Mo Kio and Bukit Merah. SLA collected information on the data landscape
+and coded the algorithm to enable wheelchair users to have a safe and smooth
+journey on the walking paths. Based on the feedback gathered, SLA then
+integrated the solutions onto the BFA routing feature on the OneMap app,
+which was eventually launched for public access on 6 March 2024.</p>
+<p></p>
 <p><strong><em>Insight MinLaw: What was the impetus and the factors considered behind the development of LTP?</em></strong>
 </p>
 <p>Alyssa: The LTP is conceptualised with lawyers and law firms in mind and
