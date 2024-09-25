@@ -90,7 +90,7 @@ of Geospatial Systems &amp; Technology, Andy Tan, shared that SLA is also
 expanding the BFA function to include interior navigation of buildings.
 “In addition, the upcoming iOS version will enable more users to access
 the BFA function,” he added.</p>
-<p><strong>1. Pioneering Preventive Healthcare for a Healthier Future</strong>
+<p><strong>2. Pioneering Preventive Healthcare for a Healthier Future</strong>
 </p>
 <p>Social prescribing is an innovative model of care that goes beyond medical
 solutions and takes into account social determinants of health, with a
@@ -131,7 +131,7 @@ social prescriptions.</p>
 Asset Map in an iterative manner and engaged SingHealth Community Hospitals
 throughout the process. SLA conducted several rounds of user testing to
 obtain feedback to finetune the solution and methodology with each iteration”.</p>
-<p><strong><em>Insight MinLaw: Tell us more about the funding programme and other ways in which MinLaw is supporting law firms’ onboarding to the LTP?</em></strong>
+<p><strong>3. Navigating Health and Social Services with Ease</strong>
 </p>
 <p>Alyssa: Cost is an important consideration for law firms when it comes
 to digital adoption. For the LTP, we partnered with Infocomm Media Development
