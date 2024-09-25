@@ -125,33 +125,12 @@ social prescriptions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Living_Asset_Map.png">
 </div>
-<p><strong><em>Insight MinLaw: What do you think differentiates the LTP from other LegalTech platforms?</em></strong>
-</p>
-<p>Alyssa: I think what sets the LTP apart is the co-creation approach MinLaw
-has taken to develop the LTP. It is a continual process which involves
-an established active feedback loop with the legal community, to test and
-provide their insights and suggestions to refine the platform.</p>
-<p>It was through this process that we identified important Singapore-specific
-features, such as the WhatsApp integration I mentioned earlier, and have
-comments consolidated on the LTP. As far as we know, such an integration
-is an industry-first, because we heard our lawyers say that WhatsApp is
-a mode of communication that clients here commonly use.</p>
-<p>Moving forward, we will build more Singapore-specific features, such as
-linkages to public systems including eLitigation– which will be made available
-later. The enhanced access allows lawyers to be more efficient in using
-these systems. Such integrations are possible only with the strong support
-of the Government and public institutions.</p>
-<p><strong><em>Insight MinLaw: What was your experience like collaborating with MinLaw? Was there a eureka moment? Tell us what went on behind the scenes.</em></strong>
-</p>
-<p>Matt: I remember reading MinLaw’s Technology and Innovation Roadmap back
-in late 2020, thinking how unique it was for the public sector to be getting
-behind legal technology for the benefit of law firms and their clients.
-It is the only country I can think of where such support and backing exists.</p>
-<p>Of course, a roadmap is one thing – delivering on it is another – and
-there has been a huge amount of hard work in the background over several
-months, from MinLaw, Lupl, various industry groups and our integration
-partner companies such as Tessaract, Clio, LexisNexis, iManage, Net Documents
-and others.</p>
+<p>The Living Asset Map enables social prescribing</p>
+<p>Megan Ann Pang, who was then the Geospatial Manager of Geospatial Planning
+&amp; Services at SLA working on the project said: “SLA built the Living
+Asset Map in an iterative manner and engaged SingHealth Community Hospitals
+throughout the process. SLA conducted several rounds of user testing to
+obtain feedback to finetune the solution and methodology with each iteration”.</p>
 <p><strong><em>Insight MinLaw: Tell us more about the funding programme and other ways in which MinLaw is supporting law firms’ onboarding to the LTP?</em></strong>
 </p>
 <p>Alyssa: Cost is an important consideration for law firms when it comes
