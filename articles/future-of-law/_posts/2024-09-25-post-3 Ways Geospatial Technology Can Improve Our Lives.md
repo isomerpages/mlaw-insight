@@ -39,7 +39,7 @@ needs.</p>
 </div>
 <p>SLA capturing and mapping geospatial information</p>
 <p></p>
-<p><strong>1.   Mapping Paths to Inclusive Communities     </strong>
+<p><strong>1. Mapping Paths to Inclusive Communities</strong>
 </p>
 <p>In the past, wheelchair user Ms Judy Wee found it necessary to ask friends
 or do a precheck to find out whether a place was wheelchair accessible.
@@ -90,7 +90,7 @@ of Geospatial Systems &amp; Technology, Andy Tan, shared that SLA is also
 expanding the BFA function to include interior navigation of buildings.
 “In addition, the upcoming iOS version will enable more users to access
 the BFA function,” he added.</p>
-<p><strong>1.   Pioneering Preventive Healthcare for a Healthier Future     </strong>
+<p><strong>1. Pioneering Preventive Healthcare for a Healthier Future</strong>
 </p>
 <p>Social prescribing is an innovative model of care that goes beyond medical
 solutions and takes into account social determinants of health, with a
@@ -122,7 +122,9 @@ Secondly, a data management tool to enable these data to be verified. Lastly,
 a web map that practitioners of social prescribing can use to connect their
 patients with the relevant community assets as part of their personalised
 social prescriptions.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Living_Asset_Map.png">
+</div>
 <p><strong><em>Insight MinLaw: What do you think differentiates the LTP from other LegalTech platforms?</em></strong>
 </p>
 <p>Alyssa: I think what sets the LTP apart is the co-creation approach MinLaw
@@ -215,4 +217,5 @@ from burn-out.</p>
 <p><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-05-05-the-future-is-legaltech" rel="noopener noreferrer nofollow" target="new"><u>The Future is LegalTech</u></a> 
 <br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" rel="noopener noreferrer nofollow" target="new"><u>In Conversation with: Dean Simon Chesterman</u></a>
 </p>
+<p></p>
 <p></p>
