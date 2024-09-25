@@ -68,6 +68,20 @@ journey on the walking paths. Based on the feedback gathered, SLA then
 integrated the solutions onto the BFA routing feature on the OneMap app,
 which was eventually launched for public access on 6 March 2024.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLA_staff_assisting_a_wheelchair_user.jpg">
+</div>
+<p>SLA staff assisting a wheelchair user during the pilot testing session
+at Gardens by the Bay</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/80_volunteers_comprising_wheelchair_users.jpg">
+</div>
+<p>About 80 volunteers comprising wheelchair users, facilitators and guests
+participated in the final BFA pilot testing session at Orchard Road, which
+started at Temasek Shophouse</p>
+<p></p>
+<p></p>
 <p><strong><em>Insight MinLaw: What was the impetus and the factors considered behind the development of LTP?</em></strong>
 </p>
 <p>Alyssa: The LTP is conceptualised with lawyers and law firms in mind and
@@ -212,3 +226,7 @@ from burn-out.</p>
 <p><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-05-05-the-future-is-legaltech" rel="noopener noreferrer nofollow" target="new"><u>The Future is LegalTech</u></a> 
 <br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" rel="noopener noreferrer nofollow" target="new"><u>In Conversation with: Dean Simon Chesterman</u></a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLA_staff_assisting_a_wheelchair_user.jpg">
+</div>
+<p></p>
