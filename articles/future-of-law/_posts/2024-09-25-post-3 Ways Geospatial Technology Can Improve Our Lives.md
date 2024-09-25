@@ -39,11 +39,8 @@ needs.</p>
 </div>
 <p>SLA capturing and mapping geospatial information</p>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Mapping Paths to Inclusive Communities</p>
-</li>
-</ol>
+<p><strong>1.   Mapping Paths to Inclusive Communities     </strong>
+</p>
 <p>In the past, wheelchair user Ms Judy Wee found it necessary to ask friends
 or do a precheck to find out whether a place was wheelchair accessible.
 She found that sometimes, even upon arrival, locating ramps was difficult.</p>
@@ -87,59 +84,45 @@ started at Temasek Shophouse</p>
 &amp; Youth and Ministry of Social &amp; Family Development joined the
 final pilot testing session to assess the barrier-free access routes mapped
 out in the Orchard Road precinct</p>
+<p>Moving forward, SLA and SBS Transit are working together to create more
+barrier-free routes around public transport areas. SLA’s Senior Manager
+of Geospatial Systems &amp; Technology, Andy Tan, shared that SLA is also
+expanding the BFA function to include interior navigation of buildings.
+“In addition, the upcoming iOS version will enable more users to access
+the BFA function,” he added.</p>
+<p><strong>1.   Pioneering Preventive Healthcare for a Healthier Future     </strong>
+</p>
+<p>Social prescribing is an innovative model of care that goes beyond medical
+solutions and takes into account social determinants of health, with a
+view towards fostering better health and well-being outcomes for individuals.
+Social determinants of health are conditions in the environments where
+people are born, live, learn, work, play and age that affect a wide range
+of health and quality-of-life outcomes.</p>
+<p>Wellbeing coordinators (WBCs), the integral workforce behind SingHealth
+Community Hospitals’ (SCH) social prescribing efforts, collaborate with
+both patients and multi-disciplinary clinical teams to co-develop personalised
+social prescriptions, which aim to link the patients to an asset in the
+community – be it an active ageing centre, an activity with the resident’s
+network or a person, or a community group active in a specific, meaningful
+social activity.</p>
+<p>The Living Asset Map, a collaboration between SLA and SCH, aims to enable
+social prescribing by building a dynamic asset mapping methodology that
+best leverages geospatial technology to capture information that has been
+crowdsourced through community walks. It seeks to connect patients to a
+range of community assets to improve their health and well-being. These
+include community groups that forge social connections, activity-based
+groups that promote health-social integration and volunteer groups to engage
+seniors purposefully.</p>
+<p>The Living Asset Map was awarded the ESRI GeoInnovation Award 2024, for
+innovative geospatial solutions in preventive healthcare delivery. The
+design of the Living Asset Map encompasses three main parts. Firstly, a
+data collection tool to allow those in the controlled crowdsourcing group
+to capture information such as location, time of programme and images.
+Secondly, a data management tool to enable these data to be verified. Lastly,
+a web map that practitioners of social prescribing can use to connect their
+patients with the relevant community assets as part of their personalised
+social prescriptions.</p>
 <p></p>
-<p><strong><em>Insight MinLaw: What was the impetus and the factors considered behind the development of LTP?</em></strong>
-</p>
-<p>Alyssa: The LTP is conceptualised with lawyers and law firms in mind and
-meant to address their pain points, and targeted to directly help SMPs.
-It is designed around lawyers’ typical matter workflows so that it is intuitive
-to use. As a cloud/browser-based solution, it minimises the need for law
-firms to set up specialised IT expertise to manage the firm’s technology
-suite.</p>
-<p>At the same time, we made sure that the LTP is integrated with other commonly
-used legaltech tools, to ensure that it caters to the needs of legal firms
-at various stages of digitalisation. Law firms which are just starting
-their digitalisation journey can easily choose and onboard a comprehensive
-suite of technology tools which are already widely accepted by the market.
-The inter-operability with existing legaltech tools also makes it easier
-for law firms with existing solutions to come onboard seamlessly.</p>
-<p>Matt: We spent several months just listening to lawyers at Singapore law
-firms, working closely with MinLaw and consulting with key industry groups
-in Law Society and others. We wanted to make sure we had a deeper understanding
-of their workflows, current technology systems, and the key challenges.
-That input directly shaped the features for the LTP.</p>
-<p>For example, we heard a lot from lawyers about the importance of data
-protection, and how data localisation will provide additional comfort,
-that is why the LTP is hosted in Singapore. Similarly, every lawyer we
-spoke to mentioned that their clients increasingly tend to communicate
-with them via WhatsApp – more so than in any other jurisdiction we have
-come across.</p>
-<p>For that reason, we built a WhatsApp integration, which allows lawyers
-to meet clients where they are, without sacrificing security and compliance.
-This iterative development process is never complete – it is a constant
-progress. Currently, we are experiencing a high demand for more connectivity
-with Government and public data systems, such as &nbsp;eLitigation, and
-this is next on our development roadmap.</p>
-<p>Dashboard view of LTP (Credit: <a href="https://youtu.be/Etwv6e1utgg" rel="noopener noreferrer nofollow" target="_blank"><u>https://ltpi.mlaw.gov.sg/ltp</u></a>)</p>
-<p><strong><em>Insight MinLaw: Why launch the initiative now?</em></strong>
-</p>
-<p>Alyssa: Digitalisation has been a multi-year effort for MinLaw. Since
-2017, MinLaw has embarked on various efforts to encourage digitalisation,
-particularly among the SMPs. Most of the earlier initiatives were targeted
-at extending grants that subsidised the costs of onboarding selected digital
-solutions.</p>
-<p>However, the pain points experienced by law firms during technology adoption
-go beyond the dollars and cents. A key challenge lies in the lack of the
-economies-of-scale to effectively identify, curate, and deploy technology
-solutions. This calls for a more direct form of support by providing the
-actual solutions that can address the digitalisation challenges faced by
-the industry.</p>
-<p>The timing is right for a more direct support like the LTP, because the
-COVID-19 pandemic has renewed the industry’s interest and appetite in technology
-adoption. During the Circuit Breaker period, many SMPs found it challenging
-to continue with their business operations as they lacked the digital means
-to transit fully into remote working. With this experience in mind, SMPs
-have become more open to adopting legal technology.</p>
 <p><strong><em>Insight MinLaw: What do you think differentiates the LTP from other LegalTech platforms?</em></strong>
 </p>
 <p>Alyssa: I think what sets the LTP apart is the co-creation approach MinLaw
