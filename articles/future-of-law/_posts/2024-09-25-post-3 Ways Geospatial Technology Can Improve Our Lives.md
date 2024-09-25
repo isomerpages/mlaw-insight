@@ -133,18 +133,27 @@ throughout the process. SLA conducted several rounds of user testing to
 obtain feedback to finetune the solution and methodology with each iteration”.</p>
 <p><strong>3. Navigating Health and Social Services with Ease</strong>
 </p>
-<p>Alyssa: Cost is an important consideration for law firms when it comes
-to digital adoption. For the LTP, we partnered with Infocomm Media Development
-Authority and Enterprise SG to roll out a funding programme where law firms
-can obtain substantial support, up to 70% for up to two years. This will
-help them significantly in lowering the initial costs of adoption.</p>
-<p>Apart from funding, our technology provider, Lupl, has also provided a
-dedicated onboarding and customer success team to guide the law firms adopting
-the solution. There is also 24/7 tech support to address issues timely.
-All these go towards ensuring a smooth and seamless onboarding process
-to the LTP for law firms.</p>
 <p></p>
-<p>Participant finding out more about LTP at the launch event</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_from_the_Digital_Local_Connect_platform.png">
+</div>
+<p>Screenshot from the Digital Local Connect platform showing health and
+social services around Ang Mo Kio Credits: Courtesy of MOH Office for Healthcare
+Transformation</p>
+<p>In line with the Healthier SG movement, SLA is collaborating with MOH
+Office for Healthcare Transformation (MOHT) on Digital Local Connect (DLC),
+an innovative digital platform that serves as a comprehensive ‘pocket guide
+resource library,’ for community partners and grassroots volunteers to
+direct residents to information about local health and social services.
+Whether it is finding key healthcare services such as GPs or dental clinics,
+or locating support services nearby, DLC allows users to easily identify
+and access these essential resources.</p>
+<p>Yio Chu Kang was the first precinct on the island to roll out a localised
+version of DLC. The DLC is expected to be progressively rolled out to other
+precincts to enhance existing care and support for residents. This initiative
+aligns with SLA’s efforts to mainstream geospatial capabilities in sectors
+such as healthcare to promote inclusivity, preventive healthcare, and innovation.</p>
+<p></p>
 <p><strong><em>Insight MinLaw: What future developments can we look forward to in terms of the LTP? And what is the vision for the LTPI?</em></strong>
 </p>
 <p>Matt: We have come a long way in a short period of time. But we are not
@@ -196,5 +205,6 @@ from burn-out.</p>
 <p><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-05-05-the-future-is-legaltech" rel="noopener noreferrer nofollow" target="new"><u>The Future is LegalTech</u></a> 
 <br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" rel="noopener noreferrer nofollow" target="new"><u>In Conversation with: Dean Simon Chesterman</u></a>
 </p>
+<p></p>
 <p></p>
 <p></p>
