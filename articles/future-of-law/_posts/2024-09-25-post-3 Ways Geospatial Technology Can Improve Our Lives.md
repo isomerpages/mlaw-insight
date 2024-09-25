@@ -166,7 +166,7 @@ more connected society.</p>
 <br><strong>Other stories you may like:</strong>
 </p>
 <p><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-05-05-the-future-is-legaltech" rel="noopener noreferrer nofollow" target="new"><u>Will LegalTech replace lawyers?</u></a> 
-<br><a href="https://insight.mlaw.gov.sg/articles/future-of-law/2021-10-27-in-conversation-with-dean-simon-chesterman" rel="noopener noreferrer nofollow" target="new"><u>Getting to the Heart of Community Conflictsn</u></a>
+<br><a href="https://insight.mlaw.gov.sg/articles/our-people/2022-03-18-getting-to-the-heart-of-community-conflicts/" rel="noopener noreferrer nofollow" target="new"><u>Getting to the Heart of Community Conflicts</u></a>
 </p>
 <p></p>
 <p></p>
