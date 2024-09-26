@@ -51,7 +51,7 @@ of Muscular Dystrophy Association, shared.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLA_Judy_Wee_OneMap.png">
 </div>
-<p>Ms Judy Wee using the barrier-frfee access route feature on OneMap</p>
+<p>Ms Judy Wee using the barrier-free access route feature on OneMap</p>
 <p>In a collaboration with SG Enable and Gardens by the Bay, Singapore Land
 Authority (SLA) introduced a pilot app to develop the BFA function on OneMap,
 to help wheelchair users navigate around more easily by providing an additional
