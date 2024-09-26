@@ -37,7 +37,7 @@ needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<center><p>SLA capturing and mapping geospatial information</p></center>
+<center><p><i>SLA capturing and mapping geospatial information</i></p></center>
 <p></p>
 <p><strong>1. Mapping Paths to Inclusive Communities</strong>
 </p>
@@ -51,7 +51,7 @@ of Muscular Dystrophy Association, shared.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLA_Judy_Wee_OneMap.png">
 </div>
-<center><p>Ms Judy Wee using the barrier-free access route feature on OneMap</p></center>
+<center><p><i>Ms Judy Wee using the barrier-free access route feature on OneMap</i></p></center>
 <p>In a collaboration with SG Enable and Gardens by the Bay, Singapore Land
 Authority (SLA) introduced a pilot app to develop the BFA function on OneMap,
 to help wheelchair users navigate around more easily by providing an additional
@@ -68,22 +68,22 @@ which was eventually launched for public access on 6 March 2024.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLA_staff_assisting_a_wheelchair_user.jpg">
 </div>
-<center><p>SLA staff assisting a wheelchair user during the pilot testing session
-at Gardens by the Bay</p></center>
+<center><p><i>SLA staff assisting a wheelchair user during the pilot testing session
+at Gardens by the Bay</i></p></center>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/80_volunteers_comprising_wheelchair_users.jpg">
 </div>
-<center><p>About 80 volunteers comprising wheelchair users, facilitators and guests
+<center><p><i>About 80 volunteers comprising wheelchair users, facilitators and guests
 participated in the final BFA pilot testing session at Orchard Road, which
-started at Temasek Shophouse</p></center>
+started at Temasek Shophouse</i></p></center>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Eric_Chua_joined_the_barrier_free_access_routes_mapped_out_in_the_Orchard_Road_precinct.png">
 </div>
-<center><p>Mr Eric Chua, Senior Parliamentary Secretary, Ministry of Culture, Community
+<i><center><p>Mr Eric Chua, Senior Parliamentary Secretary, Ministry of Culture, Community
 &amp; Youth and Ministry of Social &amp; Family Development joined the
 final pilot testing session to assess the barrier-free access routes mapped
-out in the Orchard Road precinct</p></center>
+out in the Orchard Road precinct</p></center></i>
 <p>Moving forward, SLA and SBS Transit are working together to create more
 barrier-free routes around public transport areas. SLA’s Senior Manager
 of Geospatial Systems &amp; Technology, Andy Tan, shared that SLA is also
@@ -125,7 +125,7 @@ social prescriptions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Living_Asset_Map.png">
 </div>
-<center><p>The Living Asset Map enables social prescribing</p></center>
+<center><p><i>The Living Asset Map enables social prescribing</i></p></center>
 <p>Megan Ann Pang, who was then the Geospatial Manager of Geospatial Planning
 &amp; Services at SLA working on the project said: “SLA built the Living
 Asset Map in an iterative manner and engaged SingHealth Community Hospitals
@@ -137,9 +137,9 @@ obtain feedback to finetune the solution and methodology with each iteration”.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_from_the_Digital_Local_Connect_platform.png">
 </div>
-<center><p>Screenshot from the Digital Local Connect platform showing health and
-social services around Ang Mo Kio</p></center>
-<center><p>Credits: Courtesy of MOH Office for Healthcare Transformation</p></center>
+<center><p><i>Screenshot from the Digital Local Connect platform showing health and
+social services around Ang Mo Kio</i></p></center>
+<center><p><i>Credits: Courtesy of MOH Office for Healthcare Transformation</i></p></center>
 <p></p>
 <p>In line with the Healthier SG movement, SLA is collaborating with MOH
 Office for Healthcare Transformation (MOHT) on Digital Local Connect (DLC),
