@@ -5,7 +5,7 @@ date: 2024-09-25
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>3 Ways Geospatial Technology Can Improve Our Lives</strong></h3>
 <p><em>Insight MinLaw goes behind the scenes to uncover stories about how the work we do impacts you.</em> 
