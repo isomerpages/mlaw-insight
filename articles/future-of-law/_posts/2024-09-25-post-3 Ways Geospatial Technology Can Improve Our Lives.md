@@ -162,7 +162,7 @@ is easy for everyone. SLA continues to push the boundaries of geospatial
 data and technology, paving the way for a healthier, more inclusive and
 more connected society.</p>
 <p></p>
-<p>Last updated on 25 Sept 2022
+<p>Last updated on 26 Sept 2024
 <br>
 <br><strong>Other stories you may like:</strong>
 </p>
