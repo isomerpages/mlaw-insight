@@ -80,10 +80,10 @@ started at Temasek Shophouse</i></p></center>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Eric_Chua_joined_the_barrier_free_access_routes_mapped_out_in_the_Orchard_Road_precinct.png">
 </div>
-<i><center><p>Mr Eric Chua, Senior Parliamentary Secretary, Ministry of Culture, Community
+<p><i></i></p><center><i>Mr Eric Chua, Senior Parliamentary Secretary, Ministry of Culture, Community
 &amp; Youth and Ministry of Social &amp; Family Development joined the
 final pilot testing session to assess the barrier-free access routes mapped
-out in the Orchard Road precinct</p></center></i>
+out in the Orchard Road precinct</i></center><p></p>
 <p>Moving forward, SLA and SBS Transit are working together to create more
 barrier-free routes around public transport areas. SLA’s Senior Manager
 of Geospatial Systems &amp; Technology, Andy Tan, shared that SLA is also
