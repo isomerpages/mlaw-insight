@@ -63,11 +63,6 @@ to ensure a well-rounded experience. "The firms were very generous in terms
 of spending their time and bringing us around, showing us Shanghai," said
 Davis.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_SH_Lawyers_Exchange_Grace_Giving_Speech.jpg">
-</div>
-<p>Grace giving a speech at the opening ceremony</p>
-<p></p>
 <h4>Navigating Cultural Differences</h4>
 <p>Just as places and communities have different ways of addressing people
 or describing everyday items, the legal industry in Shanghai comes with
@@ -83,6 +78,10 @@ cards, do ensure you save the image of that e-name card, as WeChat will
 wipe them after some time. If you need to contact that person again, it
 might be a little awkward if you don’t know their name, as you would only
 have their WeChat handle to refer to.”</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_SH_Lawyers_Exchange_Grace_Giving_Speech.jpg">
+</div>
+<p>Grace giving a speech at the opening ceremony</p>
 <p></p>
 <p>As deputy leader, Grace was asked to give an opening speech on behalf
 of the Singapore delegation and she pushed herself to increase her fluency
