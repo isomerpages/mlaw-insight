@@ -156,7 +156,7 @@ Chinese professional and social environments.</p>
 having a meal together</p>
 <h4>Creating The Next Wave</h4>
 <p>Want to be part of the next wave of Singapore lawyers to embark on this
-transformative journey to Shanghai? Sign up here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sgsh2026</a>
+transformative journey to Shanghai? Sign up here: <a href="https://go.gov.sg/sgsh2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/sgsh2026</a>
 </p>
 <p>&nbsp;</p>
 <p><strong><em>About the Singapore-Shanghai Lawyers Exchange Programme</em></strong>
