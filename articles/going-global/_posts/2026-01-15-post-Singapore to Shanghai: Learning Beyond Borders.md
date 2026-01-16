@@ -5,7 +5,7 @@ date: 2026-01-15
 layout: post
 description: ""
 image: ""
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Singapore to Shanghai: Learning Beyond Borders</strong></h3>
 <p><em>Insight MinLaw goes behind the scenes to uncover stories about how the work we do impacts you.</em>
@@ -24,7 +24,7 @@ their professional networks.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_SH_Lawyers_Exchange_Zhihe_Partners.jpg">
 </div>
-<p>Grace, Davis and Cheng’An visited local law firms, including Zhihe Partners,
+<p align="center">Grace, Davis and Cheng’An visited local law firms, including Zhihe Partners,
 during their attachment in Shanghai</p>
 <p></p>
 <h4>The Driving Force</h4>
@@ -39,7 +39,7 @@ the confidence to work in an unfamiliar market.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_SH_Lawyers_Exchange_Casual_Networking.jpg">
 </div>
-<p>Cheng’An (centre) and Grace (3<sup>rd</sup> from the right) during a casual
+<p align="center">Cheng’An (centre) and Grace (3<sup>rd</sup> from the right) during a casual
 networking session with Chinese legal professionals</p>
 <p></p>
 <h4>What It's Like in Practice</h4>
@@ -81,7 +81,7 @@ have their WeChat handle to refer to.”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_SH_Lawyers_Exchange_Grace_Giving_Speech.jpg">
 </div>
-<p>Grace giving a speech at the opening ceremony</p>
+<p align="center">Grace giving a speech at the opening ceremony</p>
 <p></p>
 <p>As deputy leader, Grace was asked to give an opening speech on behalf
 of the Singapore delegation and she pushed herself to increase her fluency
@@ -113,7 +113,7 @@ settings but would share more in private settings.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_SH_Lawyers_Exchange_Dinner.jpg">
 </div>
-<p>Welcome dinner hosted by the Shanghai Bar Association for the Singapore
+<p align="center">Welcome dinner hosted by the Shanghai Bar Association for the Singapore
 lawyers</p>
 <p>Being part of a structured programme was also helpful for networking.
 As Cheng’An noted, " It is way easier to make connections as part of an
@@ -152,11 +152,11 @@ Chinese professional and social environments.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_SH_Lawyers_Exchange_SGLawyers_Meals_Tgt.jpg">
 </div>
-<p>Singapore lawyers, Phoebe, Cheng’An, Grace and Davis (from left to right)
+<p align="center">Singapore lawyers, Phoebe, Cheng’An, Grace and Davis (from left to right)
 having a meal together</p>
 <h4>Creating The Next Wave</h4>
 <p>Want to be part of the next wave of Singapore lawyers to embark on this
-transformative journey to Shanghai? Sign up here: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sgsh2026</a>
+transformative journey to Shanghai? Sign up here: <a href="https://go.gov.sg/sgsh2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/sgsh2026</a>
 </p>
 <p>&nbsp;</p>
 <p><strong><em>About the Singapore-Shanghai Lawyers Exchange Programme</em></strong>
